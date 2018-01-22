@@ -1,6 +1,7 @@
 # Welcome to Architecture
 
 Credits: 1
+
 Prerequisites: **NONE**
 
 This course will allow you to explore different terminologies of design as well as the
