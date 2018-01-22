@@ -1,6 +1,9 @@
 # Welcome to Architecture
 
+## Course Summary
+
 **Credits: 1**
+
 **Prerequisites:** NONE
 
 This course will allow you to explore different terminologies of design as well as the
@@ -9,3 +12,5 @@ homes including foundations. The course will be divided into interior and exteri
 cover drawing areas such as floor plans, elevations, sectioning and details. Students will learn the
 different symbols used on a plan and they will investigate standard building supplies used in the
 field.
+
+##
