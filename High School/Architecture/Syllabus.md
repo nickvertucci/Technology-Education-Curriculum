@@ -1,8 +1,7 @@
 # Welcome to Architecture
 
-Credits: 1
-
-Prerequisites: **NONE**
+**Credits: 1**
+**Prerequisites:** NONE
 
 This course will allow you to explore different terminologies of design as well as the
 overall evolution of architecture. Each student will research, sketch, draw, and model residential
