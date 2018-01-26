@@ -1,26 +1,30 @@
-# 8th Grade Technology Curriculum Overview
+# Unit 1 - Introduction and safety
 
-This unit is the opening unit to Technology Education in the 8th grade. The unit is focused on two (2) primary student objectives, introduction to the class and classroom safety.
+This unit is the opening unit to Techology Education in the 8th grade. The unit is focused on two (2) primary student objectives, introduction to the class and classroom safety.
 
-| Unit  | Calendar Schedule |
+| Section  | Calendar Schedule |
 | ------------- | ------------- |
-| Introduction and Safety  | 1 Day  |
-| CO2 Car Design & Production  | 8 Week(s)  |
+| Introduction  | 1 Day  |
+| Safety  | 7 Day(s)  |
 
 
-## Unit 1 - Introduction and Safety
+## Section 1 - Introduction
 
 The introduction section to unit 1 is aligned for one (1) day and reviews the course outline, schedule, grading breakdown and classroom rules and regulations. This day is a complete syllabus review.
 
-- Section 1 - Introduction
-- Section 2 - Safety
+- Lesson Plan Day 1 - Syllabus review
 
-## Unit 2 - CO2 Car Design & Production
+## Section 2 - Safety
 
 The safety section to unit 1 is aligned to review each piece of machinery in the classroom, hand tool safety, and general classroom safety.
 
-- Section 1 - Introduction and Requirements
-- Section 2 - Design and Engineering Process
+- Lesson Plan Day 1 - Hand tool safety
+- Lesson Plan Day 2 - Band saw safety
+- Lesson Plan Day 3 - Drill press safety
+- Lesson Plan Day 4 - Spindle sanders
+- Lesson Plan Day 5 - Classroom cleanup assignments
+- Lesson Plan Day 6 - Overall review
+- Lesson Plan Day 7 - Assessment (safety test)
 
 ## Unit Grading Breakdown
 
