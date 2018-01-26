@@ -5,14 +5,16 @@ This unit is the opening unit to Techology Education in the 8th grade. The unit 
 | Section  | Calendar Schedule |
 | ------------- | ------------- |
 | Introduction  | 1 Day  |
-| Safety  | 6 Day(s)  |
+| Safety  | 7 Day(s)  |
 
 
-## Introduction
+## Section 1 - Introduction
 
 The introduction section to unit 1 is aligned for one (1) day and reviews the course outline, schedule, grading breakdown and classroom rules and regulations. This day is a complete syllabus review.
 
-## Safety
+- Lesson Plan Day 1 - Syllabus review
+
+## Section 2 - Safety
 
 The safety section to unit 1 is aligned to review each piece of machinery in the classroom, hand tool safety, and general classroom safety.
 
@@ -22,6 +24,7 @@ The safety section to unit 1 is aligned to review each piece of machinery in the
 - Lesson Plan Day 4 - Spindle sanders
 - Lesson Plan Day 5 - Classroom cleanup assignments
 - Lesson Plan Day 6 - Overall review
+- Lesson Plan Day 7 - Assessment (safety test)
 
 ## Unit Grading Breakdown
 
