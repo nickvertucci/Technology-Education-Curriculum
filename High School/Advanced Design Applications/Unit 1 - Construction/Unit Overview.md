@@ -1,28 +1,24 @@
-# Design and Drawing for Production
-Course #1220 | 1 Credit | Prerequisite: NONE
-  - *May be taken for Regents credit to satisfy the High School Art/Music requirement.*
+# Unit 1 - construction
 
-## Course Syllabus
+## The Big Idea
+Construction techniques and processes vary with different settings.
 
-  - Mr. Nick Vertucci
-  - nvertucci@swr.k12.ny.us
-  - Extra Help: by appointment
+#### Teacher's Note
 
-### Course Description
+Big ideas should be made explicit to students by writing them on the board, reading them aloud, and/or posting them on worksheets associated with the lessons. For deeper understanding, have students write the Big Idea in their own Engineering Design Journal (EDJ), using their own words if they choose.
 
-Ever tried to design something new or draw up an idea you wanted to share with your
-friends and wondered how you could communicate your idea? Have you wondered how
-someone designed that new gadget or sleek new smartphone? Then this course is for you. This
-introductory problem-solving course covers six concept areas in technical drawing required to
-produce quality mechanical drawings and actual production of their design. The assignments
-begin with basic drafting techniques, progress to some design problems, and illustrations that
-culminate with a model. This “hands on” method of instruction presents an effective design
-solution for student understanding. Students will use the tools of the draftsperson and the
-required woodworking equipment to complete these projects. The student receives instruction to
-help them gain competence in two and three view, section and isometric drawings. In addition,
-you will use SketchUp, a 3D design software package from Google, to help you design solutions
-to different projects.
+## Enduring Understandings
+The Construction Unit focuses on nine enduring understandings. Students will be able to:
 
-### Course Objectives
+- Recognize that technological progression is driven by a number of factors, including individual creativity, product and systems innovations, and human wants and needs.
+- Understand that a technological development for the solution of a problem in one context, can spinoff for use in a variety of often unrelated applications.
+- Recognize that technological change can be positive and/or negative and can have intended and/or unforeseen social, cultural, and environmental consequences.
+- Design technological systems, the components of those systems, and how they fit into the larger technological, economic, and social systems.
+- Identify and analyze compelling and controversial issues associated with the acquisition, development, use, and disposal of resources.
+- Understand that the complexities of technological design involve trade-offs among competing constraints and requirements, including engineering, economic, political, social, and environmental considerations.
+- Use technological design as a systematic process used to initiate and refine ideas, solve problems, and maintain products and systems.
+- Analyze how technological assessment is used to determine the benefits, limitations, and risks associated with existing and proposed technologies.
+- Use a variety of simple and complex technologies.  
 
-### Course Grading
+## Purpose of Unit
+The Construction unit is designed to give students a basic understanding of construction principles and conventions as they relate to Advanced Design Applications.
