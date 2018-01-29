@@ -7,6 +7,8 @@ Section 1 for Unit 9 - Digital Photography starts off with reviewing and going t
 | Assignment  | Calendar Schedule |
 | ------------- | ------------- |
 | Section 1 - Google Drive Organization  | 50 points   |
+| Section 2 - Google Drive uploading  | 50 points   |
+| Section 3 - Google eFolio  | 50 points   |
 
 ### Section Schedule
 
