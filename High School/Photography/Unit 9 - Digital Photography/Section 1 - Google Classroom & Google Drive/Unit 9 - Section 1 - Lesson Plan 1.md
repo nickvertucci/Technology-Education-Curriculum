@@ -2,7 +2,7 @@
 
 # Photography
 
-## Unit [9] | Section [1] | [Google Drive Organization] | Day [#]
+## Unit [9] | Section [1] | Google Drive Organization | Day [1]
 
 ### Objectives
 
