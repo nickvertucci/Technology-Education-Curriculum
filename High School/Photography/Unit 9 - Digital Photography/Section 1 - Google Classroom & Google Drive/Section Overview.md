@@ -10,6 +10,6 @@ Section 1 for Unit 9 - Digital Photography starts off with reviewing and going t
 
 ### Section Schedule
 
-| Assignment  | Calendar Schedule |
+| Assignment  | Calendar Schedule | Lesson Plan
 | ------------- | ------------- |
-| Introduction & Part 1 Design  | January 22nd - January 29th   |
+| Introduction & Part 1 Design  | January 22nd - January 29th   | Unit 9 - Section 1 - Lesson Plan 1   |
