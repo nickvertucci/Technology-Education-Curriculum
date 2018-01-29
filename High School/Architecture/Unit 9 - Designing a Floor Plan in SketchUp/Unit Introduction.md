@@ -26,3 +26,4 @@ Section one will start in SketchUp and a CAD program designed by Google. Here, s
 | Assignment  | Calendar Schedule |
 | ------------- | ------------- |
 | Introduction & SketchUp assignment overview  | December 1st   |
+| Floor plan design in LayOut  | January 22nd - Febuary 2nd    |
