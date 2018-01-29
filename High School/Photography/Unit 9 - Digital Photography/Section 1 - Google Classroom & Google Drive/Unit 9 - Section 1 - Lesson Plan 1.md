@@ -30,6 +30,8 @@ SWBAT:
 
 ### Assignment / Activies
 
+- Create a Photography folder to store all images and assignments to be able to access for the rest of the year including creation of a portfolio
+
 ### Evaluation
 
 ### Added Notes
