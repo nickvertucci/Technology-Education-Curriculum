@@ -1,4 +1,4 @@
-# Daily Lesson Plan Template
+# Daily Lesson Plan
 
 # [CLASS NAME]
 
