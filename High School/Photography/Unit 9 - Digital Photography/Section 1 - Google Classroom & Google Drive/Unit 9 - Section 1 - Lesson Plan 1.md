@@ -15,9 +15,16 @@ SWBAT:
 
 ### Preperation
 
+- Be sure Google Classroom access is available
+- All students are included in the Google Classroom
+
 ### Materials
 
+- N/A
+
 ### Resources
+
+- N/A
 
 ### Instructional Outline
 
