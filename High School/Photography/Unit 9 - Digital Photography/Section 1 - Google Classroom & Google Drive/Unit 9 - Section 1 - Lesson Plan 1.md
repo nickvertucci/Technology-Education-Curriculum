@@ -6,6 +6,13 @@
 
 ### Objectives
 
+SWBAT:
+- Login successfully to Google Classroom
+- Navigate through Google Classroom
+- Locate and navigate to Google Drive
+- Understand Google Drive and how to organize it
+- Create a Google Drive folder
+
 ### Preperation
 
 ### Materials
