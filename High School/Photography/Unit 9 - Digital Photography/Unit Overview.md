@@ -24,6 +24,7 @@ Once all part have been designed in SketchUp and communicated via title blocks i
 | ------------- | ------------- |
 | Section 1 - Google Drive Organization  | 50 points   |
 | Section 1 - Google Drive Image Upload & Submission  | 50 points   |
+| Section 1 - Google Site eFolio  | 50 points   |
 | Section 2 - Google question on Types of Digital Cameras | 25 points   |
 | Section 4 - Google question to define 'image noise'  | 25 points   |
 | Section 5 - Google question to define 'image resolution'  | 25 points   |
@@ -35,11 +36,3 @@ Once all part have been designed in SketchUp and communicated via title blocks i
 | Assignment  | Calendar Schedule |
 | ------------- | ------------- |
 | Introduction & Part 1 Design  | January 22nd - January 29th   |
-| Part 2 Design  | January 29th - February 5th  |
-| Part 3 Design  | February 5th - February 12th |
-| Part 4 Design  | February 12th - February 26th |
-| Part 5 Design  | February 26th - March 5th |
-| Part 6 Design  | March 5th - March 12th |
-| Part 7 Design  | March 12th - March 19th |
-| Presentation Work and Scheduling   | March 19th - March 26th |
-| Presentation Week   | March 26th - March 30th|
