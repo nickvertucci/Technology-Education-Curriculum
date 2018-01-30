@@ -36,4 +36,5 @@ SWBAT:
 
 | Section - Lesson  | Calendar Schedule |
 | ------------- | ------------- |
-| Section 1 - Lesson 1  | January 22nd - January 29th   |
+| Section 1 - Lesson 1  | 2 days   |
+| Section 1 - Lesson 2  | 4 days   |

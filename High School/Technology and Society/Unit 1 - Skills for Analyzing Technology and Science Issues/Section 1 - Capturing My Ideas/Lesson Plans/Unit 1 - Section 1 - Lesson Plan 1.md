@@ -53,10 +53,10 @@ Reflect and write on the following topic: Leonardo da Vinci said, “Feathers wi
 ### Added Notes
 
 Recommendations
-•	Number the pages of your notebook.
-•	Leave several pages blank in the front of the notebook so you can insert a table of contents for easy entry location.
-•	Devise a method for marking sections in the Idea Notebook (e.g. tabs, adhesive notes, paper clips, etc). The first page of a section should be moveable to allow for varying the length of the section. Not all sections need to have the same number of pages.
-•	When you make an error, don’t erase, scribble out, or white-out the error. Simply draw a single line through the word, sentence, or entry and continue writing.
-•	Never tear out pages of your Idea Notebook.
-•	When you start new entries, indicate the date, time, and location of the entry.
-•	Although you should try to use the correct spelling and grammar in the Idea Notebook, it is more important to get your ideas down. The Idea Notebook is not your first or final draft document.
+- Number the pages of your notebook.
+- Leave several pages blank in the front of the notebook so you can insert a table of contents for easy entry location.
+- Devise a method for marking sections in the Idea Notebook (e.g. tabs, adhesive notes, paper clips, etc). The first page of a section should be moveable to allow for varying the length of the section. Not all sections need to have the same number of pages.
+- When you make an error, don’t erase, scribble out, or white-out the error. Simply draw a single line through the word, sentence, or entry and continue writing.
+- Never tear out pages of your Idea Notebook.
+- When you start new entries, indicate the date, time, and location of the entry.
+- Although you should try to use the correct spelling and grammar in the Idea Notebook, it is more important to get your ideas down. The Idea Notebook is not your first or final draft document.
