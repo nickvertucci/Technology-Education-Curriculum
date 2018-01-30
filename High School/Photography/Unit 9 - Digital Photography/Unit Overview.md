@@ -1,22 +1,24 @@
-# Unit 9 - Digital Photography
+# Unit [9] - [Digital Photography]
+
+# Photography
+
+### BIG IDEA
 
 Unit 9 starts our transition into digital photography and discusses how digital photography has revolutionized photography.
 
-## Section 1 - Google Classroom & Google Drive
+### Objectives
 
-## Section 2 - Types of Digital Cameras
+SWBAT:
 
-## Section 3 - History of Digital photography
 
-## Section 4 - Digital Cameras and ISO Film Speeds
+### Section Outline
 
-## Section 5 - Megapixels and Memory Cards
-
-## Section 6 - Transferring and Storing Images
-
-Each company will need to outline their parts that will need to be fabricated. This means providing orthographic views of each part, front, top, right as well as a generated isometric view. Part design will be done solely in SketchUp. Each design will need to be made to scale as a separate file. For each part needing to be designed, it will be 100 points each.
-
-Once all part have been designed in SketchUp and communicated via title blocks in Layout, Each company will then do a formal presentation selling or marketing their parts to Mr. V.
+- Section 1 - Google Classroom & Google Drive
+- Section 2 - Types of Digital Cameras
+- Section 3 - History of Digital photography
+- Section 4 - Digital Cameras and ISO Film Speeds
+- Section 5 - Megapixels and Memory Cards
+- Section 6 - Transferring and Storing Images
 
 ### Unit Grading Breakdown
 

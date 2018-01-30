@@ -1,8 +1,6 @@
-# Daily Lesson Plan Template
+# Unit [#] - Section [#] - [section name]
 
 # [CLASS NAME]
-
-## Unit [#] | Section [#] | [topic] | Day [#]
 
 ### Objectives
 
