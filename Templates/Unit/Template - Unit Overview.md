@@ -1,8 +1,8 @@
-# Daily Lesson Plan Template
+# Unit [#] - [title]
 
-# [CLASS NAME]
+# [class name]
 
-## Unit [#] | Section [#] | [topic] | Day [#]
+### BIG IDEA
 
 ### Objectives
 
@@ -11,8 +11,6 @@
 ### Materials
 
 ### Resources
-
-### Instructional Outline
 
 ### Assignment / Activies
 
