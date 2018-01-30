@@ -27,16 +27,10 @@ SWBAT:
 
 ### Unit Grading Breakdown
 
-| Assignment  | Calendar Schedule |
+| Assignment  | Point Value |
 | ------------- | ------------- |
-| Section 1 - Google Drive Organization  | 50 points   |
-| Section 1 - Google Drive Image Upload & Submission  | 50 points   |
-| Section 1 - Google Site eFolio  | 50 points   |
-| Section 2 - Google question on Types of Digital Cameras | 25 points   |
-| Section 4 - Google question to define 'image noise'  | 25 points   |
-| Section 5 - Google question to define 'image resolution'  | 25 points   |
-| Section 6 - Google question to define 'megapixel'  | 25 points   |
-| Big Idea - Making a composite Image using scanned objects  | 100 points   |
+| Lesson 1 - Leonardo da Vinci topic response  | 50 points   |
+| Lesson 2 - Google Drive Image Upload & Submission  | 50 points   |
 
 ### Unit Schedule
 

@@ -6,6 +6,8 @@
 
 Note taking and journaling practices are effective strategies for improving critical thinking.
 
+This lesson equips students with journaling capabilities to facilitate the analysis, synthesis, and evaluation of technology and science issues.
+
 ### Objectives
 
 SWBAT:
@@ -22,7 +24,7 @@ SWBAT:
 
 ### Section Grading Breakdown
 
-| Assignment  | Calendar Schedule |
+| Assignment  | Point Value |
 | ------------- | ------------- |
 | Lesson 1 - Leonardo da Vinci topic response  | 50 points   |
 | Lesson 2 - Google Drive Image Upload & Submission  | 50 points   |
