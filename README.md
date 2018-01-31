@@ -47,6 +47,9 @@ Technology Education Curriculum
         └── Middle School 8th Grade Curriculum Overview.md
 ```````````````````````````````
 
+## Collaborating With This Project
+
+
 
 ## License
 This project is licensed under the GPL-3.0 - see the LICENSE file for details.
