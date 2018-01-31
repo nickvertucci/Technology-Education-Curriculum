@@ -1,19 +1,29 @@
-# Unit [#] - [title]
+# Unit [unit #] - [unit name]
 
-# [class name]
+# [class title]
 
 ### BIG IDEA
 
+[the big idea]
+
 ### Objectives
 
-### Preperation
+SWBAT:
 
-### Materials
+- [student objective]
 
-### Resources
+### Section Outline
 
-### Assignment / Activies
+- Section 1 - [section title]
 
-### Evaluation
+### Unit Grading Breakdown
 
-### Added Notes
+| Assignment  | Calendar Schedule |
+| ------------- | ------------- |
+| Section [section #] - [section title]  | [amount of points] points   |
+
+### Unit Schedule
+
+| Assignment  | Calendar Schedule |
+| ------------- | ------------- |
+| [title]  | [dates/range]   |
