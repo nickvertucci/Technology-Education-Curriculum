@@ -8,7 +8,7 @@ Technology Education is a body of knowledge separate from but related to the sci
 
 They can include unexpected benefits, unexpected costs and unexpected risks.  Technology Education involves a broad spectrum of knowledge and activities.  Effective Technology Education combines knowledge of content, processes and skills to provide students with a holistic approach to learning.  Technology Education offers unique opportunities to apply numerous academic concepts through practical minds-on/hands-on applications giving these academic concepts relevance.  Instructional Technology on the other hand, deals specifically with use of computers and different software to solve problems and communicate effectively.  Knowledge of content, processes and skills should be used together to effectively engage students and promote a complete understanding of the sciences, related technologies and their interrelationship.
 
-The relationship between science and technology is one where science builds principles or theories and technology provides the practical application of those principles or theories to produce human made products and systems to improve our lives..
+The relationship between science and technology is one where science builds principles or theories and technology provides the practical application of those principles or theories to produce human made products and systems to improve our lives.
 
 ## Curriculum Organization
 
