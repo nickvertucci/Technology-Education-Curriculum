@@ -12,7 +12,7 @@ The relationship between science and technology is one where science builds prin
 
 ## Curriculum Organization
 
-'''''''''''''''''''''''''''''''
+```````````````````````````````
 Technology Education Curriculum
 ├── **README.md**
 ├── **LICENSE**
@@ -45,7 +45,7 @@ Technology Education Curriculum
         └── Unit 4 - Rube Goldberg Contest
         └── Unit 5 - Idea, Design, produce
         └── Middle School 8th Grade Curriculum Overview.md
-'''''''''''''''''''''''''''''''
+```````````````````````````````
 
 
 ## License
