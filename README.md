@@ -14,14 +14,14 @@ The relationship between science and technology is one where science builds prin
 
 ```````````````````````````````
 Technology Education Curriculum
-├── **README.md**
-├── **LICENSE**
-├── **Templates**
+├── README.md
+├── LICENSE
+├── Templates
     └── Unit
     └── Section
     └── Lesson Plan
     └── Powerpoint
-├── **High School**
+├── High School
     └── Advanced Design Applications
     └── Advanced Technological Applications
     └── Architecture
@@ -32,12 +32,12 @@ Technology Education Curriculum
     └── Technology and Society
     └── World of Technology
     └── High School Curriculum Overview.md
-├── **Middle School**
-    └── **7th Grade Technology**
+├── Middle School
+    └── 7th Grade Technology
         └── Unit 0 - FFD
         └── Unit 1 - Safety
         └── Unit 2 - Food
-    └── **8th Grade Technology**
+    └── 8th Grade Technology
         └── Unit 0 - FFD
         └── Unit 1 - Safety
         └── Unit 2 - Technological Systems       
