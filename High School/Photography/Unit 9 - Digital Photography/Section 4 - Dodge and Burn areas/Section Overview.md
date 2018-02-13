@@ -4,15 +4,17 @@ Unit 9 starts our transition into digital photography and discusses how digital 
 
 ## Section 1 - Google Classroom & Google Drive
 
-## Section 2 - Types of Digital Cameras
+## Section 2 - Black & White Image
 
-## Section 3 - History of Digital photography
+## Section 3 - Hamburger Layers
 
-## Section 4 - Digital Cameras and ISO Film Speeds
+## Section 4 - Dodge and Burn Areas
 
-## Section 5 - Megapixels and Memory Cards
+The Dodge tool and the Burn tool lighten or darken areas of the image. These tools are based on a traditional darkroom technique for regulating exposure on specific areas of a print. Photographers hold back light to lighten an area on the print (dodging) or increase the exposure to darken areas on a print (burning). The more you paint over an area with the Dodge or Burn tool, the lighter or darker it becomes.
 
-## Section 6 - Transferring and Storing Images
+## Section 5 - Image Formats and File Sizes
+
+## Section 6 - Back Drop Composite
 
 Each company will need to outline their parts that will need to be fabricated. This means providing orthographic views of each part, front, top, right as well as a generated isometric view. Part design will be done solely in SketchUp. Each design will need to be made to scale as a separate file. For each part needing to be designed, it will be 100 points each.
 
