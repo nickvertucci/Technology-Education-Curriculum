@@ -1,41 +1,14 @@
-# Middle School 8th Grade Technology Curriculum Overview
-Course #UNKNOWN | 1 Credit | Prerequisite: NONE
+# Unit 10 - Section 1 - Puzzle Cube Design
 
-## Course Syllabus
+This unit will go into our DDP puzzle cube design unit where students will define the problem statement, design via SketchUp and Technical drawing techniques a puzzle cube of 1x1x1 blocks and later produce the prototype of their puzzle via 3D printing. The exact puzzle piece will be a 3x3x3 puzzle piece when completed.
 
-  - Mr. Nick Vertucci
-  - nvertucci@swr.k12.ny.us
-  - Extra Help: by appointment
+## Puzzle Cube Design Breakdown
 
-### Course Description
+Each student will design a puzzle cube of their own that forms a 3x3x3 cube when complete. Each configuration of the block cannot contain more then 6 1x1x1 cubes. All the pieces will need to interlock and be of different color choices as well. Each piece will be sketched and later 3D modeled individually by SketchUp to show interlocking completion.
 
-Technology in the middle school provides students with foundation level projects and assignments to view their world from a different perspective. Each unit for the entire year is based around utilizing the design and engineering process to analyze problems and design/produce solutions to those problems.
+### Evaluation
 
-### Course Objectives
-
-### Course Schedule
-
-There is a grand total of 184 schools days in the school calendar.
-
-##### Q1 (9/7/2017 - 11/9/2017)
-- FFD (First-Five-Days)
-- Safety
-- Technological Systems
-
-##### Q2 (11/13/2017 - 1/26/2018)
-- Technological Systems
-
-##### Q3 (1/29/2018 - 4/13/2018)
-- CO2 Dragster Competition
-
-##### Q4 (4/16/2018 - 6/22/2018)
-- Rube Goldberg Contest
-- *Bloxels game design* if possible
-- *Idea, Design, produce* if possible
-- *Manufacturing donatable toys* if possible
-
-### Course Grading
-Each assignment/project goes by the same consistent rubric for grade scoring. Weekly cleanup is an added grading assignment that is compiled each week and tallied outside of the assignment rubric.
+Each section will be graded based on the following criteria:
 
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -44,3 +17,16 @@ Each assignment/project goes by the same consistent rubric for grade scoring. We
 | Effort | 30% | No effort | limited to no effort | Inconsistent day-to-day effort | Showed effort only when needed or routinely directed | Continuous day-to-day effort with or without direction |
 | Creativity/Originality | 15% | No creativity, copied designs | Minimal creativity based off past designs | Moderate improvements based off past designs | Complete overhaul of past or found designs | Completely new idea/design |
 | Craftsmanship/Skill | 15% | Poor execution, no planning | Moderate end result, able to achieve an outcome | Good planning but poorly executed end result | Good planning and good end result although not what had been designed or communicated | Great planning & execution able to achieve what had been designed or communicated |
+
+
+### Section Schedule
+
+| Assignment  | Calendar Schedule |
+| ------------- | ------------- |
+| Introduction & Unit Overview  | 1 Day   |
+| Rough Sketch Design  | 5 days  |
+| Part(s) finalization  | 2 days |
+| Finalized technical drawings  | 5 days |
+| CAD drawings  | 5 days |
+| Layout drawings  | 6 days |
+| **Total Days**  | **24 days (5 weeks estimated)** |

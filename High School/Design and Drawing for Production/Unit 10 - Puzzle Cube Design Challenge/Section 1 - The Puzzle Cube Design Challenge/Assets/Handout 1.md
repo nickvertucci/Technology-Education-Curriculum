@@ -1,42 +1,34 @@
-# Middle School 8th Grade Technology Curriculum Overview
-Course #UNKNOWN | 1 Credit | Prerequisite: NONE
+# Unit 10 - Section 1 - Puzzle Cube Design
 
-## Course Syllabus
+# Design and Draw for Production
 
-  - Mr. Nick Vertucci
-  - nvertucci@swr.k12.ny.us
-  - Extra Help: by appointment
+# STUDENT NAME:
 
-### Course Description
+### Design and Engineering Process Questions
+These questions should be answered via Google Classroom and are here as reference.
 
-Technology in the middle school provides students with foundation level projects and assignments to view their world from a different perspective. Each unit for the entire year is based around utilizing the design and engineering process to analyze problems and design/produce solutions to those problems.
+**What is our problem statement?**
 
-### Course Objectives
 
-### Course Schedule
+**Why are we designing a puzzle cube?**
 
-There is a grand total of 184 schools days in the school calendar.
 
-##### Q1 (9/7/2017 - 11/9/2017)
-- FFD (First-Five-Days)
-- Safety
-- Technological Systems
+**What areas of the project do you think will be most difficult and why?**
 
-##### Q2 (11/13/2017 - 1/26/2018)
-- Technological Systems
 
-##### Q3 (1/29/2018 - 4/13/2018)
-- CO2 Dragster Competition
+**Who are you designing your puzzle cube for or who is your target audience?**
 
-##### Q4 (4/16/2018 - 6/22/2018)
-- Rube Goldberg Contest
-- *Bloxels game design* if possible
-- *Idea, Design, produce* if possible
-- *Manufacturing donatable toys* if possible
+### Assignment / Activities
 
-### Course Grading
-Each assignment/project goes by the same consistent rubric for grade scoring. Weekly cleanup is an added grading assignment that is compiled each week and tallied outside of the assignment rubric.
+| Assignment  | Grade |
+| ------------- | ------------- |
+| Design and Engineering Process questions  | 100 points  |
+| Rough sketch designs  | 100 points/design/part  |
+| Finalized drawings  | 100 points/design/part  |
+| 3D models via SketchUp  | 100 points/design/part  |
+| Layout designs  | 100 points/design/part  |
 
+### Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Organization | 20% | Unable to find assignments or not routinely saved | Able to demonstrate some organization by backing up files or use of folders | Both drawings and models are identifiable and can be found if needed | All drawings are in a folder and models organized by folders in Google Drive | All drawings are in a folder labeled correctly and models organized by folders in Google Drive labeled correctly |
@@ -44,3 +36,5 @@ Each assignment/project goes by the same consistent rubric for grade scoring. We
 | Effort | 30% | No effort | limited to no effort | Inconsistent day-to-day effort | Showed effort only when needed or routinely directed | Continuous day-to-day effort with or without direction |
 | Creativity/Originality | 15% | No creativity, copied designs | Minimal creativity based off past designs | Moderate improvements based off past designs | Complete overhaul of past or found designs | Completely new idea/design |
 | Craftsmanship/Skill | 15% | Poor execution, no planning | Moderate end result, able to achieve an outcome | Good planning but poorly executed end result | Good planning and good end result although not what had been designed or communicated | Great planning & execution able to achieve what had been designed or communicated |
+
+### Added Notes

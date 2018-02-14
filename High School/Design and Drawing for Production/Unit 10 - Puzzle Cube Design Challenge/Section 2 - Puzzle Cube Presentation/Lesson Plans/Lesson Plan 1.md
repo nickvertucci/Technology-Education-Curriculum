@@ -1,42 +1,48 @@
-# Middle School 8th Grade Technology Curriculum Overview
-Course #UNKNOWN | 1 Credit | Prerequisite: NONE
+# Daily Lesson Plan
 
-## Course Syllabus
+# Design and Draw for Production
 
-  - Mr. Nick Vertucci
-  - nvertucci@swr.k12.ny.us
-  - Extra Help: by appointment
+## Unit 10 | Section 1 | Puzzle Cube Design | Day 1
 
-### Course Description
+### Objectives
 
-Technology in the middle school provides students with foundation level projects and assignments to view their world from a different perspective. Each unit for the entire year is based around utilizing the design and engineering process to analyze problems and design/produce solutions to those problems.
+SWBAT:
+- Define the problem at hand and design various solutions
+- Communicate their designs via technical drawing, CAD & prototyping
+- Evaluate their designs by means of testing and feedback to make improvements/adjustments
 
-### Course Objectives
+### Preparation
 
-### Course Schedule
+### Materials
+- Laptops/computer lab access
+- Drafting tools and materials
+- 3D printer + filament
 
-There is a grand total of 184 schools days in the school calendar.
+### Resources
 
-##### Q1 (9/7/2017 - 11/9/2017)
-- FFD (First-Five-Days)
-- Safety
-- Technological Systems
+- Unit 10 - Section 1 - Handout 1
 
-##### Q2 (11/13/2017 - 1/26/2018)
-- Technological Systems
+### Instructional Outline
 
-##### Q3 (1/29/2018 - 4/13/2018)
-- CO2 Dragster Competition
+- Review design and engineering process
+- Discuss the overall project and what we will be doing along with graded assignments
+  - Creating a 3D puzzle cube made of plastic via our 3D printer
+  - Each piece will need to be interlocking
+  - Technical drawings to start indicating ideas and understanding
+  - Approval of technical drawings in order to move into CAD of pieces
+  - 3D model and Layout of each piece and combined puzzle piece
 
-##### Q4 (4/16/2018 - 6/22/2018)
-- Rube Goldberg Contest
-- *Bloxels game design* if possible
-- *Idea, Design, produce* if possible
-- *Manufacturing donatable toys* if possible
+### Assignment / Activities
 
-### Course Grading
-Each assignment/project goes by the same consistent rubric for grade scoring. Weekly cleanup is an added grading assignment that is compiled each week and tallied outside of the assignment rubric.
+| Assignment  | Grade |
+| ------------- | ------------- |
+| Defining our problem statement to start collecting information  | 100 points/design/part  |
+| Rough sketch designs  | 100 points/design/part  |
+| Finalized technical drawings  | 100 points/design/part  |
+| 3D models via SketchUp  | 100 points/design/part  |
+| Layout designs  | 100 points/design/part  |
 
+### Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Organization | 20% | Unable to find assignments or not routinely saved | Able to demonstrate some organization by backing up files or use of folders | Both drawings and models are identifiable and can be found if needed | All drawings are in a folder and models organized by folders in Google Drive | All drawings are in a folder labeled correctly and models organized by folders in Google Drive labeled correctly |
@@ -44,3 +50,5 @@ Each assignment/project goes by the same consistent rubric for grade scoring. We
 | Effort | 30% | No effort | limited to no effort | Inconsistent day-to-day effort | Showed effort only when needed or routinely directed | Continuous day-to-day effort with or without direction |
 | Creativity/Originality | 15% | No creativity, copied designs | Minimal creativity based off past designs | Moderate improvements based off past designs | Complete overhaul of past or found designs | Completely new idea/design |
 | Craftsmanship/Skill | 15% | Poor execution, no planning | Moderate end result, able to achieve an outcome | Good planning but poorly executed end result | Good planning and good end result although not what had been designed or communicated | Great planning & execution able to achieve what had been designed or communicated |
+
+### Added Notes
