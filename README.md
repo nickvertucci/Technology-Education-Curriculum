@@ -34,16 +34,17 @@ Technology Education Curriculum
     └── High School Curriculum Overview.md
 ├── Middle School
     └── 7th Grade Technology
-        └── Unit 0 - FFD
-        └── Unit 1 - Safety
-        └── Unit 2 - Food
+        └── Engineering for All
     └── 8th Grade Technology
         └── Unit 0 - FFD
         └── Unit 1 - Safety
         └── Unit 2 - Technological Systems       
         └── Unit 3 - CO2 Dragster Competition
         └── Unit 4 - Rube Goldberg Contest
-        └── Unit 5 - Idea, Design, produce
+        └── Unit 5 - Idea, Design, Produce
+        └── Unit 6 - Manufacturing Donatable Toys
+        └── Unit 7 - Pathfinder Egg Drop Challenge
+        └── Unit 8 - Solar Oven
         └── Middle School 8th Grade Curriculum Overview.md
 ```````````````````````````````
 
