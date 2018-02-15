@@ -19,6 +19,7 @@ These questions should be answered via Google Classroom and are here as referenc
 **Who are you designing your puzzle cube for or who is your target audience?**
 
 ### Assignment / Activities
+These are the assignments and/or activities that you will be graded for during this entire unit.
 
 | Assignment  | Grade |
 | ------------- | ------------- |
@@ -27,6 +28,7 @@ These questions should be answered via Google Classroom and are here as referenc
 | Finalized drawings  | 100 points/design/part  |
 | 3D models via SketchUp  | 100 points/design/part  |
 | Layout designs  | 100 points/design/part  |
+| Presentation  | 100 points/design/part  |
 
 ### Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |

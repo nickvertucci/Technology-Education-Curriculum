@@ -21,6 +21,7 @@ Technology Education Curriculum
     └── Section
     └── Lesson Plan
     └── Powerpoint
+    └── Handout
 ├── High School
     └── Advanced Design Applications
     └── Advanced Technological Applications
