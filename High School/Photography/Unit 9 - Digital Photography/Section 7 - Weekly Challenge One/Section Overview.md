@@ -1,45 +1,35 @@
-# Unit 9 - Digital Photography
+# Unit 9 - Section 7 - Weekly Challenge One
 
-Unit 9 starts our transition into digital photography and discusses how digital photography has revolutionized photography.
+# Photography
 
-## Section 1 - Google Classroom & Google Drive
+### Objectives
 
-## Section 2 - Types of Digital Cameras
+SWBAT
 
-## Section 3 - History of Digital photography
+- Plan a story for a particular section of their home
+- Organize their shots in a timeline that is understandable and makes sense
+- Utilize artistic touch for their own personal Creativity
+- Develop Photoshop techniques to improve overall picture quality
 
-## Section 4 - Digital Cameras and ISO Film Speeds
+### Preperation
 
-## Section 5 - Megapixels and Memory Cards
+### Materials
 
-## Section 6 - Transferring and Storing Images
+### Resources
 
-Each company will need to outline their parts that will need to be fabricated. This means providing orthographic views of each part, front, top, right as well as a generated isometric view. Part design will be done solely in SketchUp. Each design will need to be made to scale as a separate file. For each part needing to be designed, it will be 100 points each.
+- Handout1.md
 
-Once all part have been designed in SketchUp and communicated via title blocks in Layout, Each company will then do a formal presentation selling or marketing their parts to Mr. V.
+### Instructional Outline
 
-### Unit Grading Breakdown
+### Assignment / Activies
 
-| Assignment  | Calendar Schedule |
-| ------------- | ------------- |
-| Section 1 - Google Drive Organization  | 50 points   |
-| Section 1 - Google Drive Image Upload & Submission  | 50 points   |
-| Section 2 - Google question on Types of Digital Cameras | 25 points   |
-| Section 4 - Google question to define 'image noise'  | 25 points   |
-| Section 5 - Google question to define 'image resolution'  | 25 points   |
-| Section 6 - Google question to define 'megapixel'  | 25 points   |
-| Big Idea - Making a composite Image using scanned objects  | 100 points   |
+### Evaluation
+| Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Organization | 20% | Unable to find assignments or not routinely saved | Able to demonstrate some organization by backing up files or use of folders | Both drawings and models are identifiable and can be found if needed | All drawings are in a folder and models organized by folders in Google Drive | All drawings are in a folder labeled correctly and models organized by folders in Google Drive labeled correctly |
+| Class Participation | 20% | Showed no participation | Limited to no participation | Inconsistent day-to-day participation | Participated only when needed  | Engaged daily and actively participated |
+| Effort | 30% | No effort | limited to no effort | Inconsistent day-to-day effort | Showed effort only when needed or routinely directed | Continuous day-to-day effort with or without direction |
+| Creativity/Originality | 15% | No creativity, copied designs | Minimal creativity based off past designs | Moderate improvements based off past designs | Complete overhaul of past or found designs | Completely new idea/design |
+| Craftsmanship/Skill | 15% | Poor execution, no planning | Moderate end result, able to achieve an outcome | Good planning but poorly executed end result | Good planning and good end result although not what had been designed or communicated | Great planning & execution able to achieve what had been designed or communicated |
 
-### Unit Schedule
-
-| Assignment  | Calendar Schedule |
-| ------------- | ------------- |
-| Introduction & Part 1 Design  | January 22nd - January 29th   |
-| Part 2 Design  | January 29th - February 5th  |
-| Part 3 Design  | February 5th - February 12th |
-| Part 4 Design  | February 12th - February 26th |
-| Part 5 Design  | February 26th - March 5th |
-| Part 6 Design  | March 5th - March 12th |
-| Part 7 Design  | March 12th - March 19th |
-| Presentation Work and Scheduling   | March 19th - March 26th |
-| Presentation Week   | March 26th - March 30th|
+### Added Notes

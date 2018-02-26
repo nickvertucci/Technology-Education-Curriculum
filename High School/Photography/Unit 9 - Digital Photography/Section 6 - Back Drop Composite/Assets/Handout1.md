@@ -1,21 +1,22 @@
-# Daily Lesson Plan
+# Unit 9 - Section 7 - Back Drop Composite
 
 # Photography
 
-## Unit 9 | Section 7 | Weekly Challenge One | Day(s) 10
+# STUDENT NAME:
 
-### Objectives
+## Back Drop Composite
 
-SWBAT:
-- Organize, label and manage layers within Photoshop
-- Create rectangles, circles and other shapes
-- Apply colors and different shades
+You will be merging two (2) images together to create a brand new composite of an object of your choice and also a back drop of your choice which is a material of some kind.
 
-### Assignment / Activities
+Once the images have been scanned and provided, you will then use various selection tools to merge your object onto a newly made canvas.
 
-- Create an idea for telling a story about an activity in your home
-- Plan your photoshoot for telling your telling in a timeline like fashion
-- Edit/Enhance your pictures for your theme to emphasize aspects of your photo story telling
+## Requirements
+
+- The canvas to be submitted should be 600x600 pixels
+- The canvas should have 2 layers
+- The back drop layer should be labeled as back drop
+- The object layer should be labeled as object
+- ONLY the object should be transferred over
 
 ### Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |

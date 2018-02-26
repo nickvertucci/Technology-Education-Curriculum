@@ -1,21 +1,20 @@
-# Daily Lesson Plan
+# Unit 9 - Section 7 - Weekly Challenge One
 
 # Photography
 
-## Unit 9 | Section 7 | Weekly Challenge One | Day(s) 10
+# STUDENT NAME:
 
-### Objectives
+## Weekly Challenge One
 
-SWBAT:
-- Organize, label and manage layers within Photoshop
-- Create rectangles, circles and other shapes
-- Apply colors and different shades
+In this weekly challenge you will need to photo story tell an event within your home. Examples of this could be making breakfast, getting ready for bed, preparing to do homework, getting ready for a soccer game etc.
 
-### Assignment / Activities
+For this challenge, their will be a few assignments that will need to be completed.
 
-- Create an idea for telling a story about an activity in your home
-- Plan your photoshoot for telling your telling in a timeline like fashion
-- Edit/Enhance your pictures for your theme to emphasize aspects of your photo story telling
+1. Identify at least 5 possible photo story telling events you wish to choose one from
+2. Write a small paragraph for each photo story telling event, as to why you wish to choose it
+3. Select only one (1) photo story telling event again, explaining why you wish to choose it
+4. Plan out the photoshoot to have a minimum of 10 photographs to tell your story (include time, location, rule of thirds, camera angle)
+5. Edit photographs for artistic style to explain and emphasize your story
 
 ### Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
