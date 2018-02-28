@@ -39,7 +39,7 @@ Edit photographs for artistic style to explain and emphasize your story
 
 Assignment: Manipulate, enhance, and edit each photograph to emphasize your object, environment, and artistic touch
 
-### Evaluation
+## Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Organization | 20% | Unable to find assignments or not routinely saved | Able to demonstrate some organization by backing up files or use of folders | Both drawings and models are identifiable and can be found if needed | All drawings are in a folder and models organized by folders in Google Drive | All drawings are in a folder labeled correctly and models organized by folders in Google Drive labeled correctly |
