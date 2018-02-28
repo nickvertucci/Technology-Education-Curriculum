@@ -14,7 +14,9 @@ SWBAT:
 ### Assignment / Activities
 
 - Create an idea for telling a story about an activity in your home
+  - Develop a document explaining various events in your home to tell a story through photography
 - Plan your photoshoot for telling your telling in a timeline like fashion
+  - Develop a scripted schedule for each one of your photographs outlining time of day, object, rule of thirds creating a blue print for each shot.
 - Edit/Enhance your pictures for your theme to emphasize aspects of your photo story telling
 
 ### Evaluation
