@@ -10,11 +10,34 @@ In this weekly challenge you will need to photo story tell an event within your 
 
 For this challenge, their will be a few assignments that will need to be completed.
 
-1. Identify at least 5 possible photo story telling events you wish to choose one from
-2. Write a small paragraph for each photo story telling event, as to why you wish to choose it
-3. Select only one (1) photo story telling event again, explaining why you wish to choose it
-4. Plan out the photoshoot to have a minimum of 10 photographs to tell your story (include time, location, rule of thirds, camera angle)
-5. Edit photographs for artistic style to explain and emphasize your story
+## Assignments
+
+### Identify Events
+Identify at least 5 possible photo story telling events you wish to choose one from
+
+Assignment: Submit a Google Doc with a simple unordered list of AT-LEAST 5 story telling events
+
+### Explanation
+Prepare a document explaining for each photo story telling event, why you wish to choose it and ideas for the photographs
+
+Assignment: Submit a Google Doc that explains, for each story telling event, why you chose it and at-least 1 idea you might have to tell your story
+
+### Selection
+Select only one (1) photo story telling event again, explaining why you chose this one over the rest
+
+Assignment: Submit a Google Doc that explains, for your selection telling event, why you chose it above the other options and at-least 3 ideas you might have to tell your story
+
+### Scripting and Planning
+Plan out the photoshoot to have a minimum of 10 photographs to tell your story (include time, location, rule of thirds, camera angle)
+
+Assignment: Develop a script/plan for each photo you wish to take. **A minimum of 10 shots is needed.** Be sure to include time of day, photo angle (top level, bottom, above) , rule of thirds location, lighting description etc.
+
+***TIP: Take lots of photos so that you have a selection for each shot to choose from***
+
+### Photo Edits
+Edit photographs for artistic style to explain and emphasize your story
+
+Assignment: Manipulate, enhance, and edit each photograph to emphasize your object, environment, and artistic touch
 
 ### Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
