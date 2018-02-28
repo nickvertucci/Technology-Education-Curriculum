@@ -11,17 +11,15 @@ SWBAT
 - Utilize artistic touch for their own personal Creativity
 - Develop Photoshop techniques to improve overall picture quality
 
-### Preperation
-
-### Materials
-
 ### Resources
 
 - Handout1.md
 
 ### Instructional Outline
 
-### Assignment / Activies
+- Open with a daily Do Now related to photogrpahy planning
+- Review the outline of the assignment and what is expected
+- Review evaluation criteria
 
 ### Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
