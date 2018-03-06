@@ -1,8 +1,8 @@
 # Daily Lesson Plan
 
-# [CLASS NAME]
+# Architecture
 
-## Unit [#] | Section [#] | [topic] | Day [#]
+## Unit 11 | Section 1 | Residential Wall | Day 1
 
 ### Objectives
 
