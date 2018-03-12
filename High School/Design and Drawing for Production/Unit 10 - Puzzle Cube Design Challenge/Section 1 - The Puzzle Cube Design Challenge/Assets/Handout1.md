@@ -5,7 +5,7 @@
 # STUDENT NAME:
 
 ### Design and Engineering Process Questions
-These questions should be answered via Google Classroom and are here as reference.
+These questions should be answered via Google Classroom as part of a single document and are here as reference for you.
 
 **What is our problem statement?**
 
