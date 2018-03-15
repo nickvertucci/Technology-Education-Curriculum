@@ -29,10 +29,10 @@ SWBAT
 3. Review course syllabus
 4. Discuss twitter opt-out option
 5. Review first few assignments of syllabus signature, google classroom joining and practice assignment submission
-  - Syllabus Signature Assignment
+    - Syllabus Signature Assignment
 6. Google classroom utilization and focus
-  - Google Classroom Join assignment
-  - Google Classroom First Assignment Practice Submission
+    - Google Classroom Join assignment
+    - Google Classroom First Assignment Practice Submission
 
 ### Assignment / Activities
 
