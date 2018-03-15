@@ -16,7 +16,9 @@ SWBAT
 
 ### Materials
 
-### Resources
+### Assets
+
+*Assets can be found in the sections asset folder.*
 
 - Unit 1 - Section 1 - Introduction.pptx
 
@@ -27,7 +29,10 @@ SWBAT
 3. Review course syllabus
 4. Discuss twitter opt-out option
 5. Review first few assignments of syllabus signature, google classroom joining and practice assignment submission
+  - Syllabus Signature Assignment
 6. Google classroom utilization and focus
+  - Google Classroom Join assignment
+  - Google Classroom First Assignment Practice Submission
 
 ### Assignment / Activities
 
@@ -37,7 +42,7 @@ SWBAT
 | Section 1 - Google Classroom Join  | 100 points   |
 | Section 1 - Google Classroom First Assignment Practice Submission  | 100 points   |
 
-### Evaluation
+### Assignment Evaluation
 
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
