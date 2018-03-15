@@ -1,30 +1,44 @@
-# Unit 10 - Section 1 - Puzzle Cube Design
+# Daily Lesson Plan
 
 # Design and Draw for Production
 
-# STUDENT NAME:
+## Unit 10 | Section 1 | Puzzle Cube Design | Day 1
 
-### Design and Engineering Process Questions
-These questions should be answered via Google Classroom and are here as reference.
+### Objectives
 
-**What is our problem statement?**
+SWBAT:
+- Finalize their cube designs from rough sketches
 
+### Preparation
 
-**Why are we designing a puzzle cube?**
+### Materials
+- Laptops/computer lab access
+- Drafting tools and materials
+- 3D printer + filament
 
+### Resources
 
-**What areas of the project do you think will be most difficult and why?**
+- Unit 10 - Section 1 - Handout 1
+- Unit 10 - Section 1 - Handout 2
+- Unit 10 - Section 1 - Handout 3
 
+### Instructional Outline
 
-**Who are you designing your puzzle cube for or who is your target audience?**
+- Review design and engineering process
+- Discuss the overall project and what we will be doing along with graded assignments
+  - Creating a 3D puzzle cube made of plastic via our 3D printer
+  - Each piece will need to be interlocking
+  - Technical drawings to start indicating ideas and understanding
+  - Approval of technical drawings in order to move into CAD of pieces
+  - 3D model and Layout of each piece and combined puzzle piece
 
 ### Assignment / Activities
 
 | Assignment  | Grade |
 | ------------- | ------------- |
-| Design and Engineering Process questions  | 100 points  |
+| Defining our problem statement to start collecting information  | 100 points/design/part  |
 | Rough sketch designs  | 100 points/design/part  |
-| Finalized drawings  | 100 points/design/part  |
+| Finalized technical drawings  | 100 points/design/part  |
 | 3D models via SketchUp  | 100 points/design/part  |
 | Layout designs  | 100 points/design/part  |
 

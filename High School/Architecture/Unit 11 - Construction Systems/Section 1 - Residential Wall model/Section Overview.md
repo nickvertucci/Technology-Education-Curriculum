@@ -1,21 +1,20 @@
-# Unit [#] - Section [#] - [section name]
+# Unit 11 - Section 1 - Construction Systems
 
-# [CLASS NAME]
+# Architecture
 
-### Section Overview
+### Objectives
 
-### Preparation
+During this section students will be introduced to various construction systems starting off with residential wall design. Students will work towards making scaled models along with real-world experience working with various materials and power tools.
+
+### Preperation
 
 ### Materials
 
-### Assets
+### Resources
 
-### Assignment / Activities
+### Instructional Outline
 
-| Assignment  | Point Amount |
-| ------------- | ------------- |
-| Section 1 - Google Classroom Join  | 100 points   |
-| Section 1 - Google Classroom First Assignment Practice Submission  | 100 points   |
+### Assignment / Activies
 
 ### Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |

@@ -1,21 +1,22 @@
-# Unit [#] - Section [#] - [section name]
+# Unit 9 - Section 7 - Back Drop Composite
 
-# [CLASS NAME]
+# Photography
 
-### Section Overview
+# STUDENT NAME:
 
-### Preparation
+## Back Drop Composite
 
-### Materials
+You will be merging two (2) images together to create a brand new composite of an object of your choice and also a back drop of your choice which is a material of some kind.
 
-### Assets
+Once the images have been scanned and provided, you will then use various selection tools to merge your object onto a newly made canvas.
 
-### Assignment / Activities
+## Requirements
 
-| Assignment  | Point Amount |
-| ------------- | ------------- |
-| Section 1 - Google Classroom Join  | 100 points   |
-| Section 1 - Google Classroom First Assignment Practice Submission  | 100 points   |
+- The canvas to be submitted should be 600x600 pixels
+- The canvas should have 2 layers
+- The back drop layer should be labeled as back drop
+- The object layer should be labeled as object
+- ONLY the object should be transferred over
 
 ### Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |

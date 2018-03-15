@@ -1,8 +1,16 @@
-# Unit [#] - Section [#] - [section name]
+# Daily Lesson Plan
 
-# [CLASS NAME]
+# Architecture
 
-### Section Overview
+## Unit 1 | Section 1 | Introduction | Day 2
+
+### Objectives
+
+SWBAT
+
+- Make use of Google Classroom to submit assigned assignments
+- Organize their Google Drive for classroom Organization
+- Associate architecture assignments with the proper Google Classroom
 
 ### Preparation
 
@@ -10,14 +18,28 @@
 
 ### Assets
 
+*Assets can be found in the section 1 Introduction & Design Process asset folder.*
+
+- Unit 1 - Section 1 - Introduction.pptx
+
+### Instructional Outline
+
+1. Review first few assignments of syllabus signature, google classroom joining and practice assignment submission
+    - Syllabus Signature Assignment
+2. Review Google classroom utilization and focus
+    - Google Classroom Join assignment
+    - Google Classroom First Assignment Practice Submission assignment
+
 ### Assignment / Activities
 
 | Assignment  | Point Amount |
 | ------------- | ------------- |
+| Section 1 - Syllabus Signatures  | 100 points   |
 | Section 1 - Google Classroom Join  | 100 points   |
 | Section 1 - Google Classroom First Assignment Practice Submission  | 100 points   |
 
-### Evaluation
+### Assignment Evaluation
+
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Organization | 20% | Unable to find assignments or not routinely saved | Able to demonstrate some organization by backing up files or use of folders | Both drawings and models are identifiable and can be found if needed | All drawings are in a folder and models organized by folders in Google Drive | All drawings are in a folder labeled correctly and models organized by folders in Google Drive labeled correctly |

@@ -1,12 +1,10 @@
-# Daily Lesson Plan
+# Unit [#] - Section [#] - [section name]
 
 # [CLASS NAME]
 
-## Unit [#] | Section [#] | [topic] | Day [#]
-
 ### Objectives
 
-### Preparation
+### Preperation
 
 ### Materials
 
@@ -14,7 +12,7 @@
 
 ### Instructional Outline
 
-### Assignment / Activities
+### Assignment / Activies
 
 ### Evaluation
 

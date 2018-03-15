@@ -6,7 +6,7 @@
 
 ### Objectives
 
-### Preparation
+### Preperation
 
 ### Materials
 
@@ -14,7 +14,7 @@
 
 ### Instructional Outline
 
-### Assignment / Activities
+### Assignment / Activies
 
 ### Evaluation
 

@@ -1,23 +1,36 @@
-# Unit [#] - Section [#] - [section name]
+# Unit 1 - Section 1 - Introduction
 
-# [CLASS NAME]
+# Architecture
 
 ### Section Overview
+
+In this section students will be introduced to the Architecture course, classroom procedures, and assignment submission practice via Google Classroom.
+
+| Day  | Topic |
+| ------------- | ------------- |
+| Day 1  | Syllabus, classroom rules, first few assignments   |
+| Day 2  | Assignment review, questions, syllabus signature returns   |
 
 ### Preparation
 
 ### Materials
 
+- Smartphone, Laptop, Desktop
+
 ### Assets
+
+- Unit 1 - Section 1 - Introduction.pptx
+- Architecture Syllabus.md
 
 ### Assignment / Activities
 
 | Assignment  | Point Amount |
 | ------------- | ------------- |
+| Section 1 - Syllabus Signatures  | 100 points   |
 | Section 1 - Google Classroom Join  | 100 points   |
 | Section 1 - Google Classroom First Assignment Practice Submission  | 100 points   |
 
-### Evaluation
+### Assignment Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Organization | 20% | Unable to find assignments or not routinely saved | Able to demonstrate some organization by backing up files or use of folders | Both drawings and models are identifiable and can be found if needed | All drawings are in a folder and models organized by folders in Google Drive | All drawings are in a folder labeled correctly and models organized by folders in Google Drive labeled correctly |
