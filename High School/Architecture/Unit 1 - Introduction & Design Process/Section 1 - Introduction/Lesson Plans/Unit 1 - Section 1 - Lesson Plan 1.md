@@ -32,7 +32,7 @@ SWBAT
     - Syllabus Signature Assignment
 6. Google classroom utilization and focus
     - Google Classroom Join assignment
-    - Google Classroom First Assignment Practice Submission
+    - Google Classroom First Assignment Practice Submission assignment
 
 ### Assignment / Activities
 
