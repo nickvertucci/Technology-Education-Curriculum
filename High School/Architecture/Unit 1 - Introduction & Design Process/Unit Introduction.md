@@ -23,11 +23,13 @@ SWBAT:
 
 | Assignment  | Point Amount |
 | ------------- | ------------- |
+| Section 1 - Syllabus Signatures  | 100 points   |
 | Section 1 - Google Classroom Join  | 100 points   |
 | Section 1 - Google Classroom First Assignment Practice Submission  | 100 points   |
 
 ### Unit Schedule
 
-| Assignment  | Calendar Schedule |
+| Section  | Calendar Schedule |
 | ------------- | ------------- |
-| [title]  | [dates/range]   |
+| Section 1 - Introduction  | Day 1-2   |
+| Section 2 - Design Process  | Day 3-7   |

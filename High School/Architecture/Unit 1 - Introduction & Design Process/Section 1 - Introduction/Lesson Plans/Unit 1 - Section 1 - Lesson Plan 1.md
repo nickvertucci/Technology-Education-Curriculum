@@ -18,7 +18,7 @@ SWBAT
 
 ### Assets
 
-*Assets can be found in the sections asset folder.*
+*Assets can be found in the section 1 Introduction & Design Process asset folder.*
 
 - Unit 1 - Section 1 - Introduction.pptx
 

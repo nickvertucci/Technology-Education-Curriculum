@@ -1,26 +1,34 @@
-# Unit 1 - Section 1 - Introduction
+# Daily Lesson Plan
 
 # Architecture
 
-### Section Overview
+## Unit 1 | Section 1 | Introduction | Day 2
 
-In this section students will be introduced to the Architecture course, classroom procedures, and assignment submission practice via Google Classroom.
+### Objectives
 
-| Day  | Topic |
-| ------------- | ------------- |
-| Day 1  | Syllabus, classroom rules, first few assignments   |
-| Day 2  | Assignment review, questions, syllabus signature returns   |
+SWBAT
+
+- Make use of Google Classroom to submit assigned assignments
+- Organize their Google Drive for classroom Organization
+- Associate architecture assignments with the proper Google Classroom
 
 ### Preparation
 
 ### Materials
 
-- Smartphone, Laptop, Desktop
-
 ### Assets
 
+*Assets can be found in the section 1 Introduction & Design Process asset folder.*
+
 - Unit 1 - Section 1 - Introduction.pptx
-- Architecture Syllabus.md
+
+### Instructional Outline
+
+1. Review first few assignments of syllabus signature, google classroom joining and practice assignment submission
+    - Syllabus Signature Assignment
+2. Review Google classroom utilization and focus
+    - Google Classroom Join assignment
+    - Google Classroom First Assignment Practice Submission assignment
 
 ### Assignment / Activities
 
@@ -31,6 +39,7 @@ In this section students will be introduced to the Architecture course, classroo
 | Section 1 - Google Classroom First Assignment Practice Submission  | 100 points   |
 
 ### Assignment Evaluation
+
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Organization | 20% | Unable to find assignments or not routinely saved | Able to demonstrate some organization by backing up files or use of folders | Both drawings and models are identifiable and can be found if needed | All drawings are in a folder and models organized by folders in Google Drive | All drawings are in a folder labeled correctly and models organized by folders in Google Drive labeled correctly |
