@@ -1,12 +1,16 @@
-# Unit [#] - Section [#] - [section name]
+# Unit 1 - Section 1 - Introduction
 
-# [CLASS NAME]
+# Architecture
 
 ### Section Overview
+
+In this section students will be introduced to the Architecture course, classroom procedures, and assignment submission practice via Google Classroom.
 
 ### Preparation
 
 ### Materials
+
+- Smartphone, Laptop, Desktop
 
 ### Assets
 
@@ -14,6 +18,7 @@
 
 | Assignment  | Point Amount |
 | ------------- | ------------- |
+| Section 1 - Syllabus Signatures  | 100 points   |
 | Section 1 - Google Classroom Join  | 100 points   |
 | Section 1 - Google Classroom First Assignment Practice Submission  | 100 points   |
 

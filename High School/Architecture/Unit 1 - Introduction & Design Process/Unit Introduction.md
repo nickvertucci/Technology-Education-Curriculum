@@ -14,15 +14,17 @@ SWBAT:
 - Recognize classroom safety routines
 - Apply the design process to upcoming assignments
 
-### Section Outline
+### Unit Outline
 
-- Section 1 - [section title]
+- Section 1 - Introduction
+- Section 2 - The Design Process
 
 ### Unit Grading Breakdown
 
-| Assignment  | Calendar Schedule |
+| Assignment  | Point Amount |
 | ------------- | ------------- |
-| Section [section #] - [section title]  | [amount of points] points   |
+| Section 1 - Google Classroom Join  | 100 points   |
+| Section 1 - Google Classroom First Assignment Practice Submission  | 100 points   |
 
 ### Unit Schedule
 
