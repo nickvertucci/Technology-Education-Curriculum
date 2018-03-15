@@ -16,7 +16,9 @@ field.
 ## Teacher Information
 
 Mr. Nick Vertucci
+
 nvertucci@swr.k12.ny.us
+
 http://twitter.com/nick_vertucci
 
 Extra Credit: By appointment only
@@ -66,11 +68,13 @@ Extra Credit: By appointment only
 # Signatures
 
 Student Name: _____________________________________________________________
+
 Student Signature
 
 
 
 Parent Name: _____________________________________________________________
+
 Parent Signature
 
 #### Parent Twitter Opt-Out
