@@ -10,17 +10,16 @@
 ### Resources
 
 ### Instructional Outline
-- Lesson Plan 1 - Defining the problem and rapid sketching solutions
-- Lesson Plan 2 - Finalizing solutions and preparing 3D models
-- Lesson Plan 3 - Prototyping solutions
+- Lesson Plan 1 - Defining the problem and creating a design brief
+- Lesson Plan 2 - Creating solutions by means of brainstorming
+- Lesson Plan 3 - Getting more detailed with isometric conceptual drawings
 
 ### Assignment / Activities
 | Assignment  | Grade |
 | ------------- | ------------- |
-| Rough sketch designs  | 100 points/design/part  |
-| Finalized technical drawings  | 100 points/design/part  |
-| 3D models via SketchUp  | 100 points/design/part  |
-| Layout designs  | 100 points/design/part  |
+| Rough sketch brainstorm designs  | 100 points  |
+| Design brief  | 100 points  |
+| Isometric conceptual designs  | 100 points  |
 
 ### Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |

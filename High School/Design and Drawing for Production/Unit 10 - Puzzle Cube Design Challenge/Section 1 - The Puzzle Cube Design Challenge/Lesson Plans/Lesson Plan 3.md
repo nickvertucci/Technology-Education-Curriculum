@@ -2,25 +2,21 @@
 
 # Design and Draw for Production
 
-## Unit 10 | Section 1 | Puzzle Cube Design | Day 1
+## Unit 10 | Section 1 | Puzzle Cube Design | Day 5
 
 ### Objectives
 
 SWBAT:
-- Define the problem at hand and design various solutions
-- Communicate their designs via technical drawing, CAD & prototyping
-- Evaluate their designs by means of testing and feedback to make improvements/adjustments
+- Finalize their cube designs from rough sketches
 
 ### Preparation
 
 ### Materials
-- Laptops/computer lab access
 - Drafting tools and materials
-- 3D printer + filament
 
 ### Resources
 
-- Unit 10 - Section 1 - Handout 1
+- Provide each student isometric paper
 
 ### Instructional Outline
 
@@ -31,12 +27,14 @@ SWBAT:
   - Technical drawings to start indicating ideas and understanding
   - Approval of technical drawings in order to move into CAD of pieces
   - 3D model and Layout of each piece and combined puzzle piece
+- Review the isometric drawing paper and how each part is needed
+- Explain how 30 part concept designs are needed to be communicated
 
 ### Assignment / Activities
 
 | Assignment  | Grade |
 | ------------- | ------------- |
-| Defining our problem statement and creating a design brief  | 100 points  |
+| At least 30 conceptual part designs  | 100 points  |
 
 ### Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
