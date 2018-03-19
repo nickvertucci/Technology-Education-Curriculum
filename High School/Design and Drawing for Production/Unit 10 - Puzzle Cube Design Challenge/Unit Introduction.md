@@ -43,4 +43,5 @@ SWBAT:
 | Section  | Calendar Schedule |
 | ------------- | ------------- |
 | Section 1 - Introduction  | Day 1-2   |
-| Section 2 - Design Process  | Day 3-7   |
+| Section 1 - Brainstorm Combinations Sketch  | Day 2-5   |
+| Section 1 - Combination Isometric Pieces  | Day 5-7   |
