@@ -26,6 +26,7 @@ SWBAT:
 | Assignment  | Point Amount |
 | ------------- | ------------- |
 | Section 1 - Puzzle Cube Brainstorm Combinations Sketch #1  | 100 points   |
+| Section 1 - Puzzle Cube Combination Isometric Pieces  | 100 points   |
 | Section 1 - Puzzle Cube Solution #1   | 100 points   |
 | Section 1 - Puzzle Cube Solution #2   | 100 points   |
 | Section 1 - Puzzle Cube Orthographic Cube Solution Parts #1   | 100 points   |
