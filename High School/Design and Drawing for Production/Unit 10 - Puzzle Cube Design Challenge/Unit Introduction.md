@@ -23,6 +23,7 @@ SWBAT:
 
 | Assignment  | Point Amount |
 | ------------- | ------------- |
+| Section 1 - Puzzle Cube Design Brief Write-Up  | 100 points   |
 | Section 1 - Puzzle Cube Brainstorm Combinations Sketch #1  | 100 points   |
 | Section 1 - Puzzle Cube Solution #1   | 100 points   |
 | Section 1 - Puzzle Cube Solution #2   | 100 points   |
