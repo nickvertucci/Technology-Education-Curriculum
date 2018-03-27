@@ -46,3 +46,5 @@ SWBAT:
 | Section 1 - Introduction  | Day 1-2   |
 | Section 1 - Brainstorm Combinations Sketch  | Day 2-5   |
 | Section 1 - Combination Isometric Pieces  | Day 5-7   |
+| Section 1 - Puzzle Cube Solution #1  | Day 7-14   |
+| Section 1 - Puzzle Cube Solution #2  | Day 14-21   |
