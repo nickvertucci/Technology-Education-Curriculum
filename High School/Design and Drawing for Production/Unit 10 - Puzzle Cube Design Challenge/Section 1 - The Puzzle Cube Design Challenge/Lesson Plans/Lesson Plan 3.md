@@ -2,7 +2,7 @@
 
 # Design and Draw for Production
 
-## Unit 10 | Section 1 | Puzzle Cube Design | Day 5
+## Unit 10 | Section 1 | Puzzle Cube Design | Day 5-7
 
 ### Objectives
 

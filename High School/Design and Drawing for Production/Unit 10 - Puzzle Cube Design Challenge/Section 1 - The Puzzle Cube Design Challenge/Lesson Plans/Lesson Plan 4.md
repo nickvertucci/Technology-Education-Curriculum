@@ -2,13 +2,14 @@
 
 # Design and Draw for Production
 
-## Unit 10 | Section 1 | Puzzle Cube Design | Day 5
+## Unit 10 | Section 1 | Puzzle Cube Design | Day 8-25
 
 ### Objectives
 
 SWBAT:
-- Finalize their cube designs from rough sketches
+- Finalize their cube designs from isometric pieces
 - Conceptualize isometric puzzle cube pieces
+- Communicate in detail each solution set
 
 ### Preparation
 
@@ -35,7 +36,18 @@ SWBAT:
 
 | Assignment  | Grade |
 | ------------- | ------------- |
-| At least 30 conceptual part designs  | 100 points  |
+| Solution 1 - Part A  | 100 points  |
+| Solution 1 - Part B  | 100 points  |
+| Solution 1 - Part C  | 100 points  |
+| Solution 1 - Part D  | 100 points  |
+| Solution 1 - Part E  | 100 points  |
+| Solution 1  | 100 points  |
+| Solution 2 - Part A  | 100 points  |
+| Solution 2 - Part B  | 100 points  |
+| Solution 2 - Part C  | 100 points  |
+| Solution 2 - Part D  | 100 points  |
+| Solution 2 - Part E  | 100 points  |
+| Solution 2  | 100 points  |
 
 ### Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
