@@ -20,8 +20,18 @@
 | Rough sketch brainstorm designs  | 100 points  |
 | Design brief  | 100 points  |
 | Isometric conceptual designs  | 100 points  |
-| Puzzle Cube Solution #1   | 100 points   |
-| Puzzle Cube Solution #2   | 100 points   |
+| Puzzle Cube Solution 1 Part #1   | 100 points   |
+| Puzzle Cube Solution 1 Part #2   | 100 points   |
+| Puzzle Cube Solution 1 Part #3   | 100 points   |
+| Puzzle Cube Solution 1 Part #4   | 100 points   |
+| Puzzle Cube Solution 1 Part #5   | 100 points   |
+| Puzzle Cube Solution 1 SketchUp All Parts   | 500 points   |
+| Puzzle Cube Solution 2 Part #1   | 100 points   |
+| Puzzle Cube Solution 2 Part #2   | 100 points   |
+| Puzzle Cube Solution 2 Part #3   | 100 points   |
+| Puzzle Cube Solution 2 Part #4   | 100 points   |
+| Puzzle Cube Solution 2 Part #5   | 100 points   |
+| Puzzle Cube Solution 2 SketchUp All Parts   | 500 points   |
 
 
 ### Evaluation
