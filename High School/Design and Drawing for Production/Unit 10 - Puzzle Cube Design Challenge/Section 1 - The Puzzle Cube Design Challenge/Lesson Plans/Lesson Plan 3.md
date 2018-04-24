@@ -8,7 +8,7 @@
 
 SWBAT:
 - Finalize their cube designs from rough sketches
-- Conceptualize isometric puzzle cube pieces
+- Conceptualize isometric puzzle cube pieces using isometric graphic paper
 
 ### Preparation
 
@@ -35,7 +35,7 @@ SWBAT:
 
 | Assignment  | Grade |
 | ------------- | ------------- |
-| At least 30 conceptual part designs  | 100 points  |
+| Isometric conceptual designs  | 100 points  |
 
 ### Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |

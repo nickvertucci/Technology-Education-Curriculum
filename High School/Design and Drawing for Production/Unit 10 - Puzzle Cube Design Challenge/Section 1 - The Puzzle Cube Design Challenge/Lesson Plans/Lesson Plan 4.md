@@ -7,7 +7,7 @@
 ### Objectives
 
 SWBAT:
-- Finalize their cube designs from isometric pieces
+- Finalize their cube designs from their isometric graph paper pieces
 - Conceptualize isometric puzzle cube pieces
 - Communicate in detail each solution set
 
@@ -36,18 +36,18 @@ SWBAT:
 
 | Assignment  | Grade |
 | ------------- | ------------- |
-| Solution 1 - Part A  | 100 points  |
-| Solution 1 - Part B  | 100 points  |
-| Solution 1 - Part C  | 100 points  |
-| Solution 1 - Part D  | 100 points  |
-| Solution 1 - Part E  | 100 points  |
-| Solution 1  | 100 points  |
-| Solution 2 - Part A  | 100 points  |
-| Solution 2 - Part B  | 100 points  |
-| Solution 2 - Part C  | 100 points  |
-| Solution 2 - Part D  | 100 points  |
-| Solution 2 - Part E  | 100 points  |
-| Solution 2  | 100 points  |
+| Puzzle Cube Solution 1 Part #1   | 100 points   |
+| Puzzle Cube Solution 1 Part #2   | 100 points   |
+| Puzzle Cube Solution 1 Part #3   | 100 points   |
+| Puzzle Cube Solution 1 Part #4   | 100 points   |
+| Puzzle Cube Solution 1 Part #5   | 100 points   |
+| Puzzle Cube Solution 1 SketchUp All Parts   | 500 points   |
+| Puzzle Cube Solution 2 Part #1   | 100 points   |
+| Puzzle Cube Solution 2 Part #2   | 100 points   |
+| Puzzle Cube Solution 2 Part #3   | 100 points   |
+| Puzzle Cube Solution 2 Part #4   | 100 points   |
+| Puzzle Cube Solution 2 Part #5   | 100 points   |
+| Puzzle Cube Solution 2 SketchUp All Parts   | 500 points   |
 
 ### Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |

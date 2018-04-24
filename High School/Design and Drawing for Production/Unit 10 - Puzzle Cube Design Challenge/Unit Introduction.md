@@ -23,21 +23,23 @@ SWBAT:
 
 ### Unit Grading Breakdown
 
-| Assignment  | Point Amount |
+| Assignment  | Grade |
 | ------------- | ------------- |
-| Section 1 - Puzzle Cube Design Brief Write-Up  | 100 points   |
-| Section 1 - Puzzle Cube Brainstorm Combinations Sketch #1  | 100 points   |
-| Section 1 - Puzzle Cube Combination Isometric Pieces  | 100 points   |
-| Section 1 - Puzzle Cube Solution #1   | 100 points   |
-| Section 1 - Puzzle Cube Solution #2   | 100 points   |
-| Section 1 - Puzzle Cube Orthographic Cube Solution Parts #1   | 100 points   |
-| Section 1 - Puzzle Cube Orthographic Cube Solution Parts #2   | 100 points   |
-| Section 1 - Puzzle Cube Orthographic Cube Solution Parts #1 SketchUp   | 100 points   |
-| Section 1 - Puzzle Cube Orthographic Cube Solution Parts #2 SketchUp   | 100 points   |
-| Section 1 - Puzzle Cube Orthographic Cube Solution SketchUp   | 100 points   |
-| Section 1 - Puzzle Cube Product 3D Print   | 100 points   |
-| Section 1 - Puzzle Cube Student Solution Data   | 100 points   |
-| Section 1 - Puzzle Cube Reflection Write-Up   | 100 points   |
+| Defining our problem statement and creating a design brief  | 100 points  |
+| Rough sketch brainstorm designs  | 100 points  |
+| Isometric conceptual designs  | 100 points  |
+| Puzzle Cube Solution 1 Part #1   | 100 points   |
+| Puzzle Cube Solution 1 Part #2   | 100 points   |
+| Puzzle Cube Solution 1 Part #3   | 100 points   |
+| Puzzle Cube Solution 1 Part #4   | 100 points   |
+| Puzzle Cube Solution 1 Part #5   | 100 points   |
+| Puzzle Cube Solution 1 SketchUp All Parts   | 500 points   |
+| Puzzle Cube Solution 2 Part #1   | 100 points   |
+| Puzzle Cube Solution 2 Part #2   | 100 points   |
+| Puzzle Cube Solution 2 Part #3   | 100 points   |
+| Puzzle Cube Solution 2 Part #4   | 100 points   |
+| Puzzle Cube Solution 2 Part #5   | 100 points   |
+| Puzzle Cube Solution 2 SketchUp All Parts   | 500 points   |
 
 ### Unit Schedule
 
