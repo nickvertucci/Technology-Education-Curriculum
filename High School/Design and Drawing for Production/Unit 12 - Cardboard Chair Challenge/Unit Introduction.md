@@ -4,13 +4,14 @@
 
 ### BIG IDEA
 
-NO GLUE. NOE TAPE. JUST CARDBOARD.
+NO GLUE. NOE TAPE.  FASTENERS. JUST CARDBOARD.
 
 Students are to design full scale chairs that could hold the weight of an adult. No adhesives of any kind are to be allowed.
 
+Just a few simple constraints:
 - Chair must be at least 17” off the ground
 - Chair must have a backrest (aka- no benches or stools)
-- Chair must successfully hold the weight of an adult – approx 120lbs
+- Chair must successfully hold the weight of an adult – approx. 120lbs
 
 ### Objectives
 
@@ -27,8 +28,13 @@ SWBAT:
 | Assignment  | Grade |
 | ------------- | ------------- |
 | Defining our problem statement and creating a design brief  | 100 points  |
-| Rough sketch brainstorm designs  | 100 points  |
-| Isometric conceptual designs  | 100 points  |
+| Rough sketch (rapid viz) brainstorm designs  | 100 points  |
+| Detailed Isometric Designs  | 100 points  |
+| Solution Decision Explanation  | 100 points  |
+| Orthographic Solution  | 100 points  |
+| Prototype Solution  | 100 points  |
+| Key Terms Quiz  | 100 points  |
+
 
 ### Unit Schedule
 
