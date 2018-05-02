@@ -12,18 +12,15 @@ SWBAT:
 
 - [student objective]
 
-### Section Outline
-
-- Section 1 - [section title]
-
-### Unit Grading Breakdown
-
-| Assignment  | Calendar Schedule |
-| ------------- | ------------- |
-| Section [section #] - [section title]  | [amount of points] points   |
-
 ### Unit Schedule
 
 | Assignment  | Calendar Schedule |
 | ------------- | ------------- |
 | [title]  | [dates/range]   |
+
+### Unit Evaluation
+
+| Assignment  | Calendar Schedule |
+| ------------- | ------------- |
+| Section [section #] - [section title]  | [amount of points] points   |
+

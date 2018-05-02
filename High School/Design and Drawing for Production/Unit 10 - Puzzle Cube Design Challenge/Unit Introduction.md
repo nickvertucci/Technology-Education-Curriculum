@@ -1,3 +1,4 @@
+
 # Unit 10 - Puzzle Cube Design Challenge
 
 # Design & Drawing for Production
@@ -5,8 +6,6 @@
 ### BIG IDEA
 
 This unit will go into our DDP puzzle cube design unit where students will define the problem statement, design via SketchUp and Technical drawing techniques a puzzle cube of 1x1x1 blocks and later produce the prototype of their puzzle via 3D printing. The exact puzzle piece will be a 3x3x3 puzzle piece when completed.
-
-Each student will design a puzzle cube of their own that forms a 3x3x3 cube when complete. Each configuration of the block cannot contain more then 6 1x1x1 cubes. All the pieces will need to interlock and be of different color choices as well. Each piece will be sketched and later 3D modeled individually by SketchUp to show interlocking completion.
 
 ### Objectives
 
