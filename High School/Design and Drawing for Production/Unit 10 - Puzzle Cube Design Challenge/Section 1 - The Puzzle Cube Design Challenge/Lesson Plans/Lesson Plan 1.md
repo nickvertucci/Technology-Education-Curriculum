@@ -2,7 +2,7 @@
 
 # Design and Draw for Production
 
-## Unit 10 | Section 1 | Puzzle Cube Design | Day 1
+## Unit 10 | Section 1 | Puzzle Cube Design | Day 1-2
 
 ### Objectives
 
@@ -36,11 +36,7 @@ SWBAT:
 
 | Assignment  | Grade |
 | ------------- | ------------- |
-| Defining our problem statement to start collecting information  | 100 points/design/part  |
-| Rough sketch designs  | 100 points/design/part  |
-| Finalized technical drawings  | 100 points/design/part  |
-| 3D models via SketchUp  | 100 points/design/part  |
-| Layout designs  | 100 points/design/part  |
+| Defining our problem statement and creating a design brief  | 100 points  |
 
 ### Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |

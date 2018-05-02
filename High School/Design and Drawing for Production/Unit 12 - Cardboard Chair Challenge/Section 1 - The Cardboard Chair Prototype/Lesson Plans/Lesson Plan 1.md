@@ -1,39 +1,35 @@
-# Unit 10 - Section 1 - Puzzle Cube Design
+# Daily Lesson Plan
 
-## Design & Drawing for Production
+# Design & Drawing For Production
+
+## Unit 12 | Section 1 | Cardboard Chair Challenge | Day 1-2
+
+### Objectives
+
+SWBAT:
+- Define the problem at hand and design various solutions
+- Communicate their designs via technical drawing, CAD & prototyping
+- Evaluate their designs by means of testing and feedback to make improvements/adjustments
+
+
+### Preparation
 
 ### Materials
-- Laptops/computer lab access
-- Drafting tools and materials
-- 3D printer + filament
+
+- Cardboard ALOT!
+- Utility Knife
 
 ### Resources
 
+- Handout1.md
+
 ### Instructional Outline
-- Lesson Plan 1 - Defining the problem and creating a design brief
-- Lesson Plan 2 - Creating solutions by means of brainstorming
-- Lesson Plan 3 - Getting more detailed with isometric conceptual drawings
 
 ### Assignment / Activities
-The assignments for this unit will total for **2300 total** points of the students total point grade value.
 
 | Assignment  | Grade |
 | ------------- | ------------- |
 | Defining our problem statement and creating a design brief  | 100 points  |
-| Rough sketch brainstorm designs  | 100 points  |
-| Isometric conceptual designs  | 100 points  |
-| Puzzle Cube Solution 1 Part #1   | 100 points   |
-| Puzzle Cube Solution 1 Part #2   | 100 points   |
-| Puzzle Cube Solution 1 Part #3   | 100 points   |
-| Puzzle Cube Solution 1 Part #4   | 100 points   |
-| Puzzle Cube Solution 1 Part #5   | 100 points   |
-| Puzzle Cube Solution 1 SketchUp All Parts   | 500 points   |
-| Puzzle Cube Solution 2 Part #1   | 100 points   |
-| Puzzle Cube Solution 2 Part #2   | 100 points   |
-| Puzzle Cube Solution 2 Part #3   | 100 points   |
-| Puzzle Cube Solution 2 Part #4   | 100 points   |
-| Puzzle Cube Solution 2 Part #5   | 100 points   |
-| Puzzle Cube Solution 2 SketchUp All Parts   | 500 points   |
 
 
 ### Evaluation
@@ -44,5 +40,6 @@ The assignments for this unit will total for **2300 total** points of the studen
 | Effort | 30% | No effort | limited to no effort | Inconsistent day-to-day effort | Showed effort only when needed or routinely directed | Continuous day-to-day effort with or without direction |
 | Creativity/Originality | 15% | No creativity, copied designs | Minimal creativity based off past designs | Moderate improvements based off past designs | Complete overhaul of past or found designs | Completely new idea/design |
 | Craftsmanship/Skill | 15% | Poor execution, no planning | Moderate end result, able to achieve an outcome | Good planning but poorly executed end result | Good planning and good end result although not what had been designed or communicated | Great planning & execution able to achieve what had been designed or communicated |
+
 
 ### Added Notes

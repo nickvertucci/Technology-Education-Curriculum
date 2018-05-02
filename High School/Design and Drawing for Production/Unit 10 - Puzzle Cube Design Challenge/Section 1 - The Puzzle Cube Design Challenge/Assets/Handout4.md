@@ -4,19 +4,12 @@
 
 # STUDENT NAME:
 
-### Puzzle Cube Rough Sketch Design Requirements
-These are the design requirements as part of the first step of the design process in defining our problem.
+### Puzzle Cube Part Finalization
+For the finalization of our parts, each part will need to be orthographic to communicate its production needs.
 
-- No more then 3 cubes in any direction
-- Avoid flat pieces
-- 3-6 cubes  per collection / 27 cubes total
-- 5 collections
-- No repeated shapes
-- No edge joints
-- Rough sketch must indicate ALL parts and include a title block
-- The title block should indicate the drawing as **Puzzle Cube Design Drawing #1**
-- Rough sketch design should be broken into 7 boxes for each part or maximum of parts PLUS the end full isometric result
-- Each rough sketch box should provide a small orthographic of each part
+- The title block should indicate the drawing as **Puzzle Cube Design Part #1, #2 etc.**
+- Be sure to lightly break your drafting paper into 4 quadrants
+- Each part should be drawn to scale
 - Each part should be numbered for puzzle completion
 - The block needs to be a standard dimensions of 2.25" (L) x 2.25" (W) x 2.25" (H)
 - Each individual block needs to be a standard dimension of .75" (L) x .75" (W) x .75" (H)
@@ -25,7 +18,7 @@ These are the design requirements as part of the first step of the design proces
 
 | Assignment  | Grade |
 | ------------- | ------------- |
-| Isometric conceptual designs  | 100 points  |
+| Each finalized part orthographic  | 100 points (possible total of 600 points) |
 
 ### Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |

@@ -1,27 +1,41 @@
-# Unit 10 - Section 1 - Puzzle Cube Design
+# Daily Lesson Plan
 
-## Design & Drawing for Production
+# Design and Draw for Production
+
+## Unit 10 | Section 1 | Puzzle Cube Design | Day 8-25
+
+### Objectives
+
+SWBAT:
+- Finalize their cube designs from their isometric graph paper pieces
+- Conceptualize isometric puzzle cube pieces
+- Communicate in detail each solution set
+
+### Preparation
 
 ### Materials
-- Laptops/computer lab access
 - Drafting tools and materials
-- 3D printer + filament
 
 ### Resources
 
+- Provide each student isometric paper
+
 ### Instructional Outline
-- Lesson Plan 1 - Defining the problem and creating a design brief
-- Lesson Plan 2 - Creating solutions by means of brainstorming
-- Lesson Plan 3 - Getting more detailed with isometric conceptual drawings
+
+- Review design and engineering process
+- Discuss the overall project and what we will be doing along with graded assignments
+  - Creating a 3D puzzle cube made of plastic via our 3D printer
+  - Each piece will need to be interlocking
+  - Technical drawings to start indicating ideas and understanding
+  - Approval of technical drawings in order to move into CAD of pieces
+  - 3D model and Layout of each piece and combined puzzle piece
+- Review the isometric drawing paper and how each part is needed
+- Explain how 30 part concept designs are needed to be communicated
 
 ### Assignment / Activities
-The assignments for this unit will total for **2300 total** points of the students total point grade value.
 
 | Assignment  | Grade |
 | ------------- | ------------- |
-| Defining our problem statement and creating a design brief  | 100 points  |
-| Rough sketch brainstorm designs  | 100 points  |
-| Isometric conceptual designs  | 100 points  |
 | Puzzle Cube Solution 1 Part #1   | 100 points   |
 | Puzzle Cube Solution 1 Part #2   | 100 points   |
 | Puzzle Cube Solution 1 Part #3   | 100 points   |
@@ -34,7 +48,6 @@ The assignments for this unit will total for **2300 total** points of the studen
 | Puzzle Cube Solution 2 Part #4   | 100 points   |
 | Puzzle Cube Solution 2 Part #5   | 100 points   |
 | Puzzle Cube Solution 2 SketchUp All Parts   | 500 points   |
-
 
 ### Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |

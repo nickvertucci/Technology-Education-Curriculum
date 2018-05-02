@@ -1,4 +1,4 @@
-# Unit 10 - Section 1 - Puzzle Cube Design
+# Unit 12 - Section 1 - Cardboard Chair Challenge
 
 ## Design & Drawing for Production
 
@@ -15,25 +15,13 @@
 - Lesson Plan 3 - Getting more detailed with isometric conceptual drawings
 
 ### Assignment / Activities
-The assignments for this unit will total for **2300 total** points of the students total point grade value.
+The assignments for this unit will total for **300 total** points of the students total point grade value.
 
 | Assignment  | Grade |
 | ------------- | ------------- |
 | Defining our problem statement and creating a design brief  | 100 points  |
 | Rough sketch brainstorm designs  | 100 points  |
 | Isometric conceptual designs  | 100 points  |
-| Puzzle Cube Solution 1 Part #1   | 100 points   |
-| Puzzle Cube Solution 1 Part #2   | 100 points   |
-| Puzzle Cube Solution 1 Part #3   | 100 points   |
-| Puzzle Cube Solution 1 Part #4   | 100 points   |
-| Puzzle Cube Solution 1 Part #5   | 100 points   |
-| Puzzle Cube Solution 1 SketchUp All Parts   | 500 points   |
-| Puzzle Cube Solution 2 Part #1   | 100 points   |
-| Puzzle Cube Solution 2 Part #2   | 100 points   |
-| Puzzle Cube Solution 2 Part #3   | 100 points   |
-| Puzzle Cube Solution 2 Part #4   | 100 points   |
-| Puzzle Cube Solution 2 Part #5   | 100 points   |
-| Puzzle Cube Solution 2 SketchUp All Parts   | 500 points   |
 
 
 ### Evaluation

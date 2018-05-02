@@ -62,3 +62,20 @@ The overall grading of the course is weighted as indicated below:
 | Projects | 2.5% |
 | Quizzes | 5% |
 | Tests | 10% |
+
+### Course Calendar And Descriptions
+
+The overall grading of the course is weighted as indicated below:
+
+| Schedule | Unit Number | Unit Title | Description | Point Total |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| September | 1 | Introduction & The Design Process |
+| October | 2.5% |
+| November | 50% |
+| December | 10% |
+| January | 2.5% |
+| February | 2.5% |
+| March | 0% |
+| April | 2.5% |
+| May | 5% |
+| June | 10% |

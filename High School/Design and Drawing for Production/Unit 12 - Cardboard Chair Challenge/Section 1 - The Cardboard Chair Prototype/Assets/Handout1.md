@@ -1,4 +1,4 @@
-# Unit 10 - Section 1 - Puzzle Cube Design Handout 1
+# Unit 12 - Section 1 - Cardboard Chair Prototype Handout 1
 
 # Design and Draw for Production
 
