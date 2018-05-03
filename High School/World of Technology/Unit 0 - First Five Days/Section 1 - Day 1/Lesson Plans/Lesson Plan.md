@@ -1,24 +1,46 @@
 # Daily Lesson Plan
 
-# [CLASS NAME]
+# World of Technology
 
-## Unit [#] | Section [#] | [topic] | Day [#]
+## Unit 0 | Section 1 | Day 1 | Day 1
 
 ### Objectives
+
+The purpose of this lesson is to engage students in the Foundations of Technology course from day one, while enhancing their technological literacy and their skill set to solve problems and engineer design solutions.
 
 ### Preparation
 
 ### Materials
 
+- 12” of Masking tape
+- 1 Popsicle Stick
+- 1 Balloon
+- 2 paper clips
+- 2 rubber bands
+- 1 Clothespin for a passenger
+
 ### Resources
 
 ### Instructional Outline
+
+1. As students enter the room, the teacher will group students in pairs
+2. Hand them a set of materials for the problem solving activity
+3. The teacher may choose to supply a sheet of graph paper for sketching ideas
+4. Students, working in groups of two will construct a transportation vehicle
+5. Each team needs to design a vehicle using the provided materials
+6. The vehicle should transport a passenger safely from point A to Point B
+7. The teacher will set up a course for the student vehicle to travel on while students are brainstorming solutions
+8. The course will be constructed using a fishing line as the path for the vehicle can travel on
+9. The fishing line will start at ground level at a distance of 5 feet from the wall and travel at an angle upwards to about six feet high on the wall
+10. The vehicle must be self-propelled and travel from the ground to the wall
+11. You may only use the provided materials.
+12. You have one class period to complete the activity
 
 ### Assignment / Activities
 
 | Assignment  | Points |
 | ------------- | ------------- |
-| [title]  | [Points]   |
+| Day 1 Activity - Transportation Vehicle  | 100   |
 
 ### Evaluation
 
