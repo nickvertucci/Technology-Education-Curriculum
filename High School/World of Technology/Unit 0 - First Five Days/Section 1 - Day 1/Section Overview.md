@@ -1,24 +1,26 @@
-# Daily Lesson Plan
+# Unit 0 - Section 1 - Day 1
 
-# [CLASS NAME]
+# World of Technology
 
-## Unit [#] | Section [#] | [topic] | Day [#]
+### Section Overview
 
-### Objectives
+The 21st century skills of collaboration and problem solving are essential for engineering solutions of the future.
+
+The purpose of this lesson is to engage students in the Foundations of Technology course from day one, while enhancing their technological literacy and their skill set to solve problems and engineer design solutions.
 
 ### Preparation
 
 ### Materials
 
-### Resources
+### Assets
 
-### Instructional Outline
+- Unit 0 - Section 1 - Day 1 - LP1.ppt
 
 ### Assignment / Activities
 
 | Assignment  | Points |
 | ------------- | ------------- |
-| [title]  | [Points]   |
+| Day 1 Activity - Transportation Vehicle  | 100   |
 
 ### Evaluation
 

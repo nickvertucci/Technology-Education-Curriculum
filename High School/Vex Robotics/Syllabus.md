@@ -1,6 +1,6 @@
 # World of Technology
 
-Course #1228 | 1 Credit | Prerequisite: NONE
+Course #1220 | 1 Credit | Prerequisite: NONE
 
 ## Course Syllabus
 
@@ -10,16 +10,10 @@ Course #1228 | 1 Credit | Prerequisite: NONE
 
 ### Course Description
 
-This course is an overall survey course of modern technology. Topics covered, but not
-limited to are: plastics, metals, wood, hydroponics, flight and transportation systems, robotics,
-foundation of technology, and engineering projects. This is a project based hands-on course
-where the student works in groups and individually to complete projects of their own design.
-
-***This course may be used as a third credit in Math or Science.***
 
 ### Course Requirements
 
-Students are required to complete several projects.  The quality and overall presentation of these projects will be used to determine the grade.  Particular attention to detail will be emphasized. Students will be required to accumulate skills from the beginning of the course and will be expected to build on their skills with each successive project. Each assignment will be evaluated based on:
+Students are required to complete several drawing projects.  The quality and overall presentation of these projects will be used to determine the grade.  Particular attention to detail will be emphasized. Students will be required to accumulate skills from the beginning of the course and will be expected to build on their skills with each successive project. Each assignment will be evaluated based on:
 
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -32,11 +26,11 @@ Students are required to complete several projects.  The quality and overall pre
 
 ### Required materials
 
-Effective storage of projects and organization of materials is critical to student success. In order to aid students the items listed below will be needed:
+DDP is a drafting and production course. Effective storage of projects and organization of materials is critical to student success. In order to aid students the items listed below will be needed:
 
 - 1 x folder
 - 1 x 3 ring binder
-- Loose leaf paper/notebook for notes, sketches and ideation
+- Loose leaf paper for notes, sketches and ideation
 ***Laptops are allowed as long as they are utilized towards course work and not a distraction or they will not be permitted in class. All students are provided the G Suite of tools via Google and their school account.***
 
 ### Course Category Grading
