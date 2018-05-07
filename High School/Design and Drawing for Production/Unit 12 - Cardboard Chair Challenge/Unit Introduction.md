@@ -29,9 +29,7 @@ SWBAT:
 | ------------- | ------------- |
 | Defining our problem statement and creating a design brief  | 100 points  |
 | Rough sketch (rapid viz) brainstorm designs  | 100 points  |
-| Detailed Isometric Designs  | 100 points  |
 | Solution Decision Explanation  | 100 points  |
-| Orthographic Solution  | 100 points  |
 | Prototype Solution  | 100 points  |
 | Key Terms Quiz  | 100 points  |
 
