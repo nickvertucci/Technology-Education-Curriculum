@@ -21,7 +21,7 @@ SWBAT:
 
 ### Unit Outline
 
-- Section 1 - The Cardboard Chair Prototype
+- Section 1 - The Cardboard Chair
 
 ### Unit Grading Breakdown
 
@@ -31,7 +31,7 @@ SWBAT:
 | Creating a design brief  | 100 points  |
 | Rough sketch (rapid viz) brainstorm designs  | 100 points  |
 | Solution Decision Explanation  | 100 points  |
-| Prototype Solution  | 100 points  |
+| Scaled Prototype Solution  | 100 points  |
 | Key Terms Quiz  | 100 points  |
 
 
@@ -40,4 +40,7 @@ SWBAT:
 | Section  | Calendar Schedule |
 | ------------- | ------------- |
 | Section 1 - Introduction  | Day 1-2   |
-| Section 1 - Brainstorm Combinations Sketch  | Day 2-5   |
+| Section 1 - Problem Statement Document  | Day 3   |
+| Section 1 - Design Brief  | Day 4-6   |
+| Section 1 - Decision Solution Explanation  | Day 7   |
+| Section 1 - Scaled Prototype  | Day 8-12   |

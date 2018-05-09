@@ -15,8 +15,6 @@ As our final assignment, design and build an aesthetically pleasing and original
 3. Chair must successfully hold the weight of an adult – approx 120lbs.
 4. Chair must be constructed of cardboard ONLY
 
-
-
 ### Design and Engineering Process Questions
 These questions should be answered via Google Classroom as part of a single document 'defining your problem statement' and are here as reference for you.
 
