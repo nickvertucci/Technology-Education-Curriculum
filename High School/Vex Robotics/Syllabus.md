@@ -1,6 +1,6 @@
-# World of Technology
+# VEX Robotics
 
-Course #1220 | 1 Credit | Prerequisite: NONE
+Course #NA | 1/2Credit | Prerequisite: NONE
 
 ## Course Syllabus
 

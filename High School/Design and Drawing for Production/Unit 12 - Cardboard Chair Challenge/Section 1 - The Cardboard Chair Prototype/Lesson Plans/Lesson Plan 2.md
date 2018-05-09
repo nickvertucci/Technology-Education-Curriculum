@@ -1,35 +1,35 @@
-# Unit 12 - Section 1 - Cardboard Chair Handout 1
+# Daily Lesson Plan
 
-# Design and Draw for Production
+# Design & Drawing For Production
 
-# STUDENT NAME:
+## Unit 12 | Section 1 | Cardboard Chair Challenge | Day 1-2
 
-### Problem Statement
+### Objectives
 
-**Problem Statement:**
-As our final assignment, design and build an aesthetically pleasing and original chair built entirely of cardboard using no glue or adhesives of any kind. This not only will provide feedback as to design process critical thinking, but also show how household products are easily reusable.
-
-**Constraints:**
-1. Chair must be at least 17” off the ground
-2. Chair must have a backrest (aka - no benches or stools)
-3. Chair must successfully hold the weight of an adult – approx 120lbs.
-4. Chair must be constructed of cardboard ONLY
+SWBAT:
+- Define the problem at hand and design various solutions
+- Communicate their designs via technical drawing, CAD & prototyping
+- Evaluate their designs by means of testing and feedback to make improvements/adjustments
 
 
+### Preparation
 
-### Design and Engineering Process Questions
-These questions should be answered via Google Classroom as part of a single document 'defining your problem statement' and are here as reference for you.
+### Materials
 
-**What is our problem statement?**
+- Cardboard ALOT!
+- Utility Knife
 
+### Resources
 
-**Why are we designing a cardboard chair?**
+- Handout1.md
 
+### Instructional Outline
 
-**What areas of the project do you think will be most difficult and why?**
+### Assignment / Activities
 
-
-**Who are you designing your cardboard chair for?**
+| Assignment  | Grade |
+| ------------- | ------------- |
+| Defining our problem statement and creating a design brief  | 100 points  |
 
 
 ### Evaluation
@@ -40,5 +40,6 @@ These questions should be answered via Google Classroom as part of a single docu
 | Effort | 30% | No effort | limited to no effort | Inconsistent day-to-day effort | Showed effort only when needed or routinely directed | Continuous day-to-day effort with or without direction |
 | Creativity/Originality | 15% | No creativity, copied designs | Minimal creativity based off past designs | Moderate improvements based off past designs | Complete overhaul of past or found designs | Completely new idea/design |
 | Craftsmanship/Skill | 15% | Poor execution, no planning | Moderate end result, able to achieve an outcome | Good planning but poorly executed end result | Good planning and good end result although not what had been designed or communicated | Great planning & execution able to achieve what had been designed or communicated |
+
 
 ### Added Notes

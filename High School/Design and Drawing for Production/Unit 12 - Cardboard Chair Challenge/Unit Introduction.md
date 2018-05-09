@@ -27,7 +27,8 @@ SWBAT:
 
 | Assignment  | Grade |
 | ------------- | ------------- |
-| Defining our problem statement and creating a design brief  | 100 points  |
+| Defining our problem statement  | 100 points  |
+| Creating a design brief  | 100 points  |
 | Rough sketch (rapid viz) brainstorm designs  | 100 points  |
 | Solution Decision Explanation  | 100 points  |
 | Prototype Solution  | 100 points  |

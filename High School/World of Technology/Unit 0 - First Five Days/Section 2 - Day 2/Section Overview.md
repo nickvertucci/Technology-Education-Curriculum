@@ -1,38 +1,29 @@
-# Unit 12 - Section 1 - Cardboard Chair Handout 1
+# Unit 0 - Section 2 - Day 2
 
-# Design and Draw for Production
+# World of Technology
 
-# STUDENT NAME:
+### Section Overview
 
-### Problem Statement
+The 21st century skills of collaboration and problem solving are essential for engineering solutions of the future.
 
-**Problem Statement:**
-As our final assignment, design and build an aesthetically pleasing and original chair built entirely of cardboard using no glue or adhesives of any kind. This not only will provide feedback as to design process critical thinking, but also show how household products are easily reusable.
+The purpose of this lesson is to introduce students to a simplified version of the Engineering Design Process. Students will apply the simplified process through Unit 1. In Unit 2 students will be introduced to the twelve-step high school version of the Engineering Design Process.
 
-**Constraints:**
-1. Chair must be at least 17” off the ground
-2. Chair must have a backrest (aka - no benches or stools)
-3. Chair must successfully hold the weight of an adult – approx 120lbs.
-4. Chair must be constructed of cardboard ONLY
+### Preparation
 
+### Materials
 
+### Assets
 
-### Design and Engineering Process Questions
-These questions should be answered via Google Classroom as part of a single document 'defining your problem statement' and are here as reference for you.
+- Unit 0 - Section 2 - Day 2 - LP1.ppt
 
-**What is our problem statement?**
+### Assignment / Activities
 
-
-**Why are we designing a cardboard chair?**
-
-
-**What areas of the project do you think will be most difficult and why?**
-
-
-**Who are you designing your cardboard chair for?**
-
+| Assignment  | Points |
+| ------------- | ------------- |
+| Day 2 Activity - Creating The Engineering Design Process  | 100   |
 
 ### Evaluation
+
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Organization | 20% | Unable to find assignments or not routinely saved | Able to demonstrate some organization by backing up files or use of folders | Both drawings and models are identifiable and can be found if needed | All drawings are in a folder and models organized by folders in Google Drive | All drawings are in a folder labeled correctly and models organized by folders in Google Drive labeled correctly |
