@@ -20,7 +20,7 @@ Technology Education Curriculum
     └── Unit
     └── Section
     └── Lesson Plan
-    └── Powerpoint
+    └── PowerPoint
     └── Handout
 ├── High School
     └── Advanced Design Applications

@@ -1,46 +1,34 @@
-# Unit 12 - Section 1 - Cardboard Chair Prototype Handout 1
+# Unit 12 - Section 1 - Cardboard Chair Handout 1
 
 # Design and Draw for Production
 
 # STUDENT NAME:
 
-### Design Brief
+### Problem Statement
 
 **Problem Statement:**
-A local office furniture manufacturing company throws away tens of thousands of scrap ¾” hardwood cubes that result from its furniture construction processes. The material is expensive, and the scrap represents a sizeable loss of profit.
-
-**Design Statement:**
-Fine Office Furniture, Inc. would like to return value to its waste product by using it as the raw material for desktop novelty items that will be sold on the showroom floor. Design, build, test, document, and present a three-dimensional puzzle system that is made from the scrap hardwood cubes. The puzzle system must provide an appropriate degree of challenge to a person who is three years of age or older.
+As our final assignment, design and build an aesthetically pleasing and original chair built entirely of cardboard using no glue or adhesives of any kind. This not only will provide feedback as to design process critical thinking, but also show how household products are easily reusable.
 
 **Constraints:**
-1. The puzzle must be fabricated from 27, ¾” hardwood cubes.
-2. The puzzle system must contain exactly five puzzle pieces.
-3. Each individual puzzle piece must consist of at least three, but no more than six hardwood cubes that are permanently attached to each other.
-4. No two puzzle pieces can be the same.
-5. The five puzzle pieces must assemble to form a 2 ¼” cube.
-6. Some puzzle parts should interlock.
-
+1. Chair must be at least 17” off the ground
+2. Chair must have a backrest (aka - no benches or stools)
+3. Chair must successfully hold the weight of an adult – approx 120lbs.
+4. Chair must be constructed of cardboard ONLY
 
 ### Design and Engineering Process Questions
-These questions should be answered via Google Classroom as part of a single document and are here as reference for you.
+These questions should be answered via Google Classroom as part of a single document 'defining your problem statement' and are here as reference for you.
 
 **What is our problem statement?**
 
 
-**Why are we designing a puzzle cube?**
+**Why are we designing a cardboard chair?**
 
 
 **What areas of the project do you think will be most difficult and why?**
 
 
-**Who are you designing your puzzle cube for or who is your target audience?**
+**Who are you designing your cardboard chair for?**
 
-### Assignment / Activities
-These are the assignments and/or activities that you will be graded for during this entire unit.
-
-| Assignment  | Grade |
-| ------------- | ------------- |
-| Design and Engineering Process questions  | 100 points  |
 
 ### Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
