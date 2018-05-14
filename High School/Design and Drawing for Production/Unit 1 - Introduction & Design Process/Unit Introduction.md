@@ -4,7 +4,7 @@
 
 ### BIG IDEA
 
-[the big idea]
+This first unit is specifically put together to get each student off onto the right track. Coming out of Middle School Technology, the Engineering & Design Process is hinted but rarely emphasized. This unit will help create student expectations in order to heavily utilized the Engineering & Design Process in completing drawings and assignments for the entire year.
 
 ### Objectives
 
@@ -14,7 +14,11 @@ SWBAT:
 
 ### Section Outline
 
-- Section 1 - [section title]
+- Section 1 - Drafting as a Communication Tool
+- Section 2 - Drafting as a Problem-Solving Tool
+- Section 3 - Drafting as a Design Tool
+- Section 4 - Models
+- Section 5 - Engineering & Design Process
 
 ### Unit Grading Breakdown
 

@@ -1,12 +1,12 @@
 # Design and Drawing for Production
 
-Course #1220 | 1 Credit | Prerequisite: NONE
+Course #1220 | 1 Credit | Prerequisite: World Of Technology
 
 ## Course Syllabus
 
-  - Mr. Vertucci
+  - Mr. Nick Vertucci
   - nvertucci@swr.k12.ny.us
-  - Extra Help: by appointment
+  - Extra Help: by appointment only
 
 ### Course Description
 
@@ -25,10 +25,9 @@ to different projects.
 
 ***May be taken for Regents credit to satisfy the High School Art/Music requirement.***
 
-
 ### Course Requirements
 
-Students are required to complete several drawing projects.  The quality and overall presentation of these projects will be used to determine the grade.  Particular attention to detail will be emphasized. Students will be required to accumulate skills from the beginning of the course and will be expected to build on their skills with each successive project. Each assignment will be evaluated based on:
+Students are required to complete several drawing projects including 3D printing prototypes.  The quality and overall presentation of these projects will be used to determine the grade.  Particular attention to detail will be emphasized. Students will be required to accumulate skills from the beginning of the course and will be expected to build on their skills with each successive project and/or assignment. Each assignment will be evaluated based on this grading rubric:
 
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -41,12 +40,12 @@ Students are required to complete several drawing projects.  The quality and ove
 
 ### Required materials
 
-DDP is a drafting and production course. Effective storage of projects and organization of materials is critical to student success. In order to aid students the items listed below will be needed:
+DDP is a drafting and production course. Effective storage of projects and organization of materials is critical to student success. In order to aid students the items listed below will be beneficial:
 
 - 1 x folder
 - 1 x 3 ring binder
 - Loose leaf paper for notes, sketches and ideation
-***Laptops are allowed as long as they are utilized towards course work and not a distraction or they will not be permitted in class. All students are provided the G Suite of tools via Google and their school account.***
+***Laptops are allowed and encouraged as long as they are utilized towards course work and not a distraction or they will not be permitted in class. All students are provided the G Suite of tools via Google and their school account.***
 
 ### Course Category Grading
 
@@ -71,13 +70,4 @@ The overall grading of the course is weighted as indicated below:
 
 | Schedule | Unit Number | Unit Title | Description | Point Total |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| September | 1 | Introduction & The Design Process |
-| October | 2.5% |
-| November | 50% |
-| December | 10% |
-| January | 2.5% |
-| February | 2.5% |
-| March | 0% |
-| April | 2.5% |
-| May | 5% |
-| June | 10% |
+| September | 1 | Introduction & The Design Process | Introductory to course units, expectations and The Design Process |
