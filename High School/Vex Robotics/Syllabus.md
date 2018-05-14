@@ -10,6 +10,14 @@ Course #NA | 1/2Credit | Prerequisite: NONE
 
 ### Course Description
 
+This curriculum leverages the “coolness” of robotics, and the excitement of head to head competition to inspire and engage students.
+
+Students will walk through the design and build a mobile robot to play a sport-like game.  During this process they will learn key STEM principles, and robotics concepts.  At the culmination of this class, they will compete head-to-head against their peers in the classroom, or on the world stage in the VEX Robotics Competition, the largest and fastest growing international robotics competition for middle and high school students.
+
+This modular and project-based curriculum teaches the design process in an engaging, hands-on manner to help teachers challenge, motivate, and inspire their students.  By moving students through an actual engineering project, students quickly understand the relevance of what they are learning.
+
+The curriculum is created to ensure that students with varying learning styles and levels can accomplish the lesson goals.  No prior robotics experience is required; beginners are able to advance sequentially through the units to gradually increase their knowledge and skill level.
+
 
 ### Course Requirements
 
@@ -26,8 +34,6 @@ Students are required to complete several drawing projects.  The quality and ove
 
 ### Required materials
 
-DDP is a drafting and production course. Effective storage of projects and organization of materials is critical to student success. In order to aid students the items listed below will be needed:
-
 - 1 x folder
 - 1 x 3 ring binder
 - Loose leaf paper for notes, sketches and ideation
@@ -39,14 +45,8 @@ The overall grading of the course is weighted as indicated below:
 
 | Category | Weight |
 | ------------- | ------------- |
-| Assignments | 15% |
-| Do Now's | 2.5% |
+| Assignments | 35% |
 | Drawings | 50% |
-| Friday Challenges | 10% |
-| Homework | 2.5% |
-| Presentations | 2.5% |
-| Pretests | 0% |
-| Projects | 2.5% |
 | Quizzes | 5% |
 | Tests | 10% |
 
