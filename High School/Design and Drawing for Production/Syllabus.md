@@ -71,3 +71,6 @@ The overall grading of the course is weighted as indicated below:
 | 3 | Using Drafting Tools & Systems | Drafting Equipment, CAD, Alphabet of Lines, Erasing techniques and scales | |
 | 4 | Technical Sketching for Communication | Sketching equipment, techniques, and problem-solving | |
 | 5 | Technical lettering | Pencil techniques, styles of lettering, guidelines, lettering with pen | |
+| 6 | Basic Geometry in Drafting | Straight lines, angles, circles, arcs, and polygons | |
+| 7 | Multiview Drawings | orthographic projection, object visualization, finishing a drawing | |
+| 8 | Dimensioning Fundamentals | Dimensioning elements, measuring systems, dimensioning features for size, notes | |
