@@ -68,3 +68,6 @@ The overall grading of the course is weighted as indicated below:
 | ------------- | ------------- | ------------- | ------------- |
 | 1 | Introduction & The Design Process | Introductory to course units, expectations and The Design Process | |
 | 2 | Drafting as a Communication | First look into sketches, mechanical or computer drawing, presentation, and problem-solving | |
+| 3 | Using Drafting Tools & Systems | Drafting Equipment, CAD, Alphabet of Lines, Erasing techniques and scales | |
+| 4 | Technical Sketching for Communication | Sketching equipment, techniques, and problem-solving | |
+| 5 | Technical lettering | Pencil techniques, styles of lettering, guidelines, lettering with pen | |
