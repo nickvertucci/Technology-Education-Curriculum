@@ -65,6 +65,6 @@ The overall grading of the course is weighted as indicated below:
 The overall grading of the course is weighted as indicated below:
 
 | Unit Number | Unit Title | Description | Point Total |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | 1 | Introduction & The Design Process | Introductory to course units, expectations and The Design Process | |
 | 2 | Drafting as a Communication | First look into sketches, mechanical or computer drawing, presentation, and problem-solving | |
