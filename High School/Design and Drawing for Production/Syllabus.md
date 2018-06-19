@@ -54,15 +54,11 @@ The overall grading of the course is weighted as indicated below:
 | Category | Weight |
 | ------------- | ------------- |
 | Assignments | 15% |
-| Do Now's | 2.5% |
-| Drawings | 50% |
-| Friday Challenges | 10% |
-| Homework | 2.5% |
-| Presentations | 2.5% |
+| Drawings | 60% |
+| Homework | 5% |
+| Presentations | 5% |
 | Pretests | 0% |
-| Projects | 2.5% |
-| Quizzes | 5% |
-| Tests | 10% |
+| Tests | 15% |
 
 ### Course Calendar And Descriptions
 
