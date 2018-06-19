@@ -14,7 +14,7 @@ SWBAT:
 
 ### Section Outline
 
-- Section 1 - Drafting as a Communication Tool
+- Section 1 - Syllabus overview and classroom operation
 - Section 2 - Drafting as a Problem-Solving Tool
 - Section 3 - Drafting as a Design Tool
 - Section 4 - Models
