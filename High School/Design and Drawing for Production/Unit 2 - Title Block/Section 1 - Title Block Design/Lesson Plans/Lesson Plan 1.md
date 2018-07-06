@@ -27,7 +27,10 @@ SWBAT:
 ### Instructional Outline
 
 1. Provide students will the expectation of what is to be accomplished and why we are doing it.
-  - Be sure to explain that in order to move onto to the next drawing assignment a 100 needs to be achieved (perseverance).
+      - Be sure to explain that in order to move onto to the next drawing assignment a 100 needs to be achieved (perseverance).
+      - Continually assist and teach as incorrect submissions are being presented.
+      - Probe the students for reasons why they think it might be wrong.
+      - Review constraints and specifications as needed.
 2. Emphasize the first few states of the design process and there important, especially step 1 which is to define your problem.
 3. Provide the technical specifications of the title block to be drawn.
 4. Demonstrate developing the title block, the border, the title area, areas for name, date, class, and drawing number.
