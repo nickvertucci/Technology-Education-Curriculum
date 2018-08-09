@@ -1,6 +1,6 @@
 # Unit 0 - Section 1 - Day 1
 
-# World of Technology
+# World of Technology (FoT)
 
 ### Section Overview
 
@@ -8,9 +8,18 @@ The 21st century skills of collaboration and problem solving are essential for e
 
 The purpose of this lesson is to engage students in the Foundations of Technology course from day one, while enhancing their technological literacy and their skill set to solve problems and engineer design solutions.
 
+This section consists of *1 total day.*
+
 ### Preparation
 
 ### Materials
+
+- 12” of Masking tape
+- 1 Popsicle Stick
+- 1 Balloon
+- 2 paper clips
+- 2 rubber bands
+- 1 Clothespin for a passenger
 
 ### Assets
 
@@ -20,7 +29,7 @@ The purpose of this lesson is to engage students in the Foundations of Technolog
 
 | Assignment  | Points |
 | ------------- | ------------- |
-| Day 1 Activity - Transportation Vehicle  | 100   |
+| Day 1 Activity - Transportation Vehicle  | 100 points   |
 
 ### Evaluation
 
