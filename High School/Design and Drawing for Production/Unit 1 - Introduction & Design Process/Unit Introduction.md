@@ -12,7 +12,7 @@ SWBAT:
 
 - [student objective]
 
-### Section Outline
+### Unit Outline
 
 - Section 1 - Syllabus overview and classroom operation
 - Section 2 - Drafting as a Problem-Solving Tool
@@ -20,14 +20,14 @@ SWBAT:
 - Section 4 - Models
 - Section 5 - Engineering & Design Process
 
-### Unit Grading Breakdown
-
-| Assignment  | Calendar Schedule |
-| ------------- | ------------- |
-| Section [section #] - [section title]  | [amount of points] points   |
-
 ### Unit Schedule
 
 | Assignment  | Calendar Schedule |
 | ------------- | ------------- |
 | [title]  | [dates/range]   |
+
+### Unit Grading Breakdown
+
+| Assignment  | Calendar Schedule |
+| ------------- | ------------- |
+| Section [section #] - [section title]  | [amount of points] points   |
