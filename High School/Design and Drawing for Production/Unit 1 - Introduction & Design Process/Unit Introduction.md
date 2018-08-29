@@ -4,7 +4,7 @@
 
 ### BIG IDEA
 
-This first unit is specifically put together to get each student off onto the right track. Coming out of Middle School Technology, the Engineering & Design Process is hinted but rarely emphasized. This unit will help create student expectations in order to heavily utilized the Engineering & Design Process in completing drawings and assignments for the entire year.
+This first unit is specifically put together to get each student off onto the right track. Coming out of Middle School Technology, the Engineering & Design Process is hinted but rarely emphasized. This unit will help create student expectations in order to heavily utilize the Engineering & Design Process in completing drawings and assignments for the entire year.
 
 ### Objectives
 
@@ -14,7 +14,7 @@ SWBAT:
 
 ### Unit Outline
 
-- Section 1 - Syllabus overview and classroom operation
+- Section 1 - Syllabus Overview and Classroom Operation
 - Section 2 - Drafting as a Problem-Solving Tool
 - Section 3 - Drafting as a Design Tool
 - Section 4 - Models
@@ -22,12 +22,13 @@ SWBAT:
 
 ### Unit Schedule
 
-| Assignment  | Calendar Schedule |
+| Section  | Calendar Schedule |
 | ------------- | ------------- |
-| [title]  | [dates/range]   |
+| Syllabus Overview and Classroom Operation  | September 5-9 |
 
 ### Unit Grading Breakdown
 
-| Assignment  | Calendar Schedule |
-| ------------- | ------------- |
-| Section [section #] - [section title]  | [amount of points] points   |
+| Section  | Assignment | Points |
+| ------------- | ------------- | ------------- |
+| Section 1 | What is Technology? | 10 points |
+| Section 1 | Classroom Operation Test | 100 points |

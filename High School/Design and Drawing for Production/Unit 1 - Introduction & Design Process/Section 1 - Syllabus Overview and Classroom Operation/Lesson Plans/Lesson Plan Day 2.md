@@ -2,7 +2,7 @@
 
 # Design And Drawing For Production
 
-## Unit 1 | Section 1 | PRETEST | Day 1
+## Unit 1 | Section 1 | Classroom Operation | Day 2
 
 ### Objectives
 
@@ -14,17 +14,13 @@
 
 ### Instructional Outline
 
-1. Introduce students to the course syllabus
-2. Review the course syllabus and first Unit sections
-3. Distribute the 'PRETEST'
-4. Explain that the 'PRETEST' should be answered to the best of their ability
-5. The 'PRETEST' needs to be completed and handed in at the end of the class period
+1. Introduce classroom procedures, rules, and operations
 
 ### Assignment / Activities
 
-| Assignment  | Points |
-| ------------- | ------------- |
-| Design And Drawing For Production PRETEST  | 0 points   |
+| Section  | Assignment | Points |
+| ------------- | ------------- | ------------- |
+| Section 1 | What is Technology? | 10 points |
 
 ### Evaluation
 

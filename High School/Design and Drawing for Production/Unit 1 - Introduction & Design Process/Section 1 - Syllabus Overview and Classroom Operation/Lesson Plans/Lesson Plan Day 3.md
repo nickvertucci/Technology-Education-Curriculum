@@ -1,6 +1,8 @@
-# Unit 1 - Section 1 - Drafting As A Communication Tool
+# Daily Lesson Plan
 
 # Design And Drawing For Production
+
+## Unit 1 | Section 1 | Classroom Operation Continued | Day 3
 
 ### Objectives
 
@@ -12,7 +14,13 @@
 
 ### Instructional Outline
 
+1. Continue classroom procedures, rules, and operations
+
 ### Assignment / Activities
+
+| Assignment  | Points |
+| ------------- | ------------- |
+| Section 1 | Classroom Operation Test | 100 points |
 
 ### Evaluation
 
