@@ -7,6 +7,7 @@ Course #1220 | 1 Credit | Prerequisite:
   - Mr. Vertucci
   - nvertucci@swr.k12.ny.us
   - Extra Help: by appointment only
+  - Twitter: @nick_vertucci
 
 ### Course Description
 
