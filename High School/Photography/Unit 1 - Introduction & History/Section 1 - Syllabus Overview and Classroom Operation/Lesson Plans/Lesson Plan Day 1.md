@@ -16,7 +16,6 @@
 
 1. Introduce students to the course syllabus
 2. Review the course syllabus and Unit Breakdowns
-3. Explain Google Classroom and its use
 3. Explain first assignment 'What Is Technology?'
 
 ### Assignment / Activities

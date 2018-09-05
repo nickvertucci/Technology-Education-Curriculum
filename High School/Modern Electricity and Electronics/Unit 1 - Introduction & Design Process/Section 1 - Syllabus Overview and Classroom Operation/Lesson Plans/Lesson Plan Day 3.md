@@ -2,7 +2,7 @@
 
 # Design And Drawing For Production
 
-## Unit 1 | Section 1 | Syllabus Overview & Unit Rundown | Day 1
+## Unit 1 | Section 1 | Classroom Operation Continued | Day 3
 
 ### Objectives
 
@@ -14,15 +14,13 @@
 
 ### Instructional Outline
 
-1. Introduce students to the course syllabus
-2. Review the course syllabus and Unit Breakdowns
-3. Explain Google Classroom and its use
-3. Explain first assignment 'What Is Technology?'
+1. Continue classroom procedures, rules, and operations
 
 ### Assignment / Activities
 
-| Section | Assignment  | Points |
-| ------------- | ------------- | ------------- |
+| Assignment  | Points |
+| ------------- | ------------- |
+| Section 1 | Classroom Operation Test | 100 points |
 
 ### Evaluation
 
