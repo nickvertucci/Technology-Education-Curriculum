@@ -20,7 +20,6 @@
 
 | Assignment  | Points |
 | ------------- | ------------- |
-| Section 1 | Classroom Operation Test | 100 points |
 
 ### Evaluation
 

@@ -23,6 +23,7 @@
 
 | Section | Assignment  | Points |
 | ------------- | ------------- | ------------- |
+| Section 1 | Google Classroom Sign-Up | 10 points |
 
 ### Evaluation
 

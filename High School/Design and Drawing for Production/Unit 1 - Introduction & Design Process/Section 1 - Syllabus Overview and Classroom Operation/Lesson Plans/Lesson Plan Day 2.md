@@ -14,13 +14,16 @@
 
 ### Instructional Outline
 
-1. Introduce classroom procedures, rules, and operations
+1. Present DDP pretest of 15 Questions
+2. After completion review the Pretest
+3. Mention to students this will be part of the unit test and you will take the higher grade at the end of the unit when the unit assessment is taken
+4. Remind about Google Classroom
 
 ### Assignment / Activities
 
 | Section  | Assignment | Points |
 | ------------- | ------------- | ------------- |
-| Section 1 | What is Technology? | 10 points |
+| Section 1 | Design and Drawing For Production Pretest | 0 points |
 
 ### Evaluation
 
