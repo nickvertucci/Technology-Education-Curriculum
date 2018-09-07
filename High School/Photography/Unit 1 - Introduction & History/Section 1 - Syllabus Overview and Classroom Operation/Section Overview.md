@@ -16,7 +16,7 @@
 
 | Section  | Assignment | Points |
 | ------------- | ------------- | ------------- |
-| Section 1 | What is Technology Pretest? | 0 points |
+| Section 1 | Photography Pretest | 0 points |
 
 ### Evaluation
 

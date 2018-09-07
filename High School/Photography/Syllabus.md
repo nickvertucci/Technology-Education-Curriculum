@@ -1,34 +1,19 @@
 # Photography & Advanced Photography
 
-Course #1220 | 1 Credit | Prerequisite:
+Course # | 1 Credit | Prerequisite:
 
 ## Course Syllabus
 
   - Mr. Vertucci
   - nvertucci@swr.k12.ny.us
   - Extra Help: by appointment only
-  - Twitter: @nick_vertucci
+  - Twitter: @VertucciTechEd
 
 ### Course Description
 
-Ever tried to design something new or draw up an idea you wanted to share with your
-friends and wondered how you could communicate your idea? Have you wondered how
-someone designed that new gadget or sleek new smartphone? Then this course is for you. This
-introductory problem-solving course covers six concept areas in technical drawing required to
-produce quality mechanical drawings and actual production of their design. The assignments
-begin with basic drafting techniques, progress to some design problems, and illustrations that
-culminate with a model. This “hands on” method of instruction presents an effective design
-solution for student understanding. Students will use the tools of the draftsperson and the
-required woodworking equipment to complete these projects. The student receives instruction to
-help them gain competence in two and three view, section and isometric drawings. In addition,
-you will use SketchUp, a 3D design software package from Google, to help you design solutions
-to different projects.
-
-***May be taken for Regents credit to satisfy the High School Art/Music requirement.***
+TBD
 
 ### Course Requirements
-
-Students are required to complete several drawing projects including 3D printing prototypes.  The quality and overall presentation of these projects will be used to determine the grade.  Particular attention to detail will be emphasized. Students will be required to accumulate skills from the beginning of the course and will be expected to build on their skills with each successive project and/or assignment. Each assignment will be evaluated based on this grading rubric and at times require mastery in order to be completed:
 
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -41,8 +26,6 @@ Students are required to complete several drawing projects including 3D printing
 
 ### Required materials
 
-DDP is a drafting and production course. Effective storage of projects and organization of materials is critical to student success. In order to aid students the items listed below will be beneficial:
-
 - 1 x folder
 - 1 x 3 ring binder with paper OR notebook for notes, sketches and ideation
 ***Laptops are allowed and encouraged as long as they are utilized towards course work and not a distraction or they will not be permitted in class. All students are provided the G Suite of tools via Google and their school account.***
@@ -54,7 +37,7 @@ The overall grading of the course is weighted as indicated below:
 | Category | Weight |
 | ------------- | ------------- |
 | Assignments | 62.5% |
-| Do Nows | 2.5% |
+| Do Now's | 2.5% |
 | Presentations | 7.5% |
 | Pretests | 0% |
 | Tests | 27.5% |
@@ -63,15 +46,9 @@ The overall grading of the course is weighted as indicated below:
 
 | Unit Number | Unit Title | Description | Point Total |
 | ------------- | ------------- | ------------- | ------------- |
-| 1 | Introduction & The Design Process | Introductory to course units, expectations and The Design Process | |
-| 2 | Title Block | First look into sketches, mechanical or computer drawing, presentation, and problem-solving | |
-| 3 | Lettering | Drafting Equipment, CAD, Alphabet of Lines, Erasing techniques and scales | |
-| 4 | Alphabet of Lines | Sketching equipment, techniques, and problem-solving | |
-| 5 | Basic Geometry in Drafting | Pencil techniques, styles of lettering, guidelines, lettering with pen | |
-| 6 | Multiview Drawing | Straight lines, angles, circles, arcs, and polygons | |
-| 7 | Introduction to Sketchup | orthographic projection, object visualization, finishing a drawing | |
-| 8 | SketchUp Multiview Drawing | Dimensioning elements, measuring systems, dimensioning features for size, notes | |
-| 9 | SketchUp 3D Model | Dimensioning elements, measuring systems, dimensioning features for size, notes | |
-| 10 | Puzzle Cube Design Challenge | Dimensioning elements, measuring systems, dimensioning features for size, notes | |
-| 11 | Reverse Engineering | Dimensioning elements, measuring systems, dimensioning features for size, notes | |
-| 12 | Cardboard Chair Challenge | Dimensioning elements, measuring systems, dimensioning features for size, notes | |
+| 1 | Introduction & History | |
+| 2 | Using An Enlarger | | |
+| 3 | Camera Obscura | | |
+| 4 | Composition and Principles of Design | | |
+| 5 | SLR Camera Usage | | |
+| 6 | SLR Camera Film Development | | |

@@ -14,10 +14,10 @@
 
 ### Instructional Outline
 
-1. Introduce students to the course syllabus
-2. Review the course syllabus and Unit Breakdowns
-3. Explain first assignment Photography Pretests
-4. Take students into the darkroom within small groups and introduce them to the space
+1. Review introduction presentation for Google Classroom codes
+2. Handout Photography Pretests
+3. Review pretests
+4. Start discussing history
 
 ### Assignment / Activities
 
