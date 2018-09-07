@@ -1,8 +1,8 @@
 # Daily Lesson Plan
 
-# Design And Drawing For Production
+# Modern Electricity and Electronics
 
-## Unit 1 | Section 1 | Classroom Operation | Day 2
+## Unit 1 | Section 2 | Classroom Operation | Day 2
 
 ### Objectives
 
@@ -12,9 +12,18 @@
 
 ### Resources
 
+- https://www.youtube.com/watch?v=ru032Mfsfig
+
 ### Instructional Outline
 
-1. Introduce classroom procedures, rules, and operations
+1. Review classroom procedures, rules, and operations
+2. Provide Google Classroom Code and reminder of first assignment
+3. Display Day 2 PowerPoint labeled 'Careers'
+4. Explain the Do Now
+5. Let students discuss for 5 minutes and submit answer
+6. Review answers
+7. Provide some other examples until 11AM
+8. Show the What is Electricity youtube video
 
 ### Assignment / Activities
 
