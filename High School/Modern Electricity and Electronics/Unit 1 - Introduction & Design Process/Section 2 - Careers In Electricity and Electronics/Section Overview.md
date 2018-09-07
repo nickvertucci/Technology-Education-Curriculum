@@ -1,31 +1,22 @@
-# Daily Lesson Plan
+# Unit 1 - Section 1 - Introduction & Design Process
 
-# Design And Drawing For Production
+# Design and Drawing for Production
 
-## Unit 1 | Section 1 | Syllabus Overview & Unit Rundown | Day 1
-
-### Objectives
+### Section Overview
 
 ### Preparation
 
 ### Materials
 
-### Resources
+### Assets
 
-- https://www.youtube.com/watch?v=G8ZvhLuU-iY
-
-### Instructional Outline
-
-1. Review introduction presentation for Google Classroom codes
-2. Watch 'The Art of Photography'
-2. Handout Photography Pretests
-3. Review pretests
-4. Start discussing history
+[Unit 1 - Section 1 - Syll Over Class Ops](../blob/development/High%20School/Design%20and%20Drawing%20for%20Production/Unit%201%20-%20Introduction%20%26%20Design%20Process/Section%201%20-%20Syllabus%20Overview%20and%20Classroom%20Operation/Assets/Unit%201%20-%20Section%201%20-%20Syllabus%20Overview%20Classroom%20Ops.pptx)
 
 ### Assignment / Activities
 
-| Section | Assignment  | Points |
+| Section  | Assignment | Points |
 | ------------- | ------------- | ------------- |
+| Section 1 | What is Technology Pretest? | 0 points |
 
 ### Evaluation
 

@@ -15,6 +15,8 @@
 ### Instructional Outline
 
 1. Continue classroom procedures, rules, and operations
+2. Remind about Google Classroom signup
+3. Organize DDP packets and tools and rename accordingly
 
 ### Assignment / Activities
 
