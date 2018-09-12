@@ -16,10 +16,7 @@
 
 | Section  | Assignment | Points |
 | ------------- | ------------- | ------------- |
-| Section 1 | Google Classroom Sign-Up | 10 points |
-| Section 1 | Design and Drawing For Production Pretest | 0 points |
-| Section 1 | Tools checklist | 0 points |
-
+| Section 1 | What is Technology Pretest? | 0 points |
 
 ### Evaluation
 

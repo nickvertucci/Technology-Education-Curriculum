@@ -12,7 +12,7 @@
 
 ### Instructional Outline
 
-### Assignment / Activies
+### Assignment / Activities
 
 ### Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |

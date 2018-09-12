@@ -1,25 +1,35 @@
-# Unit 1 - Section 1 - Introduction & Design Process
+# Daily Lesson Plan
 
-# Design and Drawing for Production
+# Modern Electricity and Electronics
 
-### Section Overview
+## Unit 1 | Section 2 | Classroom Operation | Day 2
+
+### Objectives
 
 ### Preparation
 
 ### Materials
 
-### Assets
+### Resources
 
-[Unit 1 - Section 1 - Syll Over Class Ops](../blob/development/High%20School/Design%20and%20Drawing%20for%20Production/Unit%201%20-%20Introduction%20%26%20Design%20Process/Section%201%20-%20Syllabus%20Overview%20and%20Classroom%20Operation/Assets/Unit%201%20-%20Section%201%20-%20Syllabus%20Overview%20Classroom%20Ops.pptx)
+- https://www.youtube.com/watch?v=ru032Mfsfig
+
+### Instructional Outline
+
+1. Review classroom procedures, rules, and operations
+2. Provide Google Classroom Code and reminder of first assignment
+3. Display Day 2 PowerPoint labeled 'Careers'
+4. Explain the Do Now
+5. Let students discuss for 5 minutes and submit answer
+6. Review answers
+7. Provide some other examples until 11AM
+8. Show the What is Electricity youtube video
 
 ### Assignment / Activities
 
 | Section  | Assignment | Points |
 | ------------- | ------------- | ------------- |
-| Section 1 | Google Classroom Sign-Up | 10 points |
-| Section 1 | Design and Drawing For Production Pretest | 0 points |
-| Section 1 | Tools checklist | 0 points |
-
+| Section 1 | What is Technology? | 10 points |
 
 ### Evaluation
 
