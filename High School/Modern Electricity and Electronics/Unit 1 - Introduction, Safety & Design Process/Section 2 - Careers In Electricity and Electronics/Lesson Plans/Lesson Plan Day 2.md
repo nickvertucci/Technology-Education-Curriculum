@@ -29,7 +29,7 @@
 
 | Section  | Assignment | Points |
 | ------------- | ------------- | ------------- |
-| Section 1 | What is Technology? | 10 points |
+| Section 1 | Do Now - What careers are available in Electricity and Electronics? | 10 points |
 
 ### Evaluation
 

@@ -2,7 +2,7 @@
 
 # Modern Electricity and Electronics
 
-## Unit 1 | Section 2 | Classroom Operation | Day 2
+## Unit 1 | Section 3 | Classroom Operation | Day 4
 
 ### Objectives
 
@@ -29,7 +29,7 @@
 
 | Section  | Assignment | Points |
 | ------------- | ------------- | ------------- |
-| Section 1 | What is Technology? | 10 points |
+| Section 1 | Career Assignment | 100 points |
 
 ### Evaluation
 
