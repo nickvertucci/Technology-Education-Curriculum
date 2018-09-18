@@ -4,7 +4,7 @@
 
 ### Objectives
 
-### Preperation
+### Preparation
 
 ### Materials
 
@@ -12,7 +12,11 @@
 
 ### Instructional Outline
 
-### Assignment / Activies
+### Assignment / Activities
+
+| Assignment  | Points |
+| ------------- | ------------- |
+| Title Block Drawing #1  | 100 points   |
 
 ### Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |

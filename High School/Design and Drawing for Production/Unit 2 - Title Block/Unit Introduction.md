@@ -4,16 +4,14 @@
 
 ### BIG IDEA
 
-Within this unit, students will be able to measure to scale, layout, organize and produce a drafting title block that presents information from the drafter to there audience. This is very important as title blocks help provide important information regarding dimensions of a shape, how they look from different views, and also any other important noted information for producing such an object or product.
+- Emphasize the importance of a title Block
+- Relay requirements for title block design
 
 ### Objectives
 
 SWBAT:
 
-- Measure a border line to a particular specification
-- Outline areas to specification for information such as name, date, project, and Scaled
-- Organize there drafting area to communicate what is being drawn
-- Develop techniques within drafting and using drafting tools such as a t-square, architect's scale, and drafting leads
+- [student objective]
 
 ### Unit Outline
 
@@ -23,14 +21,10 @@ SWBAT:
 
 | Assignment  | Calendar Schedule |
 | ------------- | ------------- |
-| [title]  | [dates/range]   |
+| Title Block Drawing #1  | 9/17 - 9/18   |
 
-### Unit Evaluation
+### Unit Grading Breakdown
 
-| Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Organization | 20% | Unable to find assignments or not routinely saved | Able to demonstrate some organization by backing up files or use of folders | Both drawings and models are identifiable and can be found if needed | All drawings are in a folder and models organized by folders in Google Drive | All drawings are in a folder labeled correctly and models organized by folders in Google Drive labeled correctly |
-| Class Participation | 20% | Showed no participation | Limited to no participation | Inconsistent day-to-day participation | Participated only when needed  | Engaged daily and actively participated |
-| Effort | 30% | No effort | limited to no effort | Inconsistent day-to-day effort | Showed effort only when needed or routinely directed | Continuous day-to-day effort with or without direction |
-| Creativity/Originality | 15% | No creativity, copied designs | Minimal creativity based off past designs | Moderate improvements based off past designs | Complete overhaul of past or found designs | Completely new idea/design |
-| Craftsmanship/Skill | 15% | Poor execution, no planning | Moderate end result, able to achieve an outcome | Good planning but poorly executed end result | Good planning and good end result although not what had been designed or communicated | Great planning & execution able to achieve what had been designed or communicated |
+| Assignment  | Calendar Schedule |
+| ------------- | ------------- |
+| Section 1 - Title Block Drawing #1  | 100 points   |

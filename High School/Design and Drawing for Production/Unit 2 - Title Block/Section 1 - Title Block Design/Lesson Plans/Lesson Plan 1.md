@@ -40,7 +40,7 @@ SWBAT:
 
 | Assignment  | Points |
 | ------------- | ------------- |
-| Drafting Title Block Version 1  | 100 points   |
+| Title Block Drawing #1  | 100 points   |
 
 ### Evaluation
 
