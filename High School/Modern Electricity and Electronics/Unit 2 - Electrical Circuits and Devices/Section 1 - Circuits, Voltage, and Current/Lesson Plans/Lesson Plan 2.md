@@ -1,8 +1,8 @@
 # Daily Lesson Plan
 
-# Design And Drawing For Production
+# Modern Electricity and Electronics
 
-## Unit 1 | Section 1 | Classroom Operation Continued | Day 3
+## Unit 2 | Section 1 | Circuits, Voltage, and Current | Day 1
 
 ### Objectives
 
@@ -12,15 +12,19 @@
 
 ### Resources
 
+- Unit 2 - Section 1 - Circuits, Voltage and Current POWERPOINT
+
 ### Instructional Outline
 
-1. Continue classroom procedures, rules, and operations
+1. Review Google Classroom
+2. Go over Unit 1 chapter review assignments and explain their test grades
+3. Introduce next Unit
+4. Begin lesson on Unit 2 with identified resource
 
 ### Assignment / Activities
 
-| Assignment  | Points |
-| ------------- | ------------- |
-| Section 1 | Classroom Operation Test | 100 points |
+| Section | Assignment  | Points |
+| ------------- | ------------- | ------------- |
 
 ### Evaluation
 

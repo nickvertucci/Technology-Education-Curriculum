@@ -10,13 +10,10 @@
 
 ### Assets
 
-[Unit 1 - Section 1 - Syll Over Class Ops](../blob/development/High%20School/Design%20and%20Drawing%20for%20Production/Unit%201%20-%20Introduction%20%26%20Design%20Process/Section%201%20-%20Syllabus%20Overview%20and%20Classroom%20Operation/Assets/Unit%201%20-%20Section%201%20-%20Syllabus%20Overview%20Classroom%20Ops.pptx)
-
 ### Assignment / Activities
 
 | Section  | Assignment | Points |
 | ------------- | ------------- | ------------- |
-| Section 1 | What is Technology Pretest? | 0 points |
 
 ### Evaluation
 
