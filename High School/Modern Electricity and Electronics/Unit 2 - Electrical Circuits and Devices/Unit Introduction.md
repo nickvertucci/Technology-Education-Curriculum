@@ -1,10 +1,10 @@
-# Unit 1 - Introduction & The Design Process
+# Unit 1 - Electrical Circuits and Devices
 
-# Design and Drawing For Production
+# Modern Electricity and Electronics
 
 ### BIG IDEA
 
-This first unit is specifically put together to get each student off onto the right track. Coming out of Middle School Technology, the Engineering & Design Process is hinted but rarely emphasized. This unit will help create student expectations in order to heavily utilize the Engineering & Design Process in completing drawings and assignments for the entire year.
+In this unit students will be able to sketch a basic circuit and identify its four main parts. To add, students will be able to explain the differences between series and parallel circuits.
 
 ### Objectives
 
@@ -14,21 +14,16 @@ SWBAT:
 
 ### Unit Outline
 
-- Section 1 - Syllabus Overview and Classroom Operation
-- Section 2 - Drafting as a Problem-Solving Tool
-- Section 3 - Drafting as a Design Tool
-- Section 4 - Models
-- Section 5 - Engineering & Design Process
+- Section 1 - Circuits, Voltage, and Current
 
 ### Unit Schedule
 
 | Section  | Calendar Schedule |
 | ------------- | ------------- |
-| Syllabus Overview and Classroom Operation  | September 5-9 |
+| Section 1 - Circuits, Voltage, and Current | September 5-9 |
 
 ### Unit Grading Breakdown
 
 | Section  | Assignment | Points |
 | ------------- | ------------- | ------------- |
-| Section 1 | Google Classroom Sign-Up | 10 points |
-| Section 1 | What is Technology Pretest? | 0 points |
+| Section 1 | Circuits, Voltage, and Current Quiz | 100 points |
