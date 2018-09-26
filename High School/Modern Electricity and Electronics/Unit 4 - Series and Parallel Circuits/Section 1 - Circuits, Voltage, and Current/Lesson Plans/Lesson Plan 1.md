@@ -1,6 +1,8 @@
-# Unit [#] - Section [#] - [section name]
+# Daily Lesson Plan
 
-# [CLASS NAME]
+# Modern Electricity and Electronics
+
+## Unit 2 | Section 1 | Circuits, Voltage, and Current | Day 1
 
 ### Objectives
 
@@ -10,15 +12,22 @@
 
 ### Resources
 
+- Unit 2 - Section 1 - Circuits, Voltage and Current POWERPOINT
+
 ### Instructional Outline
+
+1. Review Google Classroom
+2. Go over Unit 1 chapter review assignments and explain their test grades
+3. Introduce next Unit
+4. Begin lesson on Unit 2 with identified resource
 
 ### Assignment / Activities
 
-| Assignment  | Points |
-| ------------- | ------------- |
-| Architect Scale Handout  | 100 points   |
+| Section | Assignment  | Points |
+| ------------- | ------------- | ------------- |
 
 ### Evaluation
+
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Organization | 20% | Unable to find assignments or not routinely saved | Able to demonstrate some organization by backing up files or use of folders | Both drawings and models are identifiable and can be found if needed | All drawings are in a folder and models organized by folders in Google Drive | All drawings are in a folder labeled correctly and models organized by folders in Google Drive labeled correctly |

@@ -1,16 +1,31 @@
-# Unit [#] - Section [#] - [section name]
+# Daily Lesson Plan
 
-# [CLASS NAME]
+# Design and Drawing For Production
+
+## Unit 2 | Section 2 | Architect Scale | Day 2
 
 ### Objectives
 
+SWBAT:
+
+-
+
 ### Preparation
+
+- Architect Scale youtube video https://www.youtube.com/watch?v=PrbjWgyZlFc
 
 ### Materials
 
-### Resources
+- Drafting tools
+- Drafting board
+- Title Block specification
+- Title Block presentation
 
 ### Instructional Outline
+
+1. Review both Title Block Mastery Assignment and Title Block Final for Google Classroom submission
+2. Review architect scale handout and work on problems 1-3 with class again
+3. Architect scale handout is due today and needs to be completed within Google Classroom once submitted
 
 ### Assignment / Activities
 
@@ -19,6 +34,7 @@
 | Architect Scale Handout  | 100 points   |
 
 ### Evaluation
+
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Organization | 20% | Unable to find assignments or not routinely saved | Able to demonstrate some organization by backing up files or use of folders | Both drawings and models are identifiable and can be found if needed | All drawings are in a folder and models organized by folders in Google Drive | All drawings are in a folder labeled correctly and models organized by folders in Google Drive labeled correctly |
