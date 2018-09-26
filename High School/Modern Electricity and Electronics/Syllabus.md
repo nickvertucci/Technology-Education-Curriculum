@@ -1,4 +1,4 @@
-# Design and Drawing for Production
+# Electricity and Electronics
 
 Course #1220 | 1 Credit | Prerequisite: World Of Technology
 
@@ -10,18 +10,7 @@ Course #1220 | 1 Credit | Prerequisite: World Of Technology
 
 ### Course Description
 
-Ever tried to design something new or draw up an idea you wanted to share with your
-friends and wondered how you could communicate your idea? Have you wondered how
-someone designed that new gadget or sleek new smartphone? Then this course is for you. This
-introductory problem-solving course covers six concept areas in technical drawing required to
-produce quality mechanical drawings and actual production of their design. The assignments
-begin with basic drafting techniques, progress to some design problems, and illustrations that
-culminate with a model. This “hands on” method of instruction presents an effective design
-solution for student understanding. Students will use the tools of the draftsperson and the
-required woodworking equipment to complete these projects. The student receives instruction to
-help them gain competence in two and three view, section and isometric drawings. In addition,
-you will use SketchUp, a 3D design software package from Google, to help you design solutions
-to different projects.
+Intended for a basic course in electricity and electronics. The curriculum is split up into 8 units starting with an introduction to electricity and electronics then ending with hands-on experiences or project based labs dealing with schematic reading and circuit development. Students will also learn about how electricity is produced and also experience small wiring and soldering assignments as well.
 
 ***May be taken for Regents credit to satisfy the High School Art/Music requirement.***
 
