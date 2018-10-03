@@ -74,3 +74,15 @@ The overall grading of the course is weighted as indicated below:
 | 10 | Puzzle Cube Design Challenge | Dimensioning elements, measuring systems, dimensioning features for size, notes | |
 | 11 | Reverse Engineering | Dimensioning elements, measuring systems, dimensioning features for size, notes | |
 | 12 | Cardboard Chair Challenge | Dimensioning elements, measuring systems, dimensioning features for size, notes | |
+
+### Course Calendar
+
+The school year has a total of 43 weeks, which include breaks and holidays.
+
+| Unit Number | Unit Title | Calendar Weeks |
+| ------------- | ------------- | ------------- |
+| 1 | Introduction & The Design Process | Week 1-2 |
+| 2 | The Title Block |3-4 |
+| 3 | Lettering | 5-6 |
+| 4 | Alphabet of Lines | 7-8 |
+| 5 | Basic Geometry in Drafting | 9-10 |
