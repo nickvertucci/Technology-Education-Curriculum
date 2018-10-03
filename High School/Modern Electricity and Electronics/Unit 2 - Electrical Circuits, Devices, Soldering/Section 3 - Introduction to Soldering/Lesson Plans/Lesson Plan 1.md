@@ -2,7 +2,7 @@
 
 # Modern Electricity and Electronics
 
-## Unit 2 | Section 1 | Circuits, Voltage, and Current | Day 1
+## Unit 2 | Section 3 | Introduction to Soldering | Day 1
 
 ### Objectives
 
