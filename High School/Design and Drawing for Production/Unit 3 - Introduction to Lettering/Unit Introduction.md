@@ -19,12 +19,12 @@ SWBAT:
 
 ### Unit Schedule
 
+| Section | Calendar Schedule |
+| ------------- | ------------- |
+| Section 1 - What is Lettering  | Week 5 |
+
+### Unit Assignment Grading Breakdown
+
 | Assignment  | Calendar Schedule |
 | ------------- | ------------- |
-| Title Block Drawing #1  | 9/17 - 9/18   |
-
-### Unit Grading Breakdown
-
-| Assignment  | Calendar Schedule |
-| ------------- | ------------- |
-| Section 1 - Title Block Drawing #1  | 100 points   |
+| Drawing #5 - Lettering  | 100 points   |
