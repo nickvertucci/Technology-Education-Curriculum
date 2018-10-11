@@ -14,14 +14,7 @@ The relationship between science and technology is one where science builds prin
 
 ```````````````````````````````
 Technology Education Curriculum
-├── README.md
-├── LICENSE
-├── Templates
-    └── Unit
-    └── Section
-    └── Lesson Plan
-    └── PowerPoint
-    └── Handout
+
 ├── High School
     └── Advanced Design Applications
     └── Advanced Technological Applications
@@ -47,6 +40,16 @@ Technology Education Curriculum
         └── Unit 7 - Pathfinder Egg Drop Challenge
         └── Unit 8 - Solar Oven
         └── Middle School 8th Grade Curriculum Overview.md
+├── README.md
+├── LICENSE
+├── Templates
+    └── Assessment - Pretests
+    └── Assessment - Tests
+    └── Handout
+    └── Lesson Plan
+    └── PowerPoint
+    └── Section
+    └── Unit
 ```````````````````````````````
 
 ## Collaborating With This Project
