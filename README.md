@@ -21,11 +21,13 @@ Technology Education Curriculum
     └── Architecture
     └── Design and Drawing for Production
     └── Engineering Design
+    └── Modern Electricity and Electronics
     └── Photography
     └── Technological Design
     └── Technology and Society
+    └── Vex Robotics
     └── World of Technology
-    └── High School Curriculum Overview.md
+    └── High School Curriculum Overview
 ├── Middle School
     └── 7th Grade Technology
         └── Engineering for All
