@@ -86,6 +86,6 @@ The school year has a total of 43 weeks, which include breaks and holidays. Unit
 | 3 | Lettering | 5-6 |
 | 4 | Alphabet of Lines | 7-9 |
 | 5 | Basic Geometry in Drafting | 10-11 |
-| 6 | Multiview Drawing | |
+| 6 | Multiview Drawing | 12- |
 | 7 | Introduction to Sketchup | |
 | 8 | SketchUp Multiview Drawing | |

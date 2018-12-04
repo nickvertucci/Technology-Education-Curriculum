@@ -3,8 +3,22 @@
 # [class title]
 
 ### BIG IDEA
+Working in parallel with the ITEEA Standards students will be working towards a focus in:
 
-[the big idea]
+##### Nature of Technology
+-
+
+##### Technology and Society
+-
+
+##### Design
+-
+
+##### Abilities For A Technological World
+-
+
+##### The Designed World
+-
 
 ### Objectives
 
