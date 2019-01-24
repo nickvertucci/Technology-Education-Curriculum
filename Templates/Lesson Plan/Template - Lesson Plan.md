@@ -4,7 +4,10 @@
 
 ## Unit [#] | Section [#] | [topic] | Day [#]
 
-### Objectives
+### ITEEA Standards
+  1.
+
+### Objectives [SWBAT]
 
 ### Preparation
 
