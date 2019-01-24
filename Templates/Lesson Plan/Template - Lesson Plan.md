@@ -7,15 +7,17 @@
 ### ITEEA Standards
   1.
 
-### Objectives [SWBAT]
+### Objectives [SWBATU]
 
-### Preparation
+#### Success Criteria
 
 ### Materials
 
 ### Resources
 
 ### Instructional Outline
+
+#### Closure
 
 ### Assignment / Activities
 
