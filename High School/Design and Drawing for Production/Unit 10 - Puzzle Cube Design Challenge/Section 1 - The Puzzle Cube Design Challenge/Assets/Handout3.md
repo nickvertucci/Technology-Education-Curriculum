@@ -13,19 +13,17 @@ These are the design requirements as part of the first step of the design proces
 - 5 collections
 - No repeated shapes
 - No edge joints
-- Rough sketch must indicate ALL parts and include a title block
-- The title block should indicate the drawing as **Puzzle Cube Design Drawing #1**
-- Rough sketch design should be broken into 7 boxes for each part or maximum of parts PLUS the end full isometric result
-- Each rough sketch box should provide a small orthographic of each part
 - Each part should be numbered for puzzle completion
 - The block needs to be a standard dimensions of 2.25" (L) x 2.25" (W) x 2.25" (H)
 - Each individual block needs to be a standard dimension of .75" (L) x .75" (W) x .75" (H)
+- Submit digital file to the classroom assignment from TinkerCAD or SketchUp
+- It can be a single file with all 20 parts or 20 individual files each with a single part
 
 ### Assignment / Activities
 
 | Assignment  | Grade |
 | ------------- | ------------- |
-| Isometric conceptual designs  | 100 points  |
+| 20 part brainstorm ideation  | 100 points  |
 
 ### Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |

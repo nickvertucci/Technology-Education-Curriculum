@@ -4,7 +4,7 @@
 
 # STUDENT NAME:
 
-### Puzzle Cube Part Finalization
+### Puzzle Cube Part Feedback Presentation
 For the finalization of our parts, each part will need to be orthographic to communicate its production needs.
 
 - The title block should indicate the drawing as **Puzzle Cube Design Part #1, #2 etc.**

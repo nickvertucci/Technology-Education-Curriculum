@@ -2,7 +2,7 @@
 
 # Design and Draw for Production
 
-## Unit 10 | Section 1 | Puzzle Cube Design | Day 5-7
+## Unit 10 | Section 1 | Puzzle Cube Design | Day 5-9
 
 ### Objectives
 
@@ -17,7 +17,7 @@ SWBAT:
 
 ### Resources
 
-- Provide each student isometric paper
+- Laptop
 
 ### Instructional Outline
 
@@ -35,7 +35,7 @@ SWBAT:
 
 | Assignment  | Grade |
 | ------------- | ------------- |
-| Isometric conceptual designs  | 100 points  |
+| 20 part brainstorm ideation  | 100 points  |
 
 ### Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
