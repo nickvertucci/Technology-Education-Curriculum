@@ -1,24 +1,24 @@
-# Unit 10 - Section 1 - Puzzle Cube Design Handout 3
+# Unit 10 - Section 1 - Puzzle Cube Design Handout 4
 
 # Design and Draw for Production
 
 # STUDENT NAME:
 
 ### Puzzle Cube Part Feedback Presentation
-For the finalization of our parts, each part will need to be orthographic to communicate its production needs.
+As part of the design process, feedback is crucial not only for continuous growth but also for the product growth. New ideas, findings, or even deletions are crucial for continuous improvement. For this presentation, students will present how they utilized the design process in solving for the puzzle cube solution, explaining the problem they encountered, how they planned their ideas, and began formulating a solution.
 
-- The title block should indicate the drawing as **Puzzle Cube Design Part #1, #2 etc.**
-- Be sure to lightly break your drafting paper into 4 quadrants
-- Each part should be drawn to scale
-- Each part should be numbered for puzzle completion
-- The block needs to be a standard dimensions of 2.25" (L) x 2.25" (W) x 2.25" (H)
-- Each individual block needs to be a standard dimension of .75" (L) x .75" (W) x .75" (H)
+Your presentation should include:
+- Title page
+- Introduction to the problem
+- Slide(s) explaining how you plan on staying organized in solving the problem
+- Slide(s) explaining how you plan to solve the problem
+- Slide(s) explaining how you intend to use your prototype to make improvements
 
 ### Assignment / Activities
 
 | Assignment  | Grade |
 | ------------- | ------------- |
-| Each finalized part orthographic  | 100 points (possible total of 600 points) |
+| Puzzle Cube Design Ideation Presentation  | 100 points |
 
 ### Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
@@ -30,5 +30,3 @@ For the finalization of our parts, each part will need to be orthographic to com
 | Craftsmanship/Skill | 15% | Poor execution, no planning | Moderate end result, able to achieve an outcome | Good planning but poorly executed end result | Good planning and good end result although not what had been designed or communicated | Great planning & execution able to achieve what had been designed or communicated |
 
 ### Added Notes
-
-- For a larger overview of the challenge be sure to checkout [Handout1](High School\Design and Drawing for Production\Unit 10 - Puzzle Cube Design Challenge\Section 1 - The Puzzle Cube Design Challenge\Assets\Handout1.md)
