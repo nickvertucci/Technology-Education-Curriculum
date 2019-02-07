@@ -5,20 +5,16 @@
 ## Unit 10 | Section 1 | Puzzle Cube Design | Day 1-3
 
 ### ITEEA Standards
-  5-8. Attributes of design
-  5-9. Engineering designs
   5-10. The role of troubleshooting, research and development, invention and innovation, and experimentation in problem solving
+  7-17. Information and communication technologies
 
 ### Objectives [SWBATU]
 
-- Design problems are seldom presented in a clearly defined form.
-- Requirements of a design, such as criteria, constraints, and efficiency, sometimes compete with each other.
-- The design process includes defining a problem, brainstorming, researching and generating ideas, identifying criteria and specifying constraints, exploring possibilities, selecting an approach, developing a design proposal, making a model or prototype, testing and evaluating the design using specifications, refining the design, creating or making it, and communicating processes and results.
+- Design and communicate their ideas and problems by means of a presentation
+- Visually demonstrate the design process within a presentation to the class
 
 #### Success Criteria
-- Visual proof showing use of the design processes
-- Refinement of designs (continuous improvement)
-- Prototype development
+- Submitted presentation with identifiable design process steps
 
 ### Materials
 - Laptops/computer lab access
@@ -51,7 +47,6 @@ Students should communicate their ideas and solutions to classmates, teachers, a
 
 | Assignment  | Grade |
 | ------------- | ------------- |
-| Defining our problem statement and creating a design brief  | 100 points  |
-| Designing 20 solutions, the road to 20  | 100 points  |
+| Presentation | 100 points  |
 
 ### Added Notes
