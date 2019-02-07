@@ -1,24 +1,27 @@
-# Daily Lesson Plan
+# Lesson Plan
 
 # Design and Draw for Production
 
-## Unit 10 | Section 1 | Puzzle Cube Design | Day 8-25
+## Unit 10 | Section 1 | Puzzle Cube Design | Day 6
 
-### Objectives
+### ITEEA Standards
+  5-8. Attributes of design
+  5-9. Engineering designs
+  5-10. The role of troubleshooting, research and development, invention and innovation, and experimentation in problem solving
 
-SWBAT:
-- Finalize their cube designs from their isometric graph paper pieces
-- Conceptualize isometric puzzle cube pieces
-- Communicate in detail each solution set
+### Objectives [SWBATU]
 
-### Preparation
+- Create an finalized workable cube based on previous design parts
 
 ### Materials
+- Laptops/computer lab access
 - Drafting tools and materials
+- 3D printer + filament
 
 ### Resources
 
-- Provide each student isometric paper
+- Unit 10 - Section 1 - Handout 2
+- Unit 10 - Section 1 - Handout 3
 
 ### Instructional Outline
 
@@ -36,18 +39,7 @@ SWBAT:
 
 | Assignment  | Grade |
 | ------------- | ------------- |
-| Puzzle Cube Solution 1 Part #1   | 100 points   |
-| Puzzle Cube Solution 1 Part #2   | 100 points   |
-| Puzzle Cube Solution 1 Part #3   | 100 points   |
-| Puzzle Cube Solution 1 Part #4   | 100 points   |
-| Puzzle Cube Solution 1 Part #5   | 100 points   |
-| Puzzle Cube Solution 1 SketchUp All Parts   | 500 points   |
-| Puzzle Cube Solution 2 Part #1   | 100 points   |
-| Puzzle Cube Solution 2 Part #2   | 100 points   |
-| Puzzle Cube Solution 2 Part #3   | 100 points   |
-| Puzzle Cube Solution 2 Part #4   | 100 points   |
-| Puzzle Cube Solution 2 Part #5   | 100 points   |
-| Puzzle Cube Solution 2 SketchUp All Parts   | 500 points   |
+| 20 part brainstorm ideation  | 100 points  |
 
 ### Evaluation
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |

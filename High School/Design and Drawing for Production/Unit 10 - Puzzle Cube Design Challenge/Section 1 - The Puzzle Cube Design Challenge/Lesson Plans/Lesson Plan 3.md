@@ -1,23 +1,27 @@
-# Daily Lesson Plan
+# Lesson Plan
 
 # Design and Draw for Production
 
-## Unit 10 | Section 1 | Puzzle Cube Design | Day 5-9
+## Unit 10 | Section 1 | Puzzle Cube Design | Day 6
 
-### Objectives
+### ITEEA Standards
+  5-8. Attributes of design
+  5-9. Engineering designs
+  5-10. The role of troubleshooting, research and development, invention and innovation, and experimentation in problem solving
 
-SWBAT:
-- Finalize their cube designs from rough sketches
-- Conceptualize isometric puzzle cube pieces using isometric graphic paper
+### Objectives [SWBATU]
 
-### Preparation
+- Create an finalized workable cube based on previous design parts
 
 ### Materials
+- Laptops/computer lab access
 - Drafting tools and materials
+- 3D printer + filament
 
 ### Resources
 
-- Laptop
+- Unit 10 - Section 1 - Handout 2
+- Unit 10 - Section 1 - Handout 3
 
 ### Instructional Outline
 
