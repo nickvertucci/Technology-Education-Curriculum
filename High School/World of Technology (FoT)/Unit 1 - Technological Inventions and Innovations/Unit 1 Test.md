@@ -18,6 +18,7 @@ c.	Stone, bronze, iron
 d.	Bronze, stone, iron
 
 
+
 2. Today, the development of tools and machines is based on scientific knowledge and engineering design; however, early in the history of technology, the development of tools and machines was based on __________________.
 
 a.	Technology and mathematics principles
