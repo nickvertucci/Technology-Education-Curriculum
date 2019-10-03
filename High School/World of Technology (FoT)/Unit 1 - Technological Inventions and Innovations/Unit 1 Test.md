@@ -14,13 +14,17 @@
 [].	Iron, bronze, stone
 
 [].	Stone, bronze, iron
+
 [].	Bronze, stone, iron
 
 2. Today, the development of tools and machines is based on scientific knowledge and engineering design; however, early in the history of technology, the development of tools and machines was based on __________________.
 
 a.	Technology and mathematics principles
+
 b.	The Engineering Design Process
+
 c.	Technical know-how
+
 d.	Positive and negative effects of using technology
 
 3. What is the most significant result based on the development of windmills and waterwheels?
