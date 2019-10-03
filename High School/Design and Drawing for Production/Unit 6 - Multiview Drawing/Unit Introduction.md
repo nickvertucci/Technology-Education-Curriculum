@@ -9,9 +9,9 @@ Orthographic projection is the process of explaining three-dimensional objects i
 
 SWBAT:
 
-- [student objective]
-- [student objective]
-- [student objective]
+- Define what orthographic projections are in the classroom
+- Describe multiview drawings and the views that are utilized for those types of drawings in the classroom
+- Demonstrate the use of multiview drawings in the classroom as well as in industry
 
 ### Unit Outline
 
