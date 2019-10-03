@@ -18,7 +18,6 @@ c.	Stone, bronze, iron
 d.	Bronze, stone, iron
 
 
-
 2. Today, the development of tools and machines is based on scientific knowledge and engineering design; however, early in the history of technology, the development of tools and machines was based on __________________.
 
 a.	Technology and mathematics principles
@@ -29,19 +28,28 @@ c.	Technical know-how
 
 d.	Positive and negative effects of using technology
 
+
 3. What is the most significant result based on the development of windmills and waterwheels?
 
 a.	The rise and fall of feudalism
+
 b.	Humans no longer had to use their muscle to move machines
+
 c.	Popularity of money and capitalism
+
 d.	Beginning of mechanical labor
+
 
 4. Television is a technological development that occurred during the ________.
 
 a.	Renaissance
+
 b.	Industrial Age
+
 c.	Paleolithic Age
+
 d.	Information Age
+
 
 5.  The microscope is a technological development that occurred during the
 
