@@ -10,7 +10,9 @@
 1. Comparing tools made of stone, iron, and bronze: place them in the correct order from least to most durable.
 
 [].	Stone, iron, bronze
+
 [].	Iron, bronze, stone
+
 [].	Stone, bronze, iron
 [].	Bronze, stone, iron
 
