@@ -30,3 +30,7 @@ SWBAT:
 | Assignment  | Calendar Schedule |
 | ------------- | ------------- |
 | Section 1 - Title Block & Quadrants  | 100 points   |
+| Section 1 - Orthographic Part #1  | 100 points   |
+| Section 1 - Orthographic Part #2  | 100 points   |
+| Section 1 - Orthographic Part #3  | 100 points   |
+| Section 1 - Orthographic Part #4  | 100 points   |
