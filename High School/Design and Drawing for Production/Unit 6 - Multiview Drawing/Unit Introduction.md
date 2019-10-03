@@ -3,50 +3,30 @@
 # Design and Drawing for Production
 
 ### BIG IDEA
-Working in parallel with the ITEEA Standards students will be working towards a focus in:
-
-##### Nature of Technology
--
-
-##### Technology and Society
--
-
-##### Design
-- The attributes of design
-- Engineering designs
-
-##### Abilities For A Technological World
-- Apply the design Process
-
-
-##### The Designed World
-- Information and communication technologies
-
+Orthographic projection is the process of explaining three-dimensional objects in two-dimensions (a flat sheet of papaer for example).
 
 ### Objectives
 
 SWBAT:
 
 - [student objective]
+- [student objective]
+- [student objective]
 
 ### Unit Outline
 
 - Section 1 - Intro Multiview Drawings
+- Section 2 - Orthographic Projections
 
 ### Unit Schedule
 
 | Assignment  | Calendar Schedule |
 | ------------- | ------------- |
-| Orthographic Quadrant with Title Block  | [dates/range]   |
-| Multivew Drawing #13  | [dates/range]   |
-| Multivew Drawing #14  | [dates/range]   |
-| Multivew Drawing #15  | [dates/range]   |
-| Multivew Drawing #16  | [dates/range]   |
-
-
+| - Section 1 - Intro Multiview Drawings | Week 5   |
+| - Section 2 - Orthographic Projections | Week 6   |
 
 ### Unit Grading Breakdown
 
 | Assignment  | Calendar Schedule |
 | ------------- | ------------- |
-| Section [section #] - [section title]  | [amount of points] points   |
+| Section 1 - Title Block & Quadrants  | 100 points   |
