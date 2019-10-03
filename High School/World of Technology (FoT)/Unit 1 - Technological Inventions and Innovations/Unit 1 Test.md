@@ -9,13 +9,14 @@
 ### Learning Cycle 1. The History of Technology
 1. Comparing tools made of stone, iron, and bronze: place them in the correct order from least to most durable.
 
-[].	Stone, iron, bronze
+a.	Stone, iron, bronze
 
-[].	Iron, bronze, stone
+b.	Iron, bronze, stone
 
-[].	Stone, bronze, iron
+c.	Stone, bronze, iron
 
-[].	Bronze, stone, iron
+d.	Bronze, stone, iron
+
 
 2. Today, the development of tools and machines is based on scientific knowledge and engineering design; however, early in the history of technology, the development of tools and machines was based on __________________.
 
