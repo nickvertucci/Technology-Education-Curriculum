@@ -13,7 +13,7 @@ SWBAT:
 - Understand Google Drive and how to organize it
 - Create a Google Drive folder
 
-### Assignment / Activies
+### Assignment / Activities
 
 - Create a photography folder to store all images and assignments to be able to access for the rest of the year
 - Upload an image to the photography folder
