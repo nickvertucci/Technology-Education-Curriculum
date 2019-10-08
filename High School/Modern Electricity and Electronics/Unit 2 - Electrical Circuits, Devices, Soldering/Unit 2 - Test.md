@@ -73,5 +73,47 @@
 
 [] Alessandro Volta
 [] André Ampère
-[] Alexander Voltige
+[] Georg Simon Ohm
+[] The Jets are the worst football team in the NFL
+
+11. Who is credited with the discovery of current?
+
+[] Alessandro Volta
+[] André Ampère
+[] Georg Simon Ohm
+[] The Jets are the worst football team in the NFL
+
+12. Who is credited with the discovery of resistance?
+
+[] Alessandro Volta
+[] André Ampère
+[] Georg Simon Ohm
+[] The Jets are the worst football team in the NFL
+
+13. The flow of electrons through a conductor is called?
+
+[] Resistance
+[] Current
+[] Amps
+[] The Jets are the worst football team in the NFL
+
+14. The symbol for voltage is?
+
+[] V
+[] A
+[] C
+[] The Jets are the worst football team in the NFL
+
+15. The unit for current is called?
+
+[] Amps
+[] Volts
+[] Ohms
+[] The Jets are the worst football team in the NFL
+
+16. The symbol for resistance is?
+
+[] V
+[] O
+[] R
 [] The Jets are the worst football team in the NFL
