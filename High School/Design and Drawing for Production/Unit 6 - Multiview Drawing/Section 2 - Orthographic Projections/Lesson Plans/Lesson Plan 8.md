@@ -2,7 +2,7 @@
 
 # [CLASS NAME]
 
-## Unit [#] | Section [#] | [topic] | Day [#]
+## Unit [#] | Section [#] | Multiview Drawing #8 | Day [#]
 
 ### Objectives
 
