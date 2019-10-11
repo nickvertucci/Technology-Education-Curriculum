@@ -47,8 +47,9 @@ The overall grading of the course is weighted as indicated below:
 | Assignments | 62.5% |
 | Do Nows | 2.5% |
 | Presentations | 7.5% |
+| Quizzes | 13.75% |
 | Pretests | 0% |
-| Tests | 27.5% |
+| Tests | 13.75% |
 
 ### Course Units And Descriptions
 
