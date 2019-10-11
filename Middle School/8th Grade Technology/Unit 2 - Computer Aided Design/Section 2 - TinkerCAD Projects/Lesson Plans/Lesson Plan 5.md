@@ -2,7 +2,7 @@
 
 # [CLASS NAME]
 
-## Unit [#] | Section [#] | Minecraft Party Glasses | Day [#]
+## Unit [#] | Section [#] | Key Ring Letters | Day [#]
 
 ### ITEEA Standards
   1.
