@@ -1,23 +1,23 @@
-# VEX Robotics
+# VEX EDR Robotics
 
-Course #NA | 1/2Credit | Prerequisite: NONE
+Course ##### | .5 Credit | Prerequisite: N/A
 
 ## Course Syllabus
 
-  - Mr. Vertucci
-  - nvertucci@swr.k12.ny.us
-  - Extra Help: by appointment
+- Mr. Vertucci
+- nvertucci@swr.k12.ny.us
+- Twitter: @VertucciTechED
+- Extra Help: by appointment only
 
 ### Course Description
 
-This curriculum leverages the “coolness” of robotics, and the excitement of head to head competition to inspire and engage students.
+This curriculum leverages the “coolness” of robotics, and the excitement of head to head competition to inspire and engage students in also joining the Robotics Team (club).
 
-Students will walk through the design and build a mobile robot to play a sport-like game.  During this process they will learn key STEM principles, and robotics concepts.  At the culmination of this class, they will compete head-to-head against their peers in the classroom, or on the world stage in the VEX Robotics Competition, the largest and fastest growing international robotics competition for middle and high school students.
+Students will walk through the design and build a mobile robot to play a sport-like game.  During this process they will learn key STEM principles, and robotics concepts.  At the culmination of this class, they will compete head-to-head against their peers in the classroom.
 
 This modular and project-based curriculum teaches the design process in an engaging, hands-on manner to help teachers challenge, motivate, and inspire their students.  By moving students through an actual engineering project, students quickly understand the relevance of what they are learning.
 
 The curriculum is created to ensure that students with varying learning styles and levels can accomplish the lesson goals.  No prior robotics experience is required; beginners are able to advance sequentially through the units to gradually increase their knowledge and skill level.
-
 
 ### Course Requirements
 
@@ -45,10 +45,12 @@ The overall grading of the course is weighted as indicated below:
 
 | Category | Weight |
 | ------------- | ------------- |
-| Assignments | 35% |
-| Drawings | 50% |
-| Quizzes | 5% |
-| Tests | 10% |
+| Assignments | 62.5% |
+| Do Nows | 2.5% |
+| Presentations | 7.5% |
+| Quizzes | 13.75% |
+| Pretests | 0% |
+| Tests | 13.75% |
 
 ### Course Calendar And Descriptions
 
