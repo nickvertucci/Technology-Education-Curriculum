@@ -73,14 +73,14 @@ The school year has a total of 43 weeks, which include breaks and holidays. Unit
 
 | Unit Number | Unit Title | Calendar Weeks |
 | ------------- | ------------- | ------------- | ------------- |
-| 1 | Introduction & The Design Process | Introductory to course units, expectations and The Design Process |
-| 2 | Technical Sketching and Drawing | First look into sketches, mechanical or computer drawing, presentation, and problem-solving |
-| 3 | Lettering | Drafting Equipment, CAD, Alphabet of Lines, Erasing techniques and scales |
+| 1 | Introduction & The Design Process | Introductory to course units, expectations and The Design Process | |
+| 2 | Technical Sketching and Drawing | First look into sketches, mechanical or computer drawing, presentation, and problem-solving | |
+| 3 | Lettering | Drafting Equipment, CAD, Alphabet of Lines, Erasing techniques and scales | |
 | 4 | Alphabet of Lines | Sketching equipment, techniques, and problem-solving | |
-| 5 | Basic Geometry in Drafting | Pencil techniques, styles of lettering, guidelines, lettering with pen |
-| 6 | Multiview Drawing | Straight lines, angles, circles, arcs, and polygons |
-| 7 | Modeling | orthographic projection, object visualization, finishing a drawing |
-| 8 | Puzzle Cube Design Challenge | Dimensioning elements, measuring systems, dimensioning features for size, notes |
-| 9 | Reverse Engineering | Dimensioning elements, measuring systems, dimensioning features for size, notes |
-| 10 | Advanced Modeling | orthographic projection, object visualization, finishing a drawing |
-| EXTRA | Cardboard Chair Challenge | Dimensioning elements, measuring systems, dimensioning features for size, notes |
+| 5 | Basic Geometry in Drafting | Pencil techniques, styles of lettering, guidelines, lettering with pen | |
+| 6 | Multiview Drawing | Straight lines, angles, circles, arcs, and polygons | |
+| 7 | Modeling | orthographic projection, object visualization, finishing a drawing | |
+| 8 | Puzzle Cube Design Challenge | Dimensioning elements, measuring systems, dimensioning features for size, notes | |
+| 9 | Reverse Engineering | Dimensioning elements, measuring systems, dimensioning features for size, notes | |
+| 10 | Advanced Modeling | orthographic projection, object visualization, finishing a drawing | |
+| EXTRA | Cardboard Chair Challenge | Dimensioning elements, measuring systems, dimensioning features for size, notes | |
