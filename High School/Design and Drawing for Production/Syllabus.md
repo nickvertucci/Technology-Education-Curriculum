@@ -4,8 +4,8 @@ Course #1220 | 1 Credit | Prerequisite: World Of Technology
 
 ## Course Syllabus
 
-  - Mr. Vertucci
-  - nvertucci@swr.k12.ny.us
+  - Teacher: Mr. Vertucci
+  - Email: nvertucci@swr.k12.ny.us
   - Twitter: @VertucciTechED
   - Extra Help: by appointment only
 
@@ -17,7 +17,7 @@ Ever tried to design something new or draw up an idea you wanted to share with y
 
 ### Course Requirements
 
-Students are required to complete several drawing assignments including 3D printing prototypes.  The quality and overall presentation of these assignments will be used to determine the students grade.  Particular attention to detail will be emphasized. Students will be required to accumulate skills from the beginning of the course and will be expected to build on their skills with each successive project and/or assignment. Each assignment will be evaluated based on this grading rubric and at times require mastery in order to be completed:
+Students are required to complete multiple drawing assignments including 3D printing prototypes.  The quality and overall presentation of these assignments will be used to determine the students grade.  Particular attention to detail will be emphasized. Students will be required to accumulate skills from the beginning of the course and will be expected to build on their skills with each successive project and/or assignment. Each assignment will be evaluated based on this grading rubric and at times require mastery in order to be completed:
 
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -48,38 +48,39 @@ The overall grading of the course is weighted as indicated below:
 | Do Nows | 2.5% |
 | Presentations | 7.5% |
 | Pretests | 0% |
+| Quizzes | 27.5% |
 | Tests | 27.5% |
 
 ### Course Units And Descriptions
 
 | Unit Number | Unit Title | Description | Point Total |
 | ------------- | ------------- | ------------- | ------------- |
-| 1 | Introduction & The Design Process | Introductory to course units, expectations and The Design Process | 200 points total |
-| 2 | Technical Sketching and Drawing | First look into sketches, mechanical or computer drawing, presentation, and problem-solving | 400 points total |
-| 3 | Lettering | Drafting Equipment, CAD, Alphabet of Lines, Erasing techniques and scales | 400 points total |
-| 4 | Alphabet of Lines | Sketching equipment, techniques, and problem-solving | |
-| 5 | Basic Geometry in Drafting | Pencil techniques, styles of lettering, guidelines, lettering with pen | |
-| 6 | Multiview Drawing | Straight lines, angles, circles, arcs, and polygons | |
-| 7 | Modeling | orthographic projection, object visualization, finishing a drawing | |
-| 8 | Puzzle Cube Design Challenge | Dimensioning elements, measuring systems, dimensioning features for size, notes | |
-| 9 | Reverse Engineering | Dimensioning elements, measuring systems, dimensioning features for size, notes | |
-| 10 | Advanced Modeling | orthographic projection, object visualization, finishing a drawing | |
-| EXTRA | Cardboard Chair Challenge | Dimensioning elements, measuring systems, dimensioning features for size, notes | |
+| 1 | Introduction & The Design Process | Introductory to course units, expectations and The Design Process | 2000 points total |
+| 2 | Technical Sketching and Drawing | First look into sketches, mechanical or computer drawing, presentation, and problem-solving | 4000 points total |
+| 3 | Lettering | Drafting Equipment, CAD, Alphabet of Lines, Erasing techniques and scales | 4000 points total |
+| 4 | Alphabet of Lines | Sketching equipment, techniques, and problem-solving | 4000 points total |
+| 5 | Basic Geometry in Drafting | Pencil techniques, styles of lettering, guidelines, lettering with pen | 4000 points total |
+| 6 | Multiview Drawing | Straight lines, angles, circles, arcs, and polygons | 4000 points total |
+| 7 | Modeling | orthographic projection, object visualization, finishing a drawing | 4000 points total |
+| 8 | Puzzle Cube Design Challenge | Dimensioning elements, measuring systems, dimensioning features for size, notes | 4000 points total |
+| 9 | Reverse Engineering | Dimensioning elements, measuring systems, dimensioning features for size, notes | 4000 points total |
+| 10 | Advanced Modeling | orthographic projection, object visualization, finishing a drawing | 4000 points total |
+| EXTRA | Cardboard Chair Challenge | Dimensioning elements, measuring systems, dimensioning features for size, notes | 4000 points total |
 
 ### Course Calendar
 
 The school year has a total of 43 weeks, which include breaks and holidays. Units are scheduled to run within or close to these allocated school calendar weeks:
 
 | Unit Number | Unit Title | Calendar Weeks |
-| ------------- | ------------- | ------------- | ------------- |
-| 1 | Introduction & The Design Process | Introductory to course units, expectations and The Design Process |
-| 2 | Technical Sketching and Drawing | First look into sketches, mechanical or computer drawing, presentation, and problem-solving |
-| 3 | Lettering | Drafting Equipment, CAD, Alphabet of Lines, Erasing techniques and scales |
-| 4 | Alphabet of Lines | Sketching equipment, techniques, and problem-solving | |
-| 5 | Basic Geometry in Drafting | Pencil techniques, styles of lettering, guidelines, lettering with pen |
-| 6 | Multiview Drawing | Straight lines, angles, circles, arcs, and polygons |
-| 7 | Modeling | orthographic projection, object visualization, finishing a drawing |
-| 8 | Puzzle Cube Design Challenge | Dimensioning elements, measuring systems, dimensioning features for size, notes |
-| 9 | Reverse Engineering | Dimensioning elements, measuring systems, dimensioning features for size, notes |
-| 10 | Advanced Modeling | orthographic projection, object visualization, finishing a drawing |
-| EXTRA | Cardboard Chair Challenge | Dimensioning elements, measuring systems, dimensioning features for size, notes |
+| ------------- | ------------- | ------------- |
+| 1 | Introduction & The Design Process | Weeks 1-2 |
+| 2 | Technical Sketching and Drawing | Weeks 3-5 |
+| 3 | Lettering | Weeks 6-6 |
+| 4 | Alphabet of Lines | Weeks 7-7 |
+| 5 | Basic Geometry in Drafting | Weeks 8-9 |
+| 6 | Multiview Drawing | Weeks 10-12 |
+| 7 | Modeling | Weeks 13-15 |
+| 8 | Puzzle Cube Design Challenge | Weeks 16-19 |
+| 9 | Reverse Engineering | Weeks 20-23 |
+| 10 | Advanced Modeling | Weeks 24-27 |
+| EXTRA | Cardboard Chair Challenge | ??? |
