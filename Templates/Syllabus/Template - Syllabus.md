@@ -1,6 +1,6 @@
-# Design and Drawing for Production
+# World of Technology
 
-Course #1220 | 1 Credit | Prerequisite: World Of Technology
+Course #xxxx | 1 Credit | Prerequisite: N/A
 
 ## Course Syllabus
 
@@ -11,13 +11,15 @@ Course #1220 | 1 Credit | Prerequisite: World Of Technology
 
 ### Course Description
 
-Ever tried to design something new or draw up an idea you wanted to share with your friends and wondered how you could communicate your idea? Have you wondered how someone designed that new gadget or sleek new smartphone? Then this course is for you. This introductory problem-solving course covers six concept areas in technical drawing required to produce quality mechanical drawings and actual production of their design. The assignments begin with basic drafting techniques, progress to some design problems, and illustrations that culminate with a model. This “hands on” method of instruction presents an effective design solution for student understanding. Students will use the tools of the draftsperson and the required woodworking equipment to complete these projects. The student receives instruction to help them gain competence in two and three view, section and isometric drawings. In addition, you will use SketchUp, a 3D design software package from Google, to help you design solutions to different projects.
+World of Technology prepares students to understand pre-engineering concepts that focus on critical thinking and problem-solving. Group and individual activities engage students in creating ideas, developing innovations, and engineering practical solutions. Technology content, resources, and laboratory/classroom activities apply student applications of science, mathematics, and other school subjects in authentic situations.
 
-***May be taken for Regents credit to satisfy the High School Art/Music requirement.***
+The term “technological literacy” refers to one's ability to use, manage, evaluate, and understand technology. In order to be a technologically literate citizen, a person should understand what technology is, how it works, how it shapes society, and in turn how society shapes it. This course focuses on the three dimensions of technological literacy—knowledge, ways of thinking and acting, and capabilities—with the goal of students developing the characteristics of technologically literate citizens. It employs teaching/learning strategies that enable students to explore and deepen their understanding of “big ideas” regarding technology and makes use of a variety of assessment instruments to reveal the extent of understanding.
+
+Students gain an understanding of technological innovation and the fact that it often results when ideas, knowledge, or skills are shared within a technology, among technologies, or across other fields of study. Students develop an understanding of engineering design, the formal process that transforms ideas into products or systems of the designed world. They select and use manufacturing technologies and understand that modern manufacturing technologies produce quality goods at low prices, enhancing the quality of life for many people. Students select and use construction technologies and recognize that cultural norms, environmental conditions, and the requirements of enterprises and institutions impact the design of structures. Opportunities are provided that enable students to select and use energy and power technologies and to explore the processing and controlling of the energy resources that have been important in the development of contemporary technology. Opportunities are provided that enable students to gain insights into the use of telemedicine and other medical technologies. They become familiar with information and communication technologies and their role in the use of other technologies. The course concludes with the synthesizing of major ideas through an understanding of the impacts the use of technology has on society and the environment.
 
 ### Course Requirements
 
-Students are required to complete several drawing assignments including 3D printing prototypes.  The quality and overall presentation of these assignments will be used to determine the students grade.  Particular attention to detail will be emphasized. Students will be required to accumulate skills from the beginning of the course and will be expected to build on their skills with each successive project and/or assignment. Each assignment will be evaluated based on this grading rubric and at times require mastery in order to be completed:
+Students develop an understanding of the influence of technology on history by exploring how people of all times and places have increased their capability by using their unique skills to innovate, improvise, and invent. Each assignment will be evaluated based on this grading rubric and at times require mastery in order to be completed:
 
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -30,7 +32,7 @@ Students are required to complete several drawing assignments including 3D print
 
 ### Required materials
 
-DDP is a drafting and production course. Effective storage of projects and organization of materials is critical to student success. In order to aid students the items listed below will be beneficial:
+Effective storage of projects and organization of materials is critical to student success. In order to aid students the items listed below will be beneficial:
 
 - 1 x folder
 - 1 x Bound Notebook for **Engineering Journal**
@@ -47,8 +49,9 @@ The overall grading of the course is weighted as indicated below:
 | Assignments | 62.5% |
 | Do Nows | 2.5% |
 | Presentations | 7.5% |
+| Quizzes | 13.75% |
 | Pretests | 0% |
-| Tests | 27.5% |
+| Tests | 13.75% |
 
 ### Course Units And Descriptions
 
