@@ -16,6 +16,10 @@ SWBAT:
 ### Unit Outline
 
 - Section 1 - Title Block Design
+- Section 2 - Architect Scale
+- Section 3 - What else is in the bag?
+
+
 
 ### Unit Schedule
 

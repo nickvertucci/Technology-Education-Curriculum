@@ -2,7 +2,7 @@
 
 # [CLASS NAME]
 
-## Unit [#] | Section [#] | Minecraft Party Glasses | Day [#]
+## Unit [#] | Section [#] | Chess Pawn Piece | Day [#]
 
 ### ITEEA Standards
   1.

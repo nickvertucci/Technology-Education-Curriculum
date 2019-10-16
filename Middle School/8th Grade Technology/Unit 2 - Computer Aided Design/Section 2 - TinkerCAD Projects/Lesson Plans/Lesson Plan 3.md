@@ -2,7 +2,7 @@
 
 # [CLASS NAME]
 
-## Unit [#] | Section [#] | Minecraft Party Glasses | Day [#]
+## Unit [#] | Section [#] | Button Choice | Day [#]
 
 ### ITEEA Standards
   1.
