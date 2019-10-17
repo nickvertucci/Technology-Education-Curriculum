@@ -1,6 +1,6 @@
-# Design and Drawing for Production
+# World of Technology
 
-Course #1220 | 1 Credit | Prerequisite: World Of Technology
+Course #xxxx | 1 Credit | Prerequisite: N/A
 
 ## Course Syllabus
 
@@ -11,13 +11,15 @@ Course #1220 | 1 Credit | Prerequisite: World Of Technology
 
 ### Course Description
 
-Ever tried to design something new or draw up an idea you wanted to share with your friends and wondered how you could communicate your idea? Have you wondered how someone designed that new gadget or sleek new smartphone? Then this course is for you. This introductory problem-solving course covers six concept areas in technical drawing required to produce quality mechanical drawings and actual production of their design. The assignments begin with basic drafting techniques, progress to some design problems, and illustrations that culminate with a model. This “hands on” method of instruction presents an effective design solution for student understanding. Students will use the tools of the draftsperson and the required woodworking equipment to complete these projects. The student receives instruction to help them gain competence in two and three view, section and isometric drawings. In addition, you will use SketchUp, a 3D design software package from Google, to help you design solutions to different projects.
+World of Technology prepares students to understand pre-engineering concepts that focus on critical thinking and problem-solving. Group and individual activities engage students in creating ideas, developing innovations, and engineering practical solutions. Technology content, resources, and laboratory/classroom activities apply student applications of science, mathematics, and other school subjects in authentic situations.
 
-***May be taken for Regents credit to satisfy the High School Art/Music requirement.***
+The term “technological literacy” refers to one's ability to use, manage, evaluate, and understand technology. In order to be a technologically literate citizen, a person should understand what technology is, how it works, how it shapes society, and in turn how society shapes it. This course focuses on the three dimensions of technological literacy—knowledge, ways of thinking and acting, and capabilities—with the goal of students developing the characteristics of technologically literate citizens. It employs teaching/learning strategies that enable students to explore and deepen their understanding of “big ideas” regarding technology and makes use of a variety of assessment instruments to reveal the extent of understanding.
+
+Students develop an understanding of engineering design, the formal process that transforms ideas into products or systems of the designed world. They select and use manufacturing technologies and understand that modern manufacturing technologies produce quality goods at low prices, enhancing the quality of life for many people. Students select and use construction technologies and recognize that cultural norms, environmental conditions, and the requirements of enterprises and institutions impact the design of structures. Opportunities are provided that enable students to select and use energy and power technologies and to explore the processing and controlling of the energy resources that have been important in the development of contemporary technology. Opportunities are provided that enable students to gain insights into the use of telemedicine and other medical technologies. They become familiar with information and communication technologies and their role in the use of other technologies. The course concludes with the synthesizing of major ideas through an understanding of the impacts the use of technology has on society and the environment.
 
 ### Course Requirements
 
-Students are required to complete several drawing assignments including 3D printing prototypes.  The quality and overall presentation of these assignments will be used to determine the students grade.  Particular attention to detail will be emphasized. Students will be required to accumulate skills from the beginning of the course and will be expected to build on their skills with each successive project and/or assignment. Each assignment will be evaluated based on this grading rubric and at times require mastery in order to be completed:
+Students develop an understanding of the influence of technology on history by exploring how people of all times and places have increased their capability by using their unique skills to innovate, improvise, and invent. They gain an understanding of technological innovation and the fact that it often results when ideas, knowledge, or skills are shared within a technology, among technologies, or across other fields of study. Each assignment will be evaluated based on this grading rubric and at times require mastery in order to be completed:
 
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -26,7 +28,6 @@ Students are required to complete several drawing assignments including 3D print
 | Effort | 10% | No effort | limited to no effort | Inconsistent day-to-day effort | Showed effort only when needed or routinely directed | Continuous day-to-day effort with or without direction |
 | Creativity/Originality | 10% | No creativity, copied designs | Minimal creativity based off past designs | Moderate improvements based off past designs | Complete overhaul of past or found designs | Completely new idea/design |
 | Craftsmanship/Skill | 70% | Poor execution, no planning | Moderate end result, able to achieve an outcome | Good planning but poorly executed end result | Good planning and good end result although not what had been designed or communicated | Great planning & execution able to achieve what had been designed or communicated |
-
 
 ### Required materials
 
@@ -55,20 +56,20 @@ The overall grading of the course is weighted as indicated below:
 
 | Unit Number | Unit Title | Description | Point Total |
 | ------------- | ------------- | ------------- | ------------- |
-| 1 | Introduction & The Design Process | Introductory to course units, expectations and The Design Process | 200 points total |
-| 2 | Technical Sketching and Drawing | First look into sketches, mechanical or computer drawing, presentation, and problem-solving | 400 points total |
-| 3 | Lettering | Drafting Equipment, CAD, Alphabet of Lines, Erasing techniques and scales | 400 points total |
-| 4 | Alphabet of Lines | Sketching equipment, techniques, and problem-solving | |
-| 5 | Basic Geometry in Drafting | Pencil techniques, styles of lettering, guidelines, lettering with pen | |
+| 1 | Technological Inventions and Innovations | This unit will allow students to explore the evolution of technology and its role in today’s global society. | 1500 points total |
+| 2 | Process of Engineering Design | This unit will enable students to apply the Engineering Design Process as they solve a variety of technological and engineering design problems.   | 1500 points total |
+| 3 | The Designed World | This unit will enable students to apply the Engineering Design Process as they solve a variety of problems. | 1500 points total |
+| 4 | Systems Engineering and Technology | Systems are the building blocks of technology and users must properly maintain, troubleshoot, and analyze systems to ensure safe and proper function. | 1500 points total |
+| 5 | Design with CAD Systems | Students will become proficient using a CAD system (AutoCAD) while navigating a series of design challenges. | 1500 points total |
 
 ### Course Calendar
 
 The school year has a total of 43 weeks, which include breaks and holidays. Units are scheduled to run within or close to these allocated school calendar weeks:
 
 | Unit Number | Unit Title | Calendar Weeks |
-| ------------- | ------------- | ------------- | ------------- |
-| 1 | Introduction & The Design Process | Introductory to course units, expectations and The Design Process |
-| 2 | Technical Sketching and Drawing | First look into sketches, mechanical or computer drawing, presentation, and problem-solving |
-| 3 | Lettering | Drafting Equipment, CAD, Alphabet of Lines, Erasing techniques and scales |
-| 4 | Alphabet of Lines | Sketching equipment, techniques, and problem-solving | |
-| 5 | Basic Geometry in Drafting | Pencil techniques, styles of lettering, guidelines, lettering with pen |
+| ------------- | ------------- | ------------- |
+| 1 | Technological Inventions and Innovations | Weeks 1-9 |
+| 2 | Process of Engineering Design | Weeks 10-18 |
+| 3 | The Designed World | Weeks 19-27 |
+| 4 | Systems Engineering and Technology | Weeks 28-36 |
+| 5 | Design with CAD Systems | Weeks 37-43 |
