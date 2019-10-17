@@ -16,7 +16,7 @@ Intended for a basic course in electricity and electronics. The curriculum is sp
 
 ### Course Requirements
 
-Students are required to complete several drawing projects including 3D printing prototypes.  The quality and overall presentation of these projects will be used to determine the grade.  Particular attention to detail will be emphasized. Students will be required to accumulate skills from the beginning of the course and will be expected to build on their skills with each successive project and/or assignment. Each assignment will be evaluated based on this grading rubric and at times require mastery in order to be completed:
+Particular attention to detail will be emphasized. Students will be required to accumulate skills from the beginning of the course and will be expected to build on their skills with each successive project and/or assignment. Each assignment will be evaluated based on this grading rubric and at times require mastery in order to be completed:
 
 | Category | Weight | 0 points  | 25 points | 50 points | 75 points | 100 points |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -29,7 +29,7 @@ Students are required to complete several drawing projects including 3D printing
 
 ### Required materials
 
-DDP is a drafting and production course. Effective storage of projects and organization of materials is critical to student success. In order to aid students the items listed below will be beneficial:
+Effective storage of projects and organization of materials is critical to student success. In order to aid students the items listed below will be beneficial:
 
 - 1 x folder
 - 1 x 3 ring binder with paper OR notebook for notes, sketches and ideation
@@ -46,9 +46,3 @@ The overall grading of the course is weighted as indicated below:
 | Presentations | 7.5% |
 | Pretests | 0% |
 | Tests | 27.5% |
-
-### Course Units And Descriptions
-
-| Unit Number | Unit Title | Description | Point Total |
-| ------------- | ------------- | ------------- | ------------- |
-| 1 | Introduction | Introductory to course units, expectations | |
