@@ -55,17 +55,17 @@ The overall grading of the course is weighted as indicated below:
 
 | Unit Number | Unit Title | Description | Point Total |
 | ------------- | ------------- | ------------- | ------------- |
-| 1 | Introduction & The Design Process | Introductory to course units, expectations and The Design Process | 2000 points total |
-| 2 | Technical Sketching and Drawing | First look into sketches, mechanical or computer drawing, presentation, and problem-solving | 4000 points total |
-| 3 | Lettering | Drafting Equipment, CAD, Alphabet of Lines, Erasing techniques and scales | 4000 points total |
-| 4 | Alphabet of Lines | Sketching equipment, techniques, and problem-solving | 4000 points total |
-| 5 | Basic Geometry in Drafting | Pencil techniques, styles of lettering, guidelines, lettering with pen | 4000 points total |
-| 6 | Multiview Drawing | Straight lines, angles, circles, arcs, and polygons | 4000 points total |
-| 7 | Modeling | orthographic projection, object visualization, finishing a drawing | 4000 points total |
-| 8 | Puzzle Cube Design Challenge | Dimensioning elements, measuring systems, dimensioning features for size, notes | 4000 points total |
-| 9 | Reverse Engineering | Dimensioning elements, measuring systems, dimensioning features for size, notes | 4000 points total |
-| 10 | Advanced Modeling | orthographic projection, object visualization, finishing a drawing | 4000 points total |
-| EXTRA | Cardboard Chair Challenge | Dimensioning elements, measuring systems, dimensioning features for size, notes | 4000 points total |
+| 1 | Introduction & The Design Process | Introductory to course units, expectations and The Design Process | 1000 points total |
+| 2 | Technical Sketching and Drawing | First look into sketches, mechanical or computer drawing, presentation, and problem-solving | 1000 points total |
+| 3 | Lettering | Drafting Equipment, CAD, Alphabet of Lines, Erasing techniques and scales | 1000 points total |
+| 4 | Alphabet of Lines | Sketching equipment, techniques, and problem-solving | 1000 points total |
+| 5 | Basic Geometry in Drafting | Pencil techniques, styles of lettering, guidelines, lettering with pen | 1000 points total |
+| 6 | Multiview Drawing | Straight lines, angles, circles, arcs, and polygons | 1000 points total |
+| 7 | Modeling | orthographic projection, object visualization, finishing a drawing | 1000 points total |
+| 8 | Puzzle Cube Design Challenge | Dimensioning elements, measuring systems, dimensioning features for size, notes | 1000 points total |
+| 9 | Reverse Engineering | Dimensioning elements, measuring systems, dimensioning features for size, notes | 1000 points total |
+| 10 | Advanced Modeling | orthographic projection, object visualization, finishing a drawing | 1000 points total |
+| EXTRA | Cardboard Chair Challenge | Dimensioning elements, measuring systems, dimensioning features for size, notes | 1000 points total |
 
 ### Course Calendar
 
