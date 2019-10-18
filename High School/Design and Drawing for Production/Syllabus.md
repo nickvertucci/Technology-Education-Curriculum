@@ -56,16 +56,16 @@ The overall grading of the course is weighted as indicated below:
 | Unit Number | Unit Title | Description | Point Total |
 | ------------- | ------------- | ------------- | ------------- |
 | 1 | Introduction & The Design Process | Introductory to course units, expectations and The Design Process | 1000 points total |
-| 2 | Technical Sketching and Drawing | First look into sketches, mechanical or computer drawing, presentation, and problem-solving | 1000 points total |
-| 3 | Lettering | Drafting Equipment, CAD, Alphabet of Lines, Erasing techniques and scales | 1000 points total |
+| 2 | The Design Process and Tools | First look into sketches, mechanical or computer drawing, presentations, and problem-solving | 1000 points total |
+| 3 | Lettering | Pencil techniques, styles of lettering, guidelines, lettering with pen | 1000 points total |
 | 4 | Alphabet of Lines | Sketching equipment, techniques, and problem-solving | 1000 points total |
-| 5 | Basic Geometry in Drafting | Pencil techniques, styles of lettering, guidelines, lettering with pen | 1000 points total |
-| 6 | Multiview Drawing | Straight lines, angles, circles, arcs, and polygons | 1000 points total |
-| 7 | Modeling | orthographic projection, object visualization, finishing a drawing | 1000 points total |
-| 8 | Puzzle Cube Design Challenge | Dimensioning elements, measuring systems, dimensioning features for size, notes | 1000 points total |
-| 9 | Reverse Engineering | Dimensioning elements, measuring systems, dimensioning features for size, notes | 1000 points total |
-| 10 | Advanced Modeling | orthographic projection, object visualization, finishing a drawing | 1000 points total |
-| EXTRA | Cardboard Chair Challenge | Dimensioning elements, measuring systems, dimensioning features for size, notes | 1000 points total |
+| 5 | Basic Geometry in Drafting | Using drafting tools to construct basic shapes | 1000 points total |
+| 6 | Multiview Drawing | Orthographic projections, Isometrics, object visualization, finishing a drawing | 1000 points total |
+| 7 | Modeling | Dimensioning elements, measuring systems, dimensioning features for size, notes | 1000 points total |
+| 8 | Puzzle Cube Design Challenge | Design challenge incorporating orthographic and isometrics | 1000 points total |
+| 9 | Reverse Engineering | Deconstructing a current object and innovating it after fully understanding its internal mechanisms | 1000 points total |
+| 10 | Cardboard Chair Challenge | Designing and constructing a chair ONLY out of cardboard | 1000 points total |
+| 11 | Advanced Modeling | Further exploring 3D modeling skills, and techniques with a connecting project | 1000 points total |
 
 ### Course Calendar
 
@@ -73,14 +73,14 @@ The school year has a total of 43 weeks, which include breaks and holidays. Unit
 
 | Unit Number | Unit Title | Calendar Weeks |
 | ------------- | ------------- | ------------- |
-| 1 | Introduction & The Design Process | Introductory to course units, expectations and The Design Process |
-| 2 | Technical Sketching and Drawing | First look into sketches, mechanical or computer drawing, presentation, and problem-solving |
-| 3 | Lettering | Drafting Equipment, CAD, Alphabet of Lines, Erasing techniques and scales |
-| 4 | Alphabet of Lines | Sketching equipment, techniques, and problem-solving |
-| 5 | Basic Geometry in Drafting | Pencil techniques, styles of lettering, guidelines, lettering with pen |
-| 6 | Multiview Drawing | Straight lines, angles, circles, arcs, and polygons |
-| 7 | Modeling | orthographic projection, object visualization, finishing a drawing |
-| 8 | Puzzle Cube Design Challenge | Dimensioning elements, measuring systems, dimensioning features for size, notes |
-| 9 | Reverse Engineering | Dimensioning elements, measuring systems, dimensioning features for size, notes |
-| 10 | Advanced Modeling | orthographic projection, object visualization, finishing a drawing |
-| EXTRA | Cardboard Chair Challenge | Dimensioning elements, measuring systems, dimensioning features for size, notes |
+| 1 | Introduction & The Design Process | 1-3 |
+| 2 | The Design Process and Tools | 4-5 |
+| 3 | Lettering | 6-7 |
+| 4 | Alphabet of Lines | 8-9 |
+| 5 | Basic Geometry in Drafting | 10-11 |
+| 6 | Multiview Drawing | 12-16 |
+| 7 | Modeling | 17-21 |
+| 8 | Puzzle Cube Design Challenge | 21-24 |
+| 9 | Reverse Engineering | 24-27 |
+| 10 | Cardboard Chair Challenge | 27-31 |
+| 11 | Advanced Modeling | ??? |
