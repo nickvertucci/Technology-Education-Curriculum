@@ -17,7 +17,7 @@
 
 
 
-.
+
 2. In a parallel circuit which has a source of 15V and loads of 10Ω, 14Ω, 9Ω what is the current at each load?
 
 
