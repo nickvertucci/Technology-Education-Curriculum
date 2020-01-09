@@ -61,11 +61,12 @@ The overall grading of the course is weighted as indicated below:
 | 4 | Alphabet of Lines | Sketching equipment, techniques, and problem-solving | 1000 points total |
 | 5 | Basic Geometry in Drafting | Using drafting tools to construct basic shapes | 1000 points total |
 | 6 | Multiview Drawing | Orthographic projections, Isometrics, object visualization, finishing a drawing | 1000 points total |
-| 7 | Modeling | Dimensioning elements, measuring systems, dimensioning features for size, notes | 1000 points total |
-| 8 | Puzzle Cube Design Challenge | Design challenge incorporating orthographic and isometrics | 1000 points total |
-| 9 | Reverse Engineering | Deconstructing a current object and innovating it after fully understanding its internal mechanisms | 1000 points total |
-| 10 | Cardboard Chair Challenge | Designing and constructing a chair ONLY out of cardboard | 1000 points total |
-| 11 | Advanced Modeling | Further exploring 3D modeling skills, and techniques with a connecting project | 1000 points total |
+| 7 | Dimensioning | Orthographic projections, Isometrics, object visualization, finishing a drawing | 1000 points total |
+| 8 | Modeling | Dimensioning elements, measuring systems, dimensioning features for size, notes | 1000 points total |
+| 9 | Puzzle Cube Design Challenge | Design challenge incorporating orthographic and isometrics | 1000 points total |
+| 10 | Reverse Engineering | Deconstructing a current object and innovating it after fully understanding its internal mechanisms | 1000 points total |
+| 11 | Cardboard Chair Challenge | Designing and constructing a chair ONLY out of cardboard | 1000 points total |
+| 12 | Advanced Modeling | Further exploring 3D modeling skills, and techniques with a connecting project | 1000 points total |
 
 ### Course Calendar
 
@@ -79,8 +80,9 @@ The school year has a total of 43 weeks, which include breaks and holidays. Unit
 | 4 | Alphabet of Lines | 8-9 |
 | 5 | Basic Geometry in Drafting | 10-11 |
 | 6 | Multiview Drawing | 12-16 |
-| 7 | Modeling | 17-21 |
-| 8 | Puzzle Cube Design Challenge | 21-24 |
-| 9 | Reverse Engineering | 24-27 |
-| 10 | Cardboard Chair Challenge | 27-31 |
-| 11 | Advanced Modeling | ??? |
+| 7 | Dimensioning | 17-19 |
+| 8 | Modeling | 20-25 |
+| 9 | Puzzle Cube Design Challenge | 26-30 |
+| 10 | Reverse Engineering | 31-34 |
+| 11 | Cardboard Chair Challenge | 35-39 |
+| 12 | Advanced Modeling | ??? |
