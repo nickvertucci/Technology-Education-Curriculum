@@ -1,18 +1,18 @@
 # Electricity and Electronics
 
-Course #1220 | 1 Credit | Prerequisite: World Of Technology
+Course | 1 Credit | Prerequisite: World Of Technology
 
 ## Course Syllabus
 
-  - Mr. Vertucci
-  - nvertucci@swr.k12.ny.us
+  - Teacher: Mr. Vertucci
+  - Email: nvertucci@swr.k12.ny.us
+  - Twitter: @VertucciTechED
   - Extra Help: by appointment only
 
 ### Course Description
 
 Intended for a basic course in electricity and electronics. The curriculum is split up into 8 units starting with an introduction to electricity and electronics then ending with hands-on experiences or project based labs dealing with schematic reading and circuit development. Students will also learn about how electricity is produced and also experience small wiring and soldering assignments as well.
 
-***May be taken for Regents credit to satisfy the High School Art/Music requirement.***
 
 ### Course Requirements
 
@@ -46,3 +46,39 @@ The overall grading of the course is weighted as indicated below:
 | Presentations | 7.5% |
 | Pretests | 0% |
 | Tests | 27.5% |
+
+### Course Units And Descriptions
+
+| Unit Number | Unit Title | Description | Point Total |
+| ------------- | ------------- | ------------- | ------------- |
+| 1 | Introduction & The Design Process | Introductory to course units, expectations and The Design Process | 1000 points total |
+| 2 | Safety | General classroom safety, routines, and expectations | 1000 points total |
+| 3 | Circuits, Voltage, Current | What is in a circuit? What pushes electricity? How can we measure how strong electricity is? | 1000 points total |
+| 4 | Conductance and Resistance | Conductance and resistance allow us to control the flow of electricity and create awesome solutions. | 1000 points total |
+| 5 | Ohm's Law | The foundation to understanding how electricity works and how Ohm's Law is applied to everything we use today. | 1000 points total |
+| 6 | Series Circuits | Defining what a series circuit is and what it does. | 1000 points total |
+| 7 | Parallel Circuits | Defining what a parallel circuit is and what it does. | 1000 points total |
+| 8 | Capacitors | Capacitors transformed the world. Here we will focus in on what a capacitor is with a few general labs  | 1000 points total |
+| 9 | Microcontrollers | They control our infrastructure and any complex electrical component. What are microcontrollers? | 1000 points total |
+| 10 | Arduino Labs | Moderately sized microcontrollers that allow us to code and control various electrical components. | 1000 points total |
+| 11 | Wires and Cables | Introduction to residential wiring, wire types, tools and techniques. | 1000 points total |
+| 12 | Residential Wiring | Dive into residential electricity, receptacle maintenance, basic home wiring and construction. | 1000 points total |
+
+### Course Calendar
+
+The school year has a total of 43 weeks, which include breaks and holidays. Units are scheduled to run within or close to these allocated school calendar weeks:
+
+| Unit Number | Unit Title | Calendar Weeks |
+| ------------- | ------------- | ------------- |
+| 1 | Introduction & The Design Process | 1-3 |
+| 2 | The Design Process and Tools | 4-5 |
+| 3 | Circuits, Voltage, Current | 6-7 |
+| 4 | Conductance and Resistance | 8-9 |
+| 5 | Ohm's Law | 10-11 |
+| 6 | Series Circuits | 12-16 |
+| 7 | Parallel Circuits | 17-19 |
+| 8 | Capacitors | 20-25 |
+| 9 | Microcontrollers | 26-30 |
+| 10 | Arduino Labs | 31-34 |
+| 11 | Wires and Cables | 35-39 |
+| 12 | Residential Wiring | ??? |

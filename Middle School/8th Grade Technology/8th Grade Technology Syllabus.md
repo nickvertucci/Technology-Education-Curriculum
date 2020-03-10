@@ -1,6 +1,6 @@
-# Architecture
+# 8th Grade Technology
 
-Course | 1 Credit | Prerequisite: World Of Technology
+Course | 1 Credit | Prerequisite: NONE
 
 ## Course Syllabus
 
@@ -11,7 +11,8 @@ Course | 1 Credit | Prerequisite: World Of Technology
 
 ### Course Description
 
-Architecture covers all introductory areas of both drafting and design in architecture and construction. Emphasis is placed on the appropriate balance between these two elements. The two major subject matter components of this text, drafting and design, are intricately connected. The design component needs the drafting function as a method of communication. Drafting procedures alone, without clear design input, can result in drawings without function and/or aesthetic appeal. Both are needed to create full functional architectural plans. Likewise the two related career fields of architecture and construction, are linked through a common body of knowledge of construction types, details and materials.
+Prodell Middle School 8th Grade Technology course is designed for students to learn how to apply practical and creative thinking skills to solve technology problems through the design process. It encourages students to explore the role of technology in both historical and contemporary contexts and raises students’ awareness of their responsibilities when making technology decisions and taking actions. Inquiry and problem-solving are the main objectives of the Design/Technology course. Students are asked to inquire and analysis the problem. They are then asked to develop a solution, collaboratively or as an individual. Finally the students test and evaluate the solution. Students will reflect on their model and revisit it if necessary. Students will become actively involved in the design process from the inquiry phase through the reflection.
+
 
 ### Course Requirements
 
@@ -28,7 +29,7 @@ Students are required to complete multiple drawing assignments including 3D prin
 
 ### Required materials
 
-Architecture is a design and production course. Effective storage of projects and organization of materials is critical to student success. In order to aid students the items listed below will be beneficial:
+DDP is a drafting and production course. Effective storage of projects and organization of materials is critical to student success. In order to aid students the items listed below will be beneficial:
 
 - 1 x folder
 - 1 x Bound Notebook for **Engineering Journal**
@@ -54,17 +55,12 @@ The overall grading of the course is weighted as indicated below:
 | Unit Number | Unit Title | Description | Point Total |
 | ------------- | ------------- | ------------- | ------------- |
 | 1 | Introduction & The Design Process | Introductory to course units, expectations and The Design Process | 1000 points total |
-| 2 | Architectural History and Styles | Exploring the various architectural styles | 1000 points total |
-| 3 | Fundamentals of Design | Basic design fundamentals such as drafting techniques and tools | 1000 points total |
-| 4 | Scales and Measurements | How to scale objects to be smaller or larger | 1000 points total |
-| 5 | Introduction to CAD | Using CAD to make 3D models and renderings | 1000 points total |
-| 6 | Environmental Design Factors | Exploring various environmental factors that go into a design | 1000 points total |
-| 7 | Indoor Living Areas | Design and investigating into indoor living areas and common terms | 1000 points total |
-| 8 | Outdoor Living Areas | Design and investigating into outdoor living areas and common terms | 1000 points total |
-| 9 | Traffic Areas and Patterns | Exploring traffic patterns and good traffic flow design | 1000 points total |
-| 10 | Kitchens | How is a kitchen actually made? What is the work triangle? Kitchen design and terminology | 1000 points total |
-| 11 | Designing Floor Plans | Communicating designs via floor plans for production | 1000 points total |
-| 12 | Architectural Models | Designing and producing models of decks, homes, and architectural elements | 1000 points total |
+| 2 | The Design Process and Tools | First look into sketches, mechanical or computer drawing, presentations, and problem-solving | 1000 points total |
+| 3 | CO2 Cars | Construction of a CO2 wooden racer from sketch, design, fabrication, and function. Every aspect of the Design Process. | 1000 points total |
+| 4 | VEX Robotics | Design, construction and coding of VEX robotics ending in a class VEX Competition and Challenge. | 1000 points total |
+| 5 | TinkerCAD | Introduction to CAD and 3D printing through activities and design challenges. | 1000 points total |
+| 6 | Bloxels | While focused on game design and basic block coding, this unit challenges students to iterate and innovate. | 1000 points total |
+| 7 | Technology Careers | Selection, investigation, research assignment ending in a presentation of a technology of your interest. | 1000 points total |
 
 ### Course Calendar
 
@@ -73,14 +69,9 @@ The school year has a total of 43 weeks, which include breaks and holidays. Unit
 | Unit Number | Unit Title | Calendar Weeks |
 | ------------- | ------------- | ------------- |
 | 1 | Introduction & The Design Process | 1-3 |
-| 2 | Architectural History and Styles | 4-5 |
-| 3 | Fundamentals of Design | 6-7 |
-| 4 | Scales and Measurements | 8-9 |
-| 5 | Introduction to CAD | 10-11 |
-| 6 | Environmental Design Factors | 12-16 |
-| 7 | Indoor Living Areas | 17-19 |
-| 8 | Outdoor Living Areas | 20-25 |
-| 9 | Traffic Areas and Patterns | 26-30 |
-| 10 | Kitchens | 31-34 |
-| 11 | Designing Floor Plans | 35-39 |
-| 12 | Architectural Models | ??? |
+| 2 | The Design Process and Tools | 4-5 |
+| 3 | CO2 Cars | 6-16 |
+| 7 | VEX Robotics | 17-25 |
+| 9 | TinkerCAD | 26-34 |
+| 11 | Bloxels | 35-39 |
+| 12 | Technology Career | ??? |
