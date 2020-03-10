@@ -1,6 +1,6 @@
-# Student IT Help Desk
+# SWRTV
 
-Course ##### | .5 Credit | Prerequisite: 10th, 11th or 12th Grade Students Only
+Course ##### | 1 Credit | Prerequisite: 11th or 12th Grade Students Only
 
 ## Course Syllabus
 
@@ -10,7 +10,7 @@ Course ##### | .5 Credit | Prerequisite: 10th, 11th or 12th Grade Students Only
   - Extra Help: by appointment only
 
 ### Course Description
-The SWR High School Student Help Desk is a student managed and technology educator facilitated class providing real-world technology assistance to both students and faculty alike. Students will be organized and rotated in teams for management, support team, and technical writers. Each position will have a dedicated responsibility and will be accountable for completing such tasks on time effectively. If you are interested in technology, teamwork, troubleshooting, and assisting others whether it is connecting to wifi or writing technical how-to documents you most certainly should be taking this course.
+SWR TV is a digital media production course that will provide students with the television/video production experience, filmmaking, broadcast journalism and podcasting. In our production studio, students will take part in a series or projects that will build career and college ready skills offering a new perspective into student life on campus and in the community. Segments and programs are to include news programs, documentaries, interviews, sport highlights and podcasting shows. Students will create, develop and complete work using Final Cut Pro and have deliverables be published via Vimeo, Youtube, swrtv.com and throughout the high School on TVs and smart-boards.
 
 
 ### Course Requirements
