@@ -5,9 +5,9 @@ Course #1220 | 1 Credit | Prerequisite: World Of Technology
 ## Course Syllabus
 
   - Teacher: Mr. Vertucci
-  - Email: nvertucci@swr.k12.ny.us
+  - Email: nvertucci@swrschools.org
   - Twitter: @VertucciTechED
-  - Extra Help: by appointment only
+  - Extra Help: Morning 6:45AM-7:20AM
 
 ### Course Description
 
@@ -33,7 +33,8 @@ Students are required to complete multiple drawing assignments including 3D prin
 DDP is a drafting and production course. Effective storage of projects and organization of materials is critical to student success. In order to aid students the items listed below will be beneficial:
 
 - 1 x folder
-- 1 x Bound Notebook for **Engineering Journal**
+- 1 x binder
+- 1 x Bound Notebook for **Engineering Journal**  (composition notebook)
     - The notebook must be bound and no pages can be added or removed. Students will record research, experimental data and observations, calculations, mentor contacts, relevant vocabulary, and ideas for future research within the notebook. You will receive a rubric outlining the notebook requirements to reference throughout the course.
 
 ***Laptops are allowed and encouraged as long as they are utilized towards course work and not a distraction or they will not be permitted in class. All students are provided the G Suite of tools via Google and their school account.***
@@ -55,18 +56,19 @@ The overall grading of the course is weighted as indicated below:
 
 | Unit Number | Unit Title | Description | Point Total |
 | ------------- | ------------- | ------------- | ------------- |
-| 1 | Introduction & The Design Process | Introductory to course units, expectations and The Design Process | 1000 points total |
+| 1 | Introduction  | Introductory to course units, expectations and The Design Process | 1000 points total |
 | 2 | The Design Process and Tools | First look into sketches, mechanical or computer drawing, presentations, and problem-solving | 1000 points total |
 | 3 | Lettering | Pencil techniques, styles of lettering, guidelines, lettering with pen | 1000 points total |
 | 4 | Alphabet of Lines | Sketching equipment, techniques, and problem-solving | 1000 points total |
-| 5 | Basic Geometry in Drafting | Using drafting tools to construct basic shapes | 1000 points total |
-| 6 | Multiview Drawing | Orthographic projections, Isometrics, object visualization, finishing a drawing | 1000 points total |
-| 7 | Dimensioning | Orthographic projections, Isometrics, object visualization, finishing a drawing | 1000 points total |
-| 8 | Modeling | Dimensioning elements, measuring systems, dimensioning features for size, notes | 1000 points total |
-| 9 | Puzzle Cube Design Challenge | Design challenge incorporating orthographic and isometrics | 1000 points total |
-| 10 | Reverse Engineering | Deconstructing a current object and innovating it after fully understanding its internal mechanisms | 1000 points total |
-| 11 | Cardboard Chair Challenge | Designing and constructing a chair ONLY out of cardboard | 1000 points total |
-| 12 | Advanced Modeling | Further exploring 3D modeling skills, and techniques with a connecting project | 1000 points total |
+| 5 | Dimensioning | Using drafting tools to construct basic shapes | 1000 points total |
+| 6 | Basic Geometry in Drafting | Using drafting tools to construct basic shapes | 1000 points total |
+| 7 | Multiview Drawing | Orthographic projections, Isometrics, object visualization, finishing a drawing | 1000 points total |
+| 8 | Modeling | Orthographic projections, Isometrics, object visualization, finishing a drawing | 1000 points total |
+| 9 | Reverse Engineering | Dimensioning elements, measuring systems, dimensioning features for size, notes | 1000 points total |
+| 10 | Puzzle Cube Design Challenge | Design challenge incorporating orthographic and isometrics | 1000 points total |
+| 11 | Advanced Modeling | Deconstructing a current object and innovating it after fully understanding its internal mechanisms | 1000 points total |
+| 12 | Design Research Project | Designing and constructing a chair ONLY out of cardboard | 1000 points total |
+| 13 | Cardboard Chair Challenge | Further exploring 3D modeling skills, and techniques with a connecting project | 1000 points total |
 
 ### Course Calendar
 
