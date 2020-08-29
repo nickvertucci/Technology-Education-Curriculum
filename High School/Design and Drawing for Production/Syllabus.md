@@ -56,35 +56,16 @@ The overall grading of the course is weighted as indicated below:
 
 | Unit Number | Unit Title | Description | Point Total |
 | ------------- | ------------- | ------------- | ------------- |
-| 1 | Introduction  | Introductory to course units, expectations and The Design Process | 1000 points total |
-| 2 | The Design Process and Tools | First look into sketches, mechanical or computer drawing, presentations, and problem-solving | 1000 points total |
-| 3 | Lettering | Pencil techniques, styles of lettering, guidelines, lettering with pen | 1000 points total |
-| 4 | Alphabet of Lines | Sketching equipment, techniques, and problem-solving | 1000 points total |
-| 5 | Dimensioning | Using drafting tools to construct basic shapes | 1000 points total |
-| 6 | Basic Geometry in Drafting | Using drafting tools to construct basic shapes | 1000 points total |
-| 7 | Multiview Drawing | Orthographic projections, Isometrics, object visualization, finishing a drawing | 1000 points total |
-| 8 | Modeling | Orthographic projections, Isometrics, object visualization, finishing a drawing | 1000 points total |
-| 9 | Reverse Engineering | Dimensioning elements, measuring systems, dimensioning features for size, notes | 1000 points total |
-| 10 | Puzzle Cube Design Challenge | Design challenge incorporating orthographic and isometrics | 1000 points total |
-| 11 | Advanced Modeling | Deconstructing a current object and innovating it after fully understanding its internal mechanisms | 1000 points total |
-| 12 | Design Research Project | Designing and constructing a chair ONLY out of cardboard | 1000 points total |
-| 13 | Cardboard Chair Challenge | Further exploring 3D modeling skills, and techniques with a connecting project | 1000 points total |
-
-### Course Calendar
-
-The school year has a total of 43 weeks, which include breaks and holidays. Units are scheduled to run within or close to these allocated school calendar weeks:
-
-| Unit Number | Unit Title | Calendar Weeks |
-| ------------- | ------------- | ------------- |
-| 1 | Introduction & The Design Process | 1-3 |
-| 2 | The Design Process and Tools | 4-5 |
-| 3 | Lettering | 6-7 |
-| 4 | Alphabet of Lines | 8-9 |
-| 5 | Basic Geometry in Drafting | 10-11 |
-| 6 | Multiview Drawing | 12-16 |
-| 7 | Dimensioning | 17-19 |
-| 8 | Modeling | 20-25 |
-| 9 | Puzzle Cube Design Challenge | 26-30 |
-| 10 | Reverse Engineering | 31-34 |
-| 11 | Cardboard Chair Challenge | 35-39 |
-| 12 | Advanced Modeling | ??? |
+| 1 | Introduction  | Introduction to course units, expectations, and grading policy | 1000 points total |
+| 2 | The Design Process and Tools | Investigation into the Design Process, the difference between the scientific method and usage | 1000 |
+| 3 | Lettering | Pencil techniques, styles of lettering, guidelines, lettering with pen | 1000 |
+| 4 | Alphabet of Lines | Line types, line type usage and characteristics of line types | 1000 |
+| 5 | Dimensioning | Measuring and dimensioning standards and when to use | 1000 |
+| 6 | Basic Geometry in Drafting | Using drafting tools to construct basic shapes | 1000 |
+| 7 | Multiview Drawing | Orthographic projections, Isometrics, object visualization, finishing a drawing | 1000 |
+| 8 | Modeling | Using design principles to construct and build scaled models | 1000 |
+| 9 | Reverse Engineering | Students selects a product or object of choice and breakdowns each component to scale | 1000 |
+| 10 | Puzzle Cube Design Challenge | Design challenge incorporating orthographics and isometrics | 1000 |
+| 11 | Advanced Modeling | Transitioning from paper to digital construct space, using CAD to create and design artifacts | 1000 |
+| 12 | Design Research Project | Selection of a product with deep research and  analysis that is data driven | 1000 |
+| 13 | Cardboard Chair Challenge | A design challenge using ONLY cardboard to construct a functional chair | 1000 |
