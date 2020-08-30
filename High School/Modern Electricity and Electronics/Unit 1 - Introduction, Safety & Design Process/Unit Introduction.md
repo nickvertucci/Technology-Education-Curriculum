@@ -15,10 +15,8 @@ SWBAT:
 ### Unit Outline
 
 - Section 1 - Syllabus Overview and Classroom Operation
-- Section 2 - Drafting as a Problem-Solving Tool
-- Section 3 - Drafting as a Design Tool
-- Section 4 - Models
-- Section 5 - Engineering & Design Process
+- Section 2 - Careers In Electricity and Electronics
+- Section 3 - Safety
 
 ### Unit Schedule
 
