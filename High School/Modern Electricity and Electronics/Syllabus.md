@@ -51,13 +51,13 @@ The overall grading of the course is weighted as indicated below:
 
 | Unit Number | Unit Title | Description | Point Total |
 | ------------- | ------------- | ------------- | ------------- |
-| 1 | Introduction, Safety & Design Process | Introductory to course units, expectations and The Design Process | 1000 points total |
-| 2 | Electrical Circuits, Devices, Soldering | Introduction to types of circuits, the devices that receive and transmit and how they are constructed | 1000 points total |
-| 3 | Ohm's Law | The theory behind how electricity is organized, maintained, and utilized | 1000 points total |
-| 4 | Series Circuits | Defining what a series circuit is and what it does. | 1000 points total |
-| 5 | Parallel Circuits | Defining what a parallel circuit is and what it does. | 1000 points total |
-| 6 | TinkerCAD Circuits | Virtual LAB work understanding schematics, building circuits, and testing | 1000 points total |
-| 7 | Building Circuits On A Breadboard | Hands-on lab work understanding schematics, building circuits | 1000 points total |
-| 8 | Schematic builds | Lab work specifically on reading and designing circuits  | 1000 points total |
-| 9 | Arduino builds | They control our infrastructure and any complex electrical component. What are microcontrollers? | 1000 points total |
-| 10 | Residential Wiring | Introduction to the installation and maintenance of residential wiring and electricity. | 1000 points total |
+| 1 | Introduction, Safety & Design Process | Introductory to course units, expectations and The Design Process | 1000 |
+| 2 | Electrical Circuits, Devices, Soldering | Introduction to types of circuits, the devices that receive and transmit and how they are constructed | 1000 |
+| 3 | Ohm's Law | The theory behind how electricity is organized, maintained, and utilized | 1000 |
+| 4 | Series Circuits | Defining what a series circuit is and what it does. | 1000 |
+| 5 | Parallel Circuits | Defining what a parallel circuit is and what it does. | 1000 |
+| 6 | TinkerCAD Circuits | Virtual LAB work understanding schematics, building circuits, and testing | 1000 |
+| 7 | Building Circuits On A Breadboard | Hands-on lab work understanding schematics, building circuits | 1000 |
+| 8 | Schematic builds | Lab work specifically on reading and designing circuits  | 1000 |
+| 9 | Arduino builds | They control our infrastructure and any complex electrical component. What are microcontrollers? | 1000 |
+| 10 | Residential Wiring | Introduction to the installation and maintenance of residential wiring and electricity. | 1000 |
