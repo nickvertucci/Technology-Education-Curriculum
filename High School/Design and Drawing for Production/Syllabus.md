@@ -52,6 +52,8 @@ The overall grading of the course is weighted as indicated below:
 | Pretests | 0% |
 | Tests | 13.75% |
 
+***For each day late, 10 points will be removed from the individual assignment, do now, or presentation grade. IF you anticipate or know that an assignment is going to be late due to unforeseen instances please contact me as soon as possible to develop an alternative submission or completion of the assignment, presentation or do now.***
+
 ### Course Units And Descriptions
 
 | Unit Number | Unit Title | Description | Point Total |

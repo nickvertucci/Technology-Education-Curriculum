@@ -33,6 +33,8 @@ Effective storage of projects and organization of materials is critical to stude
 
 - 1 x folder
 - 1 x 3 ring binder with paper OR bounded notebook for notes, sketches and ideation
+- 1 x Bound Notebook for **Engineering Journal**  (composition notebook)
+    - The notebook must be bound and no pages can be added or removed. Students will record research, experimental data and observations, calculations, mentor contacts, relevant vocabulary, and ideas for future research within the notebook. You will receive a rubric outlining the notebook requirements to reference throughout the course.
 ***Laptops are allowed and encouraged as long as they are utilized towards course work and not a distraction or they will not be permitted in class. All students are provided the G Suite of tools via Google and their school account.***
 
 ### Course Category Grading
