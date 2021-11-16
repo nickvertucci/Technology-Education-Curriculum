@@ -5,7 +5,7 @@ Course | 1 Credit | Prerequisite: World Of Technology
 ## Course Syllabus
 
   - Teacher: Mr. Vertucci
-  - Email: nvertucci@swr.k12.ny.us
+  - Email: nvertucci@swrschools.org
   - Twitter: @VertucciTechED
   - Extra Help: by appointment only
 
