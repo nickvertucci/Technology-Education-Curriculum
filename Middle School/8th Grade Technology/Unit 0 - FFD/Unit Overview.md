@@ -1,6 +1,4 @@
-# Design and Drawing for Production
-Course #1220 | 1 Credit | Prerequisite: NONE
-  - *May be taken for Regents credit to satisfy the High School Art/Music requirement.*
+# 8th Grade Technology
 
 ## Course Syllabus
 
@@ -22,7 +20,3 @@ required woodworking equipment to complete these projects. The student receives 
 help them gain competence in two and three view, section and isometric drawings. In addition,
 you will use SketchUp, a 3D design software package from Google, to help you design solutions
 to different projects.
-
-### Course Objectives
-
-### Course Grading
